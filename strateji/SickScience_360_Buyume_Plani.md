@@ -1,9 +1,10 @@
-# SickScience Labs — 360° Büyüme Planı: 1M $ → 3M $
+# SickScience Labs — 360° Büyüme Planı: ~6.5M $ → ~20M $
 
 > **Hazırlayan:** Ajans stratejisi (masa başı araştırma + kamuya açık veriler)
 > **Tarih:** 30 Eylül 2026
-> **Varsayım:** Brief gereği mevcut yıllık ciro **1.000.000 $** kabul edilmiştir. Hedef: **18–24 ayda 3.000.000 $ (3x)**.
-> **Not:** Kamuya açık bir kaynakta (BeautyMatter, *Next 50 – 2026*) markanın 2026 ciro projeksiyonu 5–8M $ olarak geçiyor. Plan, brief'teki 1M $ tabanına göre kurgulandı; oranlar ve kaldıraçlar farklı bir tabanda da aynı şekilde geçerlidir.
+> **Taban:** BeautyMatter (*Next 50 – 2026*) markanın **2026 ciro projeksiyonunu 5–8M $** olarak veriyor. Plan bu aralığın ortası olan **~6.5M $ (2026 tahmini)** üzerine kuruldu.
+> **Hedef:** **2028 sonunda ~20M $ (3x)**. Bu, markanın kendi açıkladığı "3–5 yılda 40M $+ yıllık ciro" hedefinin ara durağıdır.
+> **Uyarı:** 6.5M $ bir *projeksiyondur*, gerçekleşen ciro değildir. Kanal dağılımı ajans tahminidir; gerçek verilerle (bkz. Bölüm 8) kalibre edilmelidir. Taban 5M $ çıkarsa hedef ~15M $, 8M $ çıkarsa ~24M $ olur; kaldıraçlar aynıdır.
 
 ---
 
@@ -16,16 +17,19 @@
 
 **Sorun:** Marka şu an "tek kahraman ürün + dağınık kanal" yapısında. ShapeShift dışındaki ürünlerin sosyal kanıtı zayıf (34–124 yorum), ürün isimleri bir sistem oluşturmuyor, teklifler sığ (bundle indirimi %8–20), sadakat/garanti/abonelik teşviki görünür değil ve kanallar (DTC, Amazon, TikTok Shop, Ulta) birbirini besleyen tek bir motor gibi çalışmıyor.
 
-**3x formülü — 5 büyüme motoru:**
+**Bu ölçekte asıl mesele:** 6.5M $'dan 20M $'a performans reklamı optimizasyonuyla gidilmez. Üç şey gerekir: **(1) 2. ve 3. kahraman ürün**, **(2) Ulta'yı raf tutan markadan kategori lideri markaya taşımak**, **(3) marka bilinirliği** (sadece dönüşüm reklamı değil, CTV/OOH/PR ile talep yaratmak).
+
+**3x formülü — 6 büyüme motoru (2026T → 2028H):**
 
 | # | Motor | Ciroya katkısı (+) |
 |---|---|---|
-| 1 | **TikTok Shop + creator ordusu** (affiliate 150 → 1.500 creator, LIVE, GMV Max) | +350K $ |
-| 2 | **DTC dönüşüm & tekrar satın alma** (rejim bundle, abonelik, sadakat, AOV 75 → 95 $) | +650K $ |
-| 3 | **Ulta sell-through** (mağaza içi eğitim, etkinlikler, Ulta medya ağı, yerel TikTok trafiği) | +350K $ |
-| 4 | **Amazon ölçekleme** (Vine, A+, Brand Store, S&S, video reklam) | +350K $ |
-| 5 | **Yeni gelir hatları** (GLP-1 Yüz Sistemi 2.0, Biofiller lansmanı, profesyonel/medspa kanalı, uluslararası) | +300K $ |
-| | **Toplam** | **+2.0M $ → 3.0M $** |
+| 1 | **DTC: abonelik + LTV makinesi** (rejim bundle, sadakat, AOV 75 → 95 $, 2 yeni kahraman ürün) | +3.4M $ |
+| 2 | **Ulta: kategori liderliği** (757 → ~1.300+ kapı, endcap, SKU genişletme, sell-through) | +2.9M $ |
+| 3 | **Amazon ölçekleme** (kategori #1 hedefi, S&S, video + DSP, Prime Day) | +2.2M $ |
+| 4 | **TikTok Shop + creator ordusu** (5.000 aktif affiliate, LIVE stüdyosu, GMV Max) | +1.7M $ |
+| 5 | **Uluslararası** (Kanada, UK, Körfez, Türkiye) | +1.8M $ |
+| 6 | **Profesyonel kanal + NX35™ lisanslama (B2B)** | +1.5M $ |
+| | **Toplam** | **+13.5M $ → ~20M $** |
 
 **Büyük fikir (kampanya platformu):** **"Skip the Needle. Send the Signal."** — *İğneyi atla, hücrene sinyali gönder.*
 Enjeksiyon/klinik prosedür kaygısı olan ama sonuç isteyen tüketiciye, "bilim insanlarının yaptığı iğnesiz alternatif" olarak konumlanmak.
@@ -169,8 +173,9 @@ Bu, "koleksiyonu tamamlama" psikolojisini ve rejim satışını tetikler; Ulta r
 
 ### 4.3 TikTok Shop & Creator/Affiliate Motoru (en hızlı kaldıraç)
 
-**Hedef: TikTok Shop cirosu ~100K $ → ~450K $**
-1. **Affiliate havuzu:** 150 → **1.500 aktif creator**. Aylık 300–500 ücretsiz ürün örneği; komisyon %20–25 (kahraman üründe lansman döneminde %30).
+**Hedef: TikTok Shop cirosu ~0.8M $ → ~2.5M $**
+1. **Affiliate havuzu:** **5.000 aktif creator** (ayda en az 1 video paylaşan). Aylık 1.500–2.500 ücretsiz ürün örneği; komisyon %20–25 (kahraman üründe lansman döneminde %30). Bu hacim için bir affiliate yönetim platformu (örn. Reacher/Euka tipi otomasyon) ve 2 kişilik creator ekibi gerekir.
+   - **Kendi LIVE stüdyosu:** Haftada 10+ saat canlı yayın; TikTok Shop'ta canlı yayın cirosu tipik olarak toplamın %15–25'ine ulaşır.
 2. **Tiering:** Nano (1–10K) hacim için · Mikro (10–100K) dönüşüm için · Makro/derm/estetisyen otorite için.
 3. **Niş creator kümeleri:** GLP-1 yolculuğu hesapları · 40+ güzellik · erkek grooming/looksmaxxing · saç dökülmesi · estetik hemşire/dermatolog.
 4. **Spark Ads + GMV Max:** en iyi organik creator videoları reklam olarak ölçeklenir.
@@ -180,19 +185,21 @@ Bu, "koleksiyonu tamamlama" psikolojisini ve rejim satışını tetikler; Ulta r
 
 ### 4.4 Performans Pazarlama (Paid Media)
 
-**Önerilen medya dağılımı (aylık, 3M $ yıllık tempoda ~70–85K $):**
+**Bütçe:** 2027'de ~3.5M $ çalışma medyası (ayda ~290K $, cironun ~%30'u), 2028'de ~5.5M $ (~%27). Bu ölçekte bütçenin **%15–20'si üst huni marka bilinirliğine** ayrılmalı; yalnızca performans reklamıyla 20M $'a ulaşılmaz, çünkü edinim maliyeti (CAC) hızla yükselir.
+
 | Kanal | Pay | Rol |
 |---|---|---|
-| Meta (Advantage+ Shopping, Reels) | %40 | Ana DTC edinimi, 35+ kitleler |
-| TikTok Ads (Spark, GMV Max) | %25 | Shop + genç/erkek kitle |
-| Google (Search marka koruma, PMax, YouTube Shorts) | %15 | Talep yakalama, "exosome serum" aramaları |
-| Amazon Ads (SP/SB/SBV/DSP) | %15 | Amazon ölçek |
-| Test (Pinterest, AppLovin, CTV, Reddit) | %5 | Yeni kanal keşfi |
+| Meta (Advantage+ Shopping, Reels) | %35 | Ana DTC edinimi, 35+ kitleler |
+| TikTok Ads (Spark, GMV Max) | %20 | Shop + genç/erkek kitle |
+| Amazon Ads (SP/SB/SBV/DSP) | %15 | Amazon ölçek, kategori sıralaması |
+| Google (Search marka koruma, PMax, YouTube) | %12 | Talep yakalama, "exosome serum" aramaları |
+| **Marka bilinirliği: CTV (Hulu/YouTube TV), podcast, OOH (NY/LA/Miami), influencer tentpole** | %13 | Talep yaratma, Ulta trafiği |
+| Test (Pinterest, AppLovin, Reddit) | %5 | Yeni kanal keşfi |
 
 **Kurallar:**
 - Hedef **blended MER ≥ 3.0**, yeni müşteri CAC ≤ 45 $, ilk sipariş katkı marjı pozitif veya LTV ile 90 günde geri dönüş.
 - Ulta mağazalarına yakın bölgelerde "**Now at Ulta**" geo-hedefli reklamlar (DTC kanibalizasyonunu değil, perakende sell-through'u besler).
-- Aylık **post-purchase anket** ("Bizi nereden duydunuz?") + basit MMM ile gerçek atıf.
+- Aylık **post-purchase anket** ("Bizi nereden duydunuz?"), **MMM** (medya karması modellemesi, örn. Recast/Northbeam) ve çeyreklik **artımlılık (incrementality) testleri**. Bu ölçekte, platformların kendi raporladığı atıf verisiyle bütçe yönetmek para kaybettirir.
 
 ### 4.5 DTC Web Sitesi — Dönüşüm (CRO)
 
@@ -219,7 +226,7 @@ Bu, "koleksiyonu tamamlama" psikolojisini ve rejim satışını tetikler; Ulta r
 
 ### 4.7 Amazon
 
-**Hedef: ~200K $ → ~550K $**
+**Hedef: ~1.3M $ → ~3.5M $** — "exosome serum", "neck firming", "hair growth serum" alt kategorilerinde **#1 Best Seller** rozeti.
 - **Brand Registry + Transparency** (sahte ürün/yetkisiz satıcı kontrolü), MAP politikası.
 - **Vine** ile düşük yorumlu SKU'lara (NetWork, DropOff) 30'ar yorum.
 - A+ Premium içerik, Brand Story, Brand Store (sorun odaklı), ana görsellerde klinik iddia infografikleri.
@@ -229,20 +236,32 @@ Bu, "koleksiyonu tamamlama" psikolojisini ve rejim satışını tetikler; Ulta r
 
 ### 4.8 Perakende — Ulta (ve sonrası)
 
-**Hedef: ~150K $ → ~500K $ (sell-through odaklı)**
+**Hedef: ~1.6M $ → ~4.5M $ (toptan satış cirosu)**
+- **Kapı genişletme:** 757 → **~1.300+ mağaza** (Ulta'nın neredeyse tamamı). Genişleme, ilk 757 mağazada kanıtlanan satış hızına bağlıdır. Ulta'ya en iyi %20 mağazanın performans verisiyle gidilmeli.
+- **Raftaki yer:** 4 SKU'dan 8–10 SKU'ya (yeni kahraman ürünler, mini boylar, setler). Endcap ve "What's New" alanları için co-op bütçesi ayrılmalı.
+- **Ulta özel ürün:** Ulta'ya özel set veya boy (örn. ShapeShift 50 ml "Ulta Exclusive"). Hem ilişkiyi güçlendirir hem DTC ile fiyat çatışmasını önler.
 - **Mağaza içi:** Tester + QR ile before/after videosu, raf konuşmacısı "Skip the Needle", deneme boyları kasa önünde.
 - **Eğitim:** Ulta Beauty Advisor eğitim kiti + teşvik (SPIFF), bölgesel eğitim turları.
 - **Ulta programları:** 21 Days of Beauty, Gorgeous Hair Event (PowerCycle), Ulta Beauty Collective (UBC) medya ağı, GWP (hediye) setleri, Ulta Beauty Rewards puan kampanyaları.
 - **Trafik taşıma:** Creator'lara "Ulta'da buldum" formatı; Ulta affiliate/Rakuten linkleri; mağaza bulucu.
 - **Veri:** Mağaza bazında haftalık sell-through; en iyi %20 mağazaya ek facing talebi, en kötü %20'de lokal aktivasyon.
-- **Sonraki adım (12+ ay):** Profesyonel kanal önceliklendirilmeli; ikinci ulusal perakendeci (Sephora vb.) Ulta ilişkisini riske atmadan, ancak sell-through kanıtlandıktan sonra değerlendirilmeli.
+- **Ulta Beauty at Target** (shop-in-shop) açılımı, Ulta ile konuşulacak doğal bir sonraki adımdır.
+- **Sephora vb. ikinci ulusal perakendeci** bu planda yoktur. Ulta'da kategori liderliği kurulmadan ikinci perakendeciye geçmek, hem Ulta ilişkisini hem sermayeyi riske atar. 2028 sonrası için değerlendirilmelidir.
 
 ### 4.9 Profesyonel Kanal (Medspa & Dermatoloji) — gizli kaldıraç
 
 NetWork'ün **yara iyileşmesi** kökeni ve ShapeShift'in prosedür alternatifi olması, klinik kanal için mükemmel bir hikâye.
 - **Post-prosedür kiti** (microneedling, lazer, RF sonrası) — kliniklerin sattığı toptan paket.
 - **Backbar** (profesyonel boy) + klinik personeli için affiliate kodu.
-- İlk 12 ayda 150–250 klinik hedefi; hem ciro (~100K $+) hem de "dermatolog önerisi" sosyal kanıtı.
+- 2027'de 300, 2028 sonunda **1.000+ klinik**. Hedef ~0.9M $ ciro + "dermatolog önerisi" sosyal kanıtı. Saha satış ekibi yerine medspa distribütörleri ve dijital toptan satış portalı kullanılmalı.
+- Profesyonel kanala özel, klinikte uygulanan "NX35 Pro" ürünü (microneedling ile uyumlu, yüksek konsantrasyonlu) → klinik kanalda rakiplerden (BENEV, ELEVAI, Plated) ayrışma.
+
+### 4.9b NX35™ Lisanslama / Hammadde (B2B)
+
+Kurucular uzun vadede hammadde iş modelini zaten dile getirmiş (Beauty Independent). 6.5M $ ölçeğinde bu artık erken değil:
+- NX35™'i **rakip olmayan kategorilerdeki** markalara lisanslamak (ör. saç bakımı, vücut bakımı, Asya pazarı, profesyonel markalar). "Powered by NX35™" etiketi ile ingredient-brand yaklaşımı.
+- **Hedef: 2028'de ~0.6M $** yüksek marjlı gelir. Ayrıca bilimsel kredibiliteyi artırır.
+- **Kural:** Hiçbir lisans, SickScience'ın kendi kahraman kategorilerinde (çene/boyun, saç derisi, GLP-1 yüz) rakip bir ürün yaratmamalı.
 
 ### 4.10 PR, Otorite & Bilimsel Kredibilite
 
@@ -262,51 +281,71 @@ NetWork'ün **yara iyileşmesi** kökeni ve ShapeShift'in prosedür alternatifi 
 | **Körfez (BAE/Suudi)** | Premium, V-line talebi, yüksek AOV | Distribütör + Namshi/Noon/Sephora ME |
 | **Türkiye** | Kurucu hikâyesi, basın kolaylığı, üretim yakınlığı | Trendyol/Hepsiburada + seçili eczane/eczane zinciri; fiyat yerelleştirme şart |
 
-Hedef: ilk 12 ayda 150K $ (toplam cironun ~%5'i) — ana pazardan odak çalmadan.
+**Hedef: 2028'de ~1.8M $** (toplam cironun ~%9'u).
+- **Sıralama:** Kanada (Q1 2027) → UK (Q2–Q3 2027) → Körfez (Q4 2027, distribütörle) → Türkiye (2028).
+- **Yapı:** Amerika dışında her pazarda DTC + Amazon ile başlanmalı. Perakende ancak bir yerel distribütör ciro garantisi verirse devreye girmeli.
+- **Uyum:** Her pazar için ayrı iddia ve etiket incelemesi gerekir. AB/UK kozmetik mevzuatı (CPNP/SCPN, sorumlu kişi atanması) ve Körfez ürün tescilleri zaman alır; lansmandan 6 ay önce başlanmalı.
 
 ### 4.12 Veri, Operasyon & Organizasyon
 
 - **Kuzey yıldızı metrikleri:** Katkı marjı sonrası ciro · Yeni müşteri sayısı · 90 günlük LTV/CAC · Ulta sell-through.
 - **Haftalık dashboard:** kanal bazında ciro, MER, CAC, AOV, abonelik sayısı, yorum hızı, creator yayın sayısı.
 - **Stok planlama:** Ulta + TikTok zirveleri için 12 haftalık tahmin; stoksuzluk = en pahalı kayıp.
-- **Ekip önerisi:** Growth Lead (performans+CRO), Creator/Affiliate Manager, CRM Manager, Amazon Specialist (veya ajans), Retail Marketing Manager (Ulta). Kreatif üretim: ajans + UGC havuzu.
+- **Ekip (20M $ ölçeği için):** CMO/VP Marketing · VP Sales (Ulta + uluslararası + profesyonel) · Head of Growth (performans, CRO, CRM) · Creator & Affiliate Lead (+2) · Amazon Lead (veya ajans) · Retail Marketing Manager · Brand/Creative Director + iç kreatif ekip · Demand Planner · Regulatory/Claims Manager. Toplam pazarlama ve satış ekibi ~12–15 kişi; kalan iş ajans ve UGC havuzuyla yürütülür.
+- **Tedarik zinciri:** Ulta genişlemesi ve uluslararası açılım için 3PL (çoklu depo), en az 16 haftalık tahmin, NX35™ hammadde kapasitesinin 3x talebe hazır olduğunun doğrulanması. Stoksuzluk, bu ölçekte en pahalı kayıptır.
+- **Finansman:** 3x büyüme işletme sermayesi ister (stok, Ulta alacakları, medya). Gelir bazlı finansman veya stok kredisi ile desteklenmiş bir **Seri A** turu değerlendirilmeli. Hedef hikâye: "6.5M $ → 20M $, %47 geri dönüş, 757 → 1.300 Ulta kapısı, patentli teknoloji."
 
 ---
 
-## 5. Finansal Köprü — 1M $'dan 3M $'a
+## 5. Finansal Köprü — ~6.5M $'dan ~20M $'a
 
-### 5.1 Kanal bazlı köprü (varsayımsal mevcut dağılım → 18–24 ay hedef)
+### 5.1 Yıllık rota
+| | 2026 (tahmin) | 2027 (hedef) | 2028 (hedef) |
+|---|---|---|---|
+| Net ciro | ~6.5M $ | ~11.5M $ | **~20M $** |
+| Yıllık büyüme | — | ~%77 | ~%74 |
+| Çalışma medyası | ? | ~3.5M $ | ~5.5M $ |
+| Aktif SKU | 4 (+ setler) | 7–8 | 10–12 |
+| Ulta kapısı | 757 | ~1.000 | ~1.300+ |
 
-| Kanal | Mevcut (varsayım) | Hedef | Büyüme | Ana kaldıraçlar |
+### 5.2 Kanal bazlı köprü (tahmini 2026 dağılımı → 2028 hedef)
+
+| Kanal | 2026T (ajans tahmini) | 2028H | Büyüme | Ana kaldıraçlar |
 |---|---|---|---|---|
-| DTC (Shopify) | 550K $ | 1.200K $ | 2.2x | CRO, quiz, abonelik, sadakat, AOV |
-| Amazon | 200K $ | 550K $ | 2.75x | Vine, A+, S&S, video reklam |
-| TikTok Shop | 100K $ | 450K $ | 4.5x | 1.500 affiliate, LIVE, GMV Max |
-| Ulta & perakende | 150K $ | 500K $ | 3.3x | Sell-through, etkinlikler, eğitim |
-| Profesyonel (medspa) | — | 150K $ | yeni | Post-prosedür kiti, backbar |
-| Uluslararası | — | 150K $ | yeni | Kanada, UK, Körfez, TR |
-| **Toplam** | **1.000K $** | **3.000K $** | **3.0x** | |
+| DTC (Shopify) | 2.6M $ (%40) | 6.0M $ | 2.3x | Abonelik, sadakat, AOV, yeni kahraman ürünler, marka bilinirliği |
+| Ulta (toptan satış) | 1.6M $ (%25) | 4.5M $ | 2.8x | 1.300+ kapı, 8–10 SKU, Ulta özel ürün, sell-through |
+| Amazon | 1.3M $ (%20) | 3.5M $ | 2.7x | Kategori #1, S&S, DSP, Prime Day |
+| TikTok Shop | 0.8M $ (%12) | 2.5M $ | 3.1x | 5.000 affiliate, LIVE stüdyosu, GMV Max |
+| Bağımsız perakende | 0.2M $ (%3) | 0.2M $ | — | Sabit tutulur (odak dağıtmamak için) |
+| Uluslararası | — | 1.8M $ | yeni | Kanada, UK, Körfez, TR |
+| Profesyonel (medspa/derm) | — | 0.9M $ | yeni | Post-prosedür kiti, NX35 Pro, 1.000+ klinik |
+| NX35™ lisanslama (B2B) | — | 0.6M $ | yeni | Rakip olmayan kategorilerde lisans |
+| **Toplam** | **~6.5M $** | **~20M $** | **~3.1x** | |
 
-> Yeni ürün lansmanları (GLP-1 System 2.0, Biofiller, Men) kanal rakamlarının içinde yer alır; toplamda hedeflenen katkıları ~400–500K $'dır.
+> **Ürün katkısı:** 2028 cirosunun ~%30–35'inin (6–7M $) 2026'dan sonra çıkan ürünlerden (GLP-1 System 2.0, Biofiller, Men, mini/value boylar, setler) gelmesi hedeflenir. Bu, ShapeShift'e bağımlılığı azaltmanın ölçütüdür.
 
-### 5.2 Birim ekonomi hedefleri
-| Metrik | Bugün (tahmini) | Hedef |
+### 5.3 Birim ekonomi hedefleri
+| Metrik | Bugün (tahmini) | 2028 hedef |
 |---|---|---|
 | AOV (DTC) | ~75 $ | 95 $ |
 | Dönüşüm oranı | ~%2.0 | %2.5+ |
 | Geri dönen müşteri | %47 | %55+ |
-| Aktif abone sayısı | ? | Toplam DTC cirosunun %25'i abonelikten |
-| Blended MER | ? | ≥ 3.0 |
-| Brüt marj | ~%75–80 | ≥ %75 (bundle indirimlerine rağmen) |
-| Pazarlama / ciro | ? | %28–35 |
+| Abonelikten gelen DTC cirosu | ? | %30 |
+| Blended MER (tüm kanallar) | ? | ≥ 3.5 |
+| Brüt marj (karma) | ? | ≥ %70 (Ulta toptan fiyatı ve uluslararası distribütör marjı karma marjı düşürür) |
+| Pazarlama + satış / ciro | ? | %27–32 |
+| Katkı marjı (pazarlama sonrası) | ? | ≥ %25 |
 
-### 5.3 Yatırım ihtiyacı (kabaca)
-- **Medya:** yıllık ~850K–1M $ (3M $ tempoda)
-- **Creator ürün örnekleri + komisyon:** ~150K $ (komisyon satış bazlı, değişken)
-- **Kreatif/içerik üretimi:** ~120–180K $
-- **CRO/teknoloji/CRM araçları:** ~50K $
-- **Perakende pazarlama (Ulta co-op, tester, eğitim):** ~100–150K $
-- **Klinik çalışma + white paper:** ~40–80K $
+### 5.4 Yatırım ihtiyacı (2027–2028 toplam, kabaca)
+- **Çalışma medyası:** ~9M $ (2027: 3.5M $, 2028: 5.5M $)
+- **Creator örnekleri + komisyon:** ~1.5–2M $ (komisyon satış bazlı, değişken)
+- **Kreatif ve içerik üretimi (iç ekip + ajans + UGC):** ~1.2M $
+- **Ulta co-op, tester, endcap, eğitim:** ~1.5M $
+- **Uluslararası tescil, lansman ve lokalizasyon:** ~0.6M $
+- **Klinik çalışmalar + white paper + danışma kurulu:** ~0.3M $
+- **Yeni ürün Ar-Ge ve lansman:** ~0.5M $
+- **Ekip genişlemesi:** ~1.5–2M $/yıl
+- **İşletme sermayesi (stok + Ulta alacakları):** 3x büyüme için ek ~3–4M $ nakit ihtiyacı → Seri A + stok finansmanı
 
 ---
 
@@ -317,31 +356,31 @@ Hedef: ilk 12 ayda 150K $ (toplam cironun ~%5'i) — ana pazardan odak çalmadan
 - [ ] PDP'lere klinik sonuç grafikleri ve prosedür karşılaştırma tablosu
 - [ ] Amazon Vine: NetWork & DropOff
 - [ ] Kullanım koçluğu + yenileme e-posta akışları
-- [ ] TikTok Shop'ta 300 creator'a örnek gönderimi; en iyi 10 organik videoyu Spark Ads'e al
-- [ ] Hook kütüphanesi v1 (50 hook) + haftalık 25 kreatif testi başlat
-- [ ] "Now at Ulta" geo-hedefli kampanya
+- [ ] TikTok Shop'ta 1.000 creator'a örnek gönderimi; en iyi 20 organik videoyu Spark Ads'e al
+- [ ] Hook kütüphanesi v1 (100 hook) + haftalık 40+ kreatif testi başlat
+- [ ] "Now at Ulta" geo-hedefli kampanya + ilk 757 mağazanın sell-through raporu
 - [ ] Reklam/iddia uyum denetimi (claims audit)
+- [ ] MMM / artımlılık ölçüm altyapısı kurulumu
 
-### 90 gün
-- [ ] Quiz + kişiselleştirilmiş rejim
-- [ ] "The Lab" sadakat + referans programı
-- [ ] Tatil setleri (3 fiyat noktası) ve BFCM planı (DTC + Amazon + TikTok Shop + Ulta)
+### Q4 2026 (BFCM & tatil)
+- [ ] Tatil setleri (3 fiyat noktası), Ulta özel tatil seti
+- [ ] BFCM planı: DTC + Amazon + TikTok Shop + Ulta takvim senkronu
+- [ ] Quiz + kişiselleştirilmiş rejim; "The Lab" sadakat + referans programı
 - [ ] "Ask the Scientist" serisi + köken hikâyesi filmi
-- [ ] Deneme boyu (mini) SKU lansmanı
-- [ ] Ulta Beauty Advisor eğitim turu
+- [ ] Mini (deneme boyu) SKU lansmanı
 
-### 6–12 ay
-- [ ] GLP-1 Facial Recovery System 2.0 büyük lansman (kategori sahipliği kampanyası)
-- [ ] Profesyonel kanal pilotu (50 klinik → 150+)
-- [ ] Klinik white paper + Bilimsel Danışma Kurulu
-- [ ] ShapeShift Men / erkek segmenti kampanyası
-- [ ] Kanada açılışı
+### 2027 — "Kategori liderliği" yılı (~11.5M $)
+- [ ] **Q1:** GLP-1 Facial Recovery System 2.0 büyük lansman + ilk CTV/podcast marka kampanyası · Kanada açılışı · Ulta Beauty Advisor eğitim turu
+- [ ] **Q2:** **Topikal Biofiller** (2. kahraman ürün) lansmanı: DTC'de lansman, 6 hafta sonra Ulta · Klinik white paper + Bilimsel Danışma Kurulu · Profesyonel kanal pilotu (300 klinik)
+- [ ] **Q3:** UK açılışı · ShapeShift Men kampanyası · Ulta kapı genişlemesi (~1.000) · Seri A turu
+- [ ] **Q4:** Körfez (distribütör) · ilk NX35™ lisans anlaşması · Tatil + BFCM
 
-### 12–24 ay
-- [ ] Topikal Biofiller lansmanı (2. kahraman ürün)
-- [ ] UK/Körfez/Türkiye açılımı
-- [ ] İkinci ulusal perakende ortağı değerlendirmesi (sell-through verisiyle)
-- [ ] Ingestible veya cihaz iş birliği ile rejim ekosistemi
+### 2028 — "Ölçek" yılı (~20M $)
+- [ ] Ulta ~1.300+ kapı, 8–10 SKU; Ulta Beauty at Target görüşmesi
+- [ ] 3. kahraman ürün (ingestible veya cihaz iş birliği) → rejim ekosistemi
+- [ ] Türkiye açılışı; UK'de perakende (Cult Beauty/Space NK)
+- [ ] Profesyonel kanal 1.000+ klinik; NX35 Pro
+- [ ] 2029+ için ikinci ulusal perakendeci ve 40M $ yol haritası
 
 ---
 
@@ -351,7 +390,9 @@ Hedef: ilk 12 ayda 150K $ (toplam cironun ~%5'i) — ana pazardan odak çalmadan
 2. **GLP-1 ifadesi:** İlaç ismi/marka (Ozempic, Wegovy) kullanımı ve ilaçla ilişkilendirme dikkatli yapılmalı; "kilo verme yolculuğu sonrası cilt" dili daha güvenli.
 3. **Kanal çatışması:** DTC indirimleri Ulta ve Amazon fiyatlarını bozmamalı → MAP ve kampanya takvimi senkronu.
 4. **Tek ürün bağımlılığı:** ShapeShift talebi düşerse → 2. kahraman (Biofiller / GLP-1 System) zamanında hazır olmalı.
-5. **Stok & nakit:** Perakende + TikTok patlamaları nakit bağlar; 3x büyüme için işletme sermayesi planı gerekli.
+5. **Stok & nakit:** Ulta genişlemesi + TikTok patlamaları nakit bağlar; 3x büyüme ~3–4M $ ek işletme sermayesi ister. Finansman gecikirse stoksuzluk ve büyüme kaybı yaşanır.
+6. **Ulta performans riski:** İlk 757 kapıda sell-through zayıf kalırsa genişleme durur, raf kaybedilebilir. Planın en kritik bağımlılığı budur; ilk 6 ay mağaza verisi haftalık izlenmeli.
+7. **CAC enflasyonu:** Ölçek büyüdükçe performans reklamının maliyeti artar. Marka bilinirliği yatırımı ve artımlılık ölçümü bu yüzden şarttır.
 
 ---
 
