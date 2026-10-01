@@ -1,0 +1,8 @@
+# Batch 07 — PR: CNN Underscored "Editor Favorite" (PowerCycle) — 2026-10-01
+Kaynak: kullanıcının paylaştığı CNN Underscored ekran görüntüsü (sayfa HTTP 451, doğrudan çekilemedi). Kullanılan ifadeler birebir: "Editor Favorite" · "Get 20% off one-time purchase … with code SSL20CNN through Oct. 5" · $64 → $51 · "Within three weeks of use, Shaw said her mom noticed an improvement in her strands."
+Figma: "SS · PR — CNN Underscored" (89:32) — Story/Feed/Square. Haber yayını estetiği: üstte yeşil haber şeridi (JUST IN + kod/teklif), "AS FEATURED IN CNN UNDERSCORED", EDITOR FAVORITE. (FAVORITE yeşil), alıntı, altta teklif şartı. CNN logosu kullanılmadı (metin).
+Görsel: output/batch-07-pr-cnn/pr-studio-a.png (seçilen), -b.png yedek — gece haber stüdyosu, parlak siyah haber masası, @ss-powercycle tek, arkada bulanık yeşil/mor monitörler, üstten spot. Üst yarıya koyu "Photo shade" gradyanı.
+
+## v2 (2026-10-01) — bilinirlik odaklı, teklif YOK
+Kullanıcı: önceki "editoryal sayfa kopyası" PR'lar (Drive "Ad that looks like editorial": RealSimple/InStyle/Vogue birebir sayfa kopyası) perform etmedi; amaç haberin paylaşıldığını anlatmak, indirim konuşulmaz. CNN onaylı → logo/haber/ekran görüntüsü kullanılabilir.
+Figma: "SS · PR — CNN Underscored v2" (91:36). Arka plan pr-studio-b (büyük PowerCycle, stüdyo). Üstüne gerçek ekran görüntüsünden yırtık kâğıt kupürleri (output/batch-07-pr-cnn/clip-headline-shadow.png = CNN Underscored logosu + başlık + yazar/tarih; clip-editor-favorite-shadow.png = "Editor Favorite" + ürün adı), ±3° eğik, gölge PNG'ye gömülü. "IN THE NEWS" kicker. İndirim satırı içeren gövde kupürü (clip-body.png) kullanılmadı.
