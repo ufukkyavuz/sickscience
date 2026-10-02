@@ -80,7 +80,7 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`output/batch-01/`). Şablo
 - Sadece marka kitabında geçen sayı/iddia/ödül kullanılır. Doğrulanmamış dozaj yazılmaz ("2 pumps", "1 ml" YOK; PowerCycle kullanım sıklığı sitede tutarsız → sıklık yazma).
 - Etki iddiaları "-looking" ile yumuşatılır (sculpted-looking, thicker-looking); istatistikte * + "Clinical evaluation / Consumer perception study. Individual results may vary."
 - Teklif satırı sahnedeki ürünle eşleşir (tek ürün sahnesine duo fiyatı konmaz).
-- Ödüller (2026-10-02 doğrulandı, kullanıcı: "ödüller nerden gelmiş kanıtla"): SADECE sitede geçen kullanılır. ShapeShift = "2024 REAL SIMPLE Award Winner - Best Jawline & Neck Treatment" (PDP açıklaması) ✅ · PowerCycle = yalnızca "Award Winner" etiketi (detay yok) · DropOff / NetWork = ödül YOK. Oprah Daily ve Men's Health sitede yok → KULLANMA. Rozet tasarımı sade (ince çerçeveli metin), dolgu renkli/sarı daire rozet yok.
+- Ödüller (2026-10-02 doğrulandı, kullanıcı: "ödüller nerden gelmiş kanıtla"): SADECE sitede geçen kullanılır. ShapeShift = "2024 REAL SIMPLE Award Winner - Best Jawline & Neck Treatment" (PDP açıklaması) ✅ · PowerCycle = yalnızca "Award Winner" etiketi (detay yok) · NetWork = **2026 Beacon Awards Winner — Product Launch: Skincare** (Beauty Independent, 01.10.2026: "SickScience Labs took skincare honors for its concentrated serum NetWork"; 130+ aday, 25 uzman jüri; resmi Beacon logosu müşteriden geldi, `Products/awards/`) · DropOff = ödül YOK. Oprah Daily ve Men's Health sitede yok → KULLANMA. Rozet tasarımı sade (ince çerçeveli metin), dolgu renkli/sarı daire rozet yok.
 - Başlık 2 satırı geçmez; satır kırılımı elle (\n) verilir, sığmazsa punto küçültülür.
 
 ## Kullanıcının Figma düzeltmeleri — BOZMA (2026-10-01)

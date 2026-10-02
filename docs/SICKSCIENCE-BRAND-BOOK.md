@@ -25,6 +25,7 @@
 - **ShapeShift:** 2024 REAL SIMPLE Best Jawline & Neck Treatment · Shop TODAY Mature Beauty Award · Today Show'da yer aldı · CNN Underscored incelemesi
 - **DropOff:** ⚠ "2025 Oprah Daily O-Award" sitede DOĞRULANMADI (dış araştırma, kullanma) · Coveteur editörünün alıntısı ("sleek blue tube… carry-on friendly")
 - **PowerCycle:** ⚠ "2025 Men's Health Grooming Award" sitede DOĞRULANMADI; sitede yalnızca "Award Winner" etiketi var
+- **NetWork:** ✅ **2026 Beacon Awards Winner — Product Launch: Skincare** (Beauty Independent, 01.10.2026, 130+ aday / 25 uzman jüri). Kaynak: https://www.beautyindependent.com/jolie-alaffia-salt-stone-lepoque-parfums-megababe-more-win-2026-beacon-awards/
 - Diğer: InStyle, Cosmopolitan, Women's Health, NewBeauty, Fashionista, Robb Report, GCI Magazine
 
 ---
