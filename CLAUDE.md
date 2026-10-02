@@ -97,3 +97,6 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`output/batch-01/`). Şablo
 - Amaç bilinirlik: haberin paylaşıldığını anlat (gerçek ekran görüntüsünden yırtık kâğıt kupürleri + editör kartı + gerçek before/after kupürleri). Sayfanın birebir kopyası "native editoryal" görseller daha önce perform etmedi (Drive: "Ad that looks like editorial").
 - Arka plan AÇIK, ferah, bilimsel (gün ışığında beyaz lab tezgâhı). Koyu/dramatik zemin + gazete kupürü = "cinayet haberi" etkisi → kullanma. Açık zeminde logo 29:219 (Black and Pink), yazılar koyu.
 - CNN Underscored ile anlaşma var: logo, haber metni ve ekran görüntüsü kullanılabilir.
+
+## Fotografik prompt formatı — ZORUNLU (kullanıcı, 2026-10-02: "fotografik görsellerde promptlarını bu şekilde vericen")
+Tüm fotografik Higgsfield prompt'ları **[prompts/TEMPLATE-photographic.md](prompts/TEMPLATE-photographic.md)** bölümleriyle ve sırasıyla yazılır: açılış satırı (element) → kimlik koruma paragrafı → PRODUCT ORIENTATION → COMPOSITION AND FRAMING → SCALE (gerçek cm) → LIGHT AND SHADOW → BACKGROUND → PHOTOGRAPHIC FINISH → Negative listesi. Tek paragraflık eski prompt yapısı kullanılmaz. SCALE için ürün cm ölçüleri kullanıcıdan alınacak.
