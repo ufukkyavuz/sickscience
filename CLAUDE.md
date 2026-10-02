@@ -111,3 +111,8 @@ Tüm fotografik Higgsfield prompt'ları **[prompts/TEMPLATE-photographic.md](pro
 - Teklif metni paragraf olmaz: ödül = rozet/hap, fiyat = büyük yeni fiyat + üstü çizili eski + SAVE hapı.
 - Story'de ürün 270–1250 px safe band içinde ve büyük olmalı.
 - Kullanıcıya ara ekran görüntüsü gönderme; işi bitir, son hali tek seferde göster.
+
+## Rakip uyarlamaları (batch-09, 2026-10-02)
+- Meta Ad Library (girişsiz) çalışıyor: `facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q="Marka"&search_type=keyword_exact_phrase&media_type=all` (image filtresi girişsiz boş dönüyor). Görselleri sayfada grid overlay ile toplu incele.
+- Higgsfield mention'ı JS ile seç (bkz. prompts/batch-09…); ürün boyu yüzdesi tutmuyor → format kırpımları Python kompozitörle yapılır.
+- Vücut önce/sonra (DropOff) Meta politikası açısından riskli; yayın öncesi uyar.
