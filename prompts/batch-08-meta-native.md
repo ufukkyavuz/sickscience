@@ -16,3 +16,10 @@ Risk notu: "GLP-1" + "you/your" ifadeleri Meta kişisel özellik (personal attri
 - E "Not a pill" KALDIRILDI (ürün gerçek dışı küçük) → "i am THIS close": emoji el (emoji-close.png), parmak uçlarının arasında küçük mesaj ("to a more sculpted-looking jawline" vb.), ürün sağda gerçek boyutta.
 - Yeni: "Life's too short for…" 2 kartlı carousel (PC drain / SS bad-angle selfie / NW five concealers → ürün kartı: site Key Benefit + Real Results), "Ask the PhD" story (PowerCycle, site Description cümlesi).
 - Karikatür meme'lere DOKUNULMAZ (kullanıcı onayladı).
+
+## v3 (2026-10-02)
+- Buzdağı: yeni görsel iceberg-front-b.png (tam karşıdan, su hattı %40, düz). Su üstü etiketler tepe yanında, su altı paragraf ortalı + gölge, ürün ortada, rozet yanında.
+- "i am THIS close": el büyük, parmak boşluğu ~(560, 1010/700/570), mesaj boşlukta; ürün satırı başlık altında; ürün sağ altta elin dışında.
+- Award badge: laurel bileşeni (166:55), altın; sadece ShapeShift (2024 Real Simple) ve PowerCycle ("Award Winner" — site etiketi).
+- Yeni satır 7: UGC "Ask me anything!" IG story (ugc-*.png selfie + IG UI + Libre Baskerville cevap kutuları). Hesap @sicksciencelabs, cevaplar site metni — sahte kişisel yorum YOK.
+- Yeni satır 8: Grüns grup karikatürü (group-*.png) — "… AFTER ONE OF US FOUND <ÜRÜN>"; beden alayı yok, "biri ürünü bulmuş" kurgusu.
