@@ -27,11 +27,15 @@ Teknik prompt kuralları INO projesiyle aynı. Tam kural seti: `../INO Claude Ad
   - ShapeShift: **opak beyaz, yoğun krem-serum**; kalın, tepecikli swatch.
   - NetWork: **inci gibi ışıltılı opak beyaz krem-serum**; ince sedefli parıltı.
   - PowerCycle: **şeffaf, renksiz, hafif viskoz sıvı serum**; damlalıktan tek damla. Altın renk değil.
-- **Ürün ölçüleri henüz doğrulanmadı.** 30 ml kapsül, 60 ml kapsül ve 100 ml tüpün cm ölçüleri kullanıcıdan alınınca buraya yazılacak. INO'daki gibi ölçek hataları burada da beklenir.
+- **Ürün ölçüleri (kullanıcı, 2026-10-02) — her prompt'un SCALE bölümüne yazılır:**
+  - ShapeShift kapsül: 12 cm boy, 3.5 cm çap · NetWork kapsül: 12 cm boy, 3.5 cm çap · PowerCycle kapsül: 14 cm boy, 4.5 cm çap
+  - DropOff tüp: ~20 cm boy (şimdilik yaklaşık)
+  - Makyaj çantaları / On-the-Go pouch: 21 × 16 cm · Holografik tote: 30 × 40 × 10 cm
+  - Referans: yetişkin avuç ~18–19 cm → 12 cm kapsül elin ~2/3'ü. "If in doubt make the products smaller, never bigger."
 
 ## Higgsfield elementleri (2026-10-01, kaynak: müşterinin PNG'leri `Products/png/`)
 `@ss-shapeshift` `@ss-network` `@ss-powercycle` `@ss-dropoff` `@ss-guasha` · kapağı açık: `@ss-open-shapeshift` (beyaz pompa) `@ss-open-network` (beyaz pompa) `@ss-open-powercycle` (damlalık).
-- Kapsül boyları aynı (30 ml ve 60 ml kapsül aynı silüet); DropOff tüpü kapsülün ~1.3 katı.
+- Kapsül ölçüleri: SS/NW 12×3.5 cm, PC 14×4.5 cm; DropOff tüpü ~20 cm (kapsülün ~1.6 katı).
 - Prompt'ta "@element" kelimesini düz yazma — Higgsfield onu çözülmemiş (kırmızı) mention yapıyor; "element reference" yaz.
 - Gönderim: proje `higgsfield.ai/generate/@residential_walrus_super/sickscience`, Image modu, 4:5, 2K, Unlimited. Prompt kayıtları `prompts/`, çıktılar `output/`.
 - ⚠ Composer "Nano Banana Pro" gösterse de Unlimited işleri API'de `nano_banana_2` olarak kayıtlı çıktı (batch-01) — kullanıcıya soruldu.
@@ -40,7 +44,7 @@ Teknik prompt kuralları INO projesiyle aynı. Tam kural seti: `../INO Claude Ad
 ### Set / çanta / hediye elementleri (2026-10-01)
 - Setler (gerçek ölçekli şeffaf PNG, `Products/sets/`): `@ss-set-vault` (PC+DO+SS) · `@ss-set-award-duo` (SS+PC) · `@ss-set-body-duo` (DO+SS) · `@ss-set-head-to-toe` (PC+DO) · `@ss-set-sculpted-duo` (SS+gua sha) · `@ss-set-glp1` (NW+SS+gua sha). Prompt'ta "exactly N products, no extra product" yaz.
 - On-the-Go (site fotoğrafı, pouch+ürün): `@ss-otg-shapeshift` `@ss-otg-network` `@ss-otg-powercycle` `@ss-otg-dropoff`
-- Çantalar: `@ss-pouch-purple` `@ss-pouch-orange` `@ss-pouch-blue` `@ss-pouch-red` `@ss-pouch-green` (~22×15 cm file pouch) · `@ss-tote` (holografik) · `@ss-white-bag` (stokta yok)
+- Çantalar: `@ss-pouch-purple` `@ss-pouch-orange` `@ss-pouch-blue` `@ss-pouch-red` `@ss-pouch-green` (21×16 cm pouch) · `@ss-tote` (holografik) · `@ss-white-bag` (stokta yok)
 - Hediye kartı: `@ss-giftcard`
 
 ## Üretim akışı (2026-10-01 kararı): görsel YAZISIZ üretilir, metin Figma'da yazılır

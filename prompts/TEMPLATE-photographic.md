@@ -17,7 +17,7 @@ Tüm fotografik (gerçekçi sahne) Higgsfield prompt'ları bu bölümlerle ve bu
 ## SickScience uyarlaması
 - Proje kuralları geçerliliğini korur: yazısız üretim (Figma'da metin), ürün dokuları, model yaşı (30'lar), geniş açı insanlı kareler, renk kodları.
 - Kapsül ürünler için kimlik detayı: "top half glossy metallic [violet/red/green] chrome cap, bottom half mirror-polished silver chrome, rounded pill silhouette, vertical white printed text on a black stripe". DropOff: "glossy cobalt squeeze tube standing on its blue screw cap".
-- **SCALE için gerçek ölçüler gerekli** — 30 ml / 60 ml kapsül ve 100 ml DropOff tüpünün cm ölçüleri henüz doğrulanmadı (kullanıcıdan alınacak). O zamana kadar yaklaşık değer yazılırsa "approximately" denir ve "if in doubt make the products smaller" eklenir.
+- **SCALE ölçüleri (kullanıcı, 2026-10-02):** ShapeShift ve NetWork kapsül 12 cm boy / 3.5 cm çap · PowerCycle kapsül 14 cm boy / 4.5 cm çap · DropOff tüp ~20 cm boy · makyaj çantası/pouch 21 × 16 cm · tote 30 × 40 × 10 cm. Elde tutulan sahnede: "an adult palm is about 18 cm long, so the 12 cm capsule is about two-thirds of the hand length". Her zaman "if in doubt make the products smaller, never bigger" eklenir.
 
 ## Örnek (kullanıcının verdiği, birebir)
 
