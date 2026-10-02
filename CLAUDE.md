@@ -76,7 +76,7 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`output/batch-01/`). Şablo
 - Sadece marka kitabında geçen sayı/iddia/ödül kullanılır. Doğrulanmamış dozaj yazılmaz ("2 pumps", "1 ml" YOK; PowerCycle kullanım sıklığı sitede tutarsız → sıklık yazma).
 - Etki iddiaları "-looking" ile yumuşatılır (sculpted-looking, thicker-looking); istatistikte * + "Clinical evaluation / Consumer perception study. Individual results may vary."
 - Teklif satırı sahnedeki ürünle eşleşir (tek ürün sahnesine duo fiyatı konmaz).
-- Ödüller kozdur: ShapeShift 2024 Real Simple Best Jawline & Neck · DropOff 2025 Oprah Daily O-Award Best Body Cream · PowerCycle 2025 Men's Health Grooming Award.
+- Ödüller (2026-10-02 doğrulandı, kullanıcı: "ödüller nerden gelmiş kanıtla"): SADECE sitede geçen kullanılır. ShapeShift = "2024 REAL SIMPLE Award Winner - Best Jawline & Neck Treatment" (PDP açıklaması) ✅ · PowerCycle = yalnızca "Award Winner" etiketi (detay yok) · DropOff / NetWork = ödül YOK. Oprah Daily ve Men's Health sitede yok → KULLANMA. Rozet tasarımı sade (ince çerçeveli metin), dolgu renkli/sarı daire rozet yok.
 - Başlık 2 satırı geçmez; satır kırılımı elle (\n) verilir, sığmazsa punto küçültülür.
 
 ## Kullanıcının Figma düzeltmeleri — BOZMA (2026-10-01)
