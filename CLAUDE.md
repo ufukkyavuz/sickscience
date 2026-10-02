@@ -100,3 +100,10 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`output/batch-01/`). Şablo
 
 ## Fotografik prompt formatı — ZORUNLU (kullanıcı, 2026-10-02: "fotografik görsellerde promptlarını bu şekilde vericen")
 Tüm fotografik Higgsfield prompt'ları **[prompts/TEMPLATE-photographic.md](prompts/TEMPLATE-photographic.md)** bölümleriyle ve sırasıyla yazılır: açılış satırı (element) → kimlik koruma paragrafı → PRODUCT ORIENTATION → COMPOSITION AND FRAMING → SCALE (gerçek cm) → LIGHT AND SHADOW → BACKGROUND → PHOTOGRAPHIC FINISH → Negative listesi. Tek paragraflık eski prompt yapısı kullanılmaz. SCALE için ürün cm ölçüleri kullanıcıdan alınacak.
+
+## Meta native kreatif notları (kullanıcı, 2026-10-02)
+- Karikatür (2×2 meme) kreatifler onaylı — DOKUNMA.
+- Referansı birebir oku: "i am THIS close" = emoji el + parmak arasına küçük yazıyla mesaj. Ürünü gerçek boyutundan küçük gösteren sahne (parmakla tutulan dev hap) YOK.
+- Teklif metni paragraf olmaz: ödül = rozet/hap, fiyat = büyük yeni fiyat + üstü çizili eski + SAVE hapı.
+- Story'de ürün 270–1250 px safe band içinde ve büyük olmalı.
+- Kullanıcıya ara ekran görüntüsü gönderme; işi bitir, son hali tek seferde göster.
