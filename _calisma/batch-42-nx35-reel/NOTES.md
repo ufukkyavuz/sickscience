@@ -22,3 +22,12 @@ Cut (15.7 s):
 7. The film's own logo ending + SickScienceLabs.com.
 
 No comment CTA. Music: mgaudio future_bass, -14 LUFS.
+
+## v2: UGC hybrid (u42b, 19.8 s), the recommended version
+- **Why:** in the exosome report, talking-to-camera reels get ~5× the plays of aesthetic montages (median 24K vs 4.8K). In Skincare, talking-head has the highest median of any format (149K). The niche's strongest hooks (warning, hot take) are spoken by a person.
+- **Talking clips:** the existing ShapeShift UGC from batch-28, so no new credits:
+  - `c16_D_problem`: "Most neck creams only work on the surface… dependent on procedures."
+  - `c15b_C_ingredients`: "…NX35™ Sculpt technology, caffeine and niacinamide."
+- **B-roll:** the brand film, cutting in on "surface/results" and on "NX35™". Then the steel gua sha → 92% → logo.
+- **Not used:** `c18_C_howto`, because it shows a pink stone gua sha (ours is stainless steel).
+- **Next step if approved (credits):** a new Kling talking-head saying the hot take out loud, e.g. "Everyone's getting exosomes with needles. This one's plant-based. No needles, no downtime." Needs approval: about 2 clips × 8.75 credits.
