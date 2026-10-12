@@ -2,6 +2,8 @@
 
 User: "Get niche report for jawline serum and NX35™ exosome technology using Buzzfy MCP, edit a reel using the footage on drive folder."
 
+> **Status (2026-10-12): an alternate concept; it has not been rendered.** The Mac Mini session already cut this reel from brand footage: 15.7 s, hook "Exosomes. No needles." (the site's own line), files in `_calisma/batch-42-nx35-reel/` with notes in `NOTES.md`, on branch `claude/agency-rules-and-knowledge`. Both concepts read the exosome report the same way. Use this pineapple version only as an A/B variant if the user asks for one.
+
 ## Buzzfy data used
 Three sources:
 - the **exosome skincare** report: 150 reels, built 2026-10-12, report `844bf204-9534-48e3-b433-aa4274830b6d` (summary below)
