@@ -10,7 +10,22 @@ Three sources:
 - the main **Skincare** report: 150 reels, built 2026-10-08, report `bcaf8d78-b343-4778-810e-6ecf69873247`
 - Buzzfy's **Viral Reels Playbook** ("openings")
 
-"jawline serum" returned not_enough (no credit used). The broader "jawline sculpting" report is building (build `9b5c8f5d-ea49-40c0-966a-d0a9fcfd915c`); add it here when it lands.
+"jawline serum" returned not_enough (no credit used). The broader **jawline sculpting** report is in: 146 reels, built 2026-10-12, report `202f0a60-ddf2-44ce-89a3-ef0c7d728e35`.
+
+**What the jawline sculpting data says.**
+- **Format.** Tutorial/demo dominates (77% of reels, ≈426k). Product showcase is the weakest format (≈61k overall, ≈115k on smaller accounts). People watch the *technique* (face exercises, gua sha/massage, contour placement), not the product.
+- **Hooks, smaller accounts:** hot take ≈2.7M (n=3), before/after tag ≈705k (n=10), free/hack tag ≈602k (n=7). How-to is the most common (n=24, ≈119k). Question ≈106k (n=9).
+- **Hooks, verified accounts:** free/hack ≈3.1M (n=5), visual-only ≈2.7M (n=6), how-to ≈1.2M (n=28).
+- **Recurring formats:** correct ❌ vs wrong ✅ side by side, and "do X every day" routines.
+- **Length and pace.** Median length is **18.5 s** (verified 21 s, smaller 14.6 s), which fits our ≤20 s rule. First cut at about 3.2–3.9 s. 75% of reels have no CTA.
+
+**What this means for the Mac session's reel (15.7 s, "Exosomes. No needles."):**
+- The hot-take hook and the length both fit; no re-render is needed.
+- Optional v2, if one is wanted:
+  - Make the upward gua sha/application move the main beat, starting by about 3 s. It runs 7.4–10.2 s now.
+  - Use the Day 1 → Day 14 footage (`1out78NMIk9uhxHN8pQr1wH_aN9RO0DTQ`) as a before/after beat.
+  - Cut product-only shots down.
+- Claims stay site-only: "1–2 pumps, upward, twice daily" and "One minute, morning and night" are the routine lines.
 
 **What the exosome skincare data says** (median plays; n is small in most rows, so read it as direction, not proof).
 - **Hook types, verified accounts:** warning ≈404k (n=4), curiosity/secret ≈201k (n=6), hot take ≈174k (n=6), did-you-know ≈136k (n=3).
