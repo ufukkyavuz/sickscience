@@ -3,9 +3,27 @@
 User: "Get niche report for jawline serum and NX35™ exosome technology using Buzzfy MCP, edit a reel using the footage on drive folder."
 
 ## Buzzfy data used
-The narrower reports "jawline serum" and "exosome skincare" are queued. Buzzfy builds one narrow report at a time, and the lip & cheek stick report is ahead of them. Until they land, the decisions below rest on two sources:
+Three sources:
+- the **exosome skincare** report: 150 reels, built 2026-10-12, report `844bf204-9534-48e3-b433-aa4274830b6d` (summary below)
 - the main **Skincare** report: 150 reels, built 2026-10-08, report `bcaf8d78-b343-4778-810e-6ecf69873247`
 - Buzzfy's **Viral Reels Playbook** ("openings")
+
+"jawline serum" returned not_enough (no credit used). The broader "jawline sculpting" report is building (build `9b5c8f5d-ea49-40c0-966a-d0a9fcfd915c`); add it here when it lands.
+
+**What the exosome skincare data says** (median plays; n is small in most rows, so read it as direction, not proof).
+- **Hook types, verified accounts:** warning ≈404k (n=4), curiosity/secret ≈201k (n=6), hot take ≈174k (n=6), did-you-know ≈136k (n=3).
+- **Hook types, smaller accounts:** question is the most common opening (n=11) but its median is only ≈5.6k. List/number ≈51k (n=3), relatable moment ≈51k (n=4).
+- **Format.** Product showcase is half of the niche (49%, ≈16k). Talking head leads for verified accounts (≈24k).
+- **CTA.** 75% of reels have no CTA.
+- **Length and pace.** Median length 34 s; first cut at about 3.5 s; about 0.14 cuts/s.
+- **The conversation in this niche:** dermatologists posting hot takes that plant-derived exosomes are overhyped next to clinical ones, and warnings against exosome injections. Exosome reels are mostly about clinic treatments; the "clinic treatment at home" angle also performs (≈832k for one reel).
+
+**What this changes for the reel:**
+- **Never overclaim the exosomes.** No comparison to clinic or injected exosomes, and no "at-home treatment" framing. NX35™ is named exactly as the site names it, and the results are the site's own numbers.
+- **Hook: A/B test it.** In the exosome niche a plain question opens weakly for smaller accounts, while curiosity/secret openings do well for verified ones.
+  - **A** (question): "Why is there pineapple in my jawline serum?"
+  - **B** (curiosity statement): "Pineapple exosomes. In a jawline serum."
+  - Same cut for both; only the beat-1 text changes.
 
 **What the Skincare data says.** Compare median plays; smaller accounts are the relevant split for us.
 - **Hook types.** Result-first has the highest median (≈7.2M, n=5) but is weak evidence. Question hooks are the strongest for smaller accounts (≈778k, n=6). How-to is the most common type (n=28) at ≈215k.
@@ -31,7 +49,7 @@ The narrower reports "jawline serum" and "exosome skincare" are queued. Buzzfy b
 
 | # | Time | Source (Drive file id) | Shot | On-screen text (Founders Grotesk, white, safe band 270–1250 px) |
 |---|---|---|---|---|
-| 1 | 0.0–2.2 | ShapeShift – Ürün filmi – 9x16 (`1vJBxNKOdPUThUU03GLmSm0M3rHmPmuxB`) | Tightest gel-on-jaw or pump close-up, starting already in motion | **Why is there pineapple in my jawline serum?** |
+| 1 | 0.0–2.2 | ShapeShift – Ürün filmi – 9x16 (`1vJBxNKOdPUThUU03GLmSm0M3rHmPmuxB`) | Tightest gel-on-jaw or pump close-up, starting already in motion | **A:** Why is there pineapple in my jawline serum? · **B:** Pineapple exosomes. In a jawline serum. |
 | 2 | 2.2–5.6 | `01-nx35-signal` (`1uHzl49St99acnG-xxBSY65ZOTcheFeIU`), then `A-exosome-field` (`1GScDvHzpsjo-jH7BzEwNTbEeNc54xzav`) | Exosome / signal animation. Crop to 9:16 by scaling only. | **NX35™ Sculpt Technology** / *pineapple exosomes* |
 | 3 | 5.6–10.0 | Ürün filmi again | Upward application along jaw and neck, then product hero | **1–2 pumps. Upward. Twice daily.** |
 | 4 | 10.0–14.0 | Gloss Angeles Podcast – 1 Sculpted jawline 92% (`1rbutEkl5-RYUkImPNOSqaWn033xtyrnb`) | The line where the 92% is said, with the speaker's own audio up | **92% saw a more sculpted jawline** |
@@ -44,7 +62,7 @@ The narrower reports "jawline serum" and "exosome skincare" are queued. Buzzfy b
 - No captions burned over the podcast speaker's face.
 - If the NX35 loops carry NetWork branding or NetWork red, use only the neutral parts, or swap in `02-tiny-exosome` (`126ilOBgKjvuzH0zesilIG59bHZgtEQ2E`). ShapeShift must stay violet.
 - If any product shot in the source is distorted, cut away. Never paste a PNG into the video.
-- Delivery: `Teslim/2026-10 Ekim/01 UGC/ShapeShift – Pineapple exosomes – 9x16.mp4`.
+- Delivery: `Teslim/2026-10 Ekim/01 UGC/ShapeShift – Pineapple exosomes A – 9x16.mp4` and `… B – 9x16.mp4`.
 
 **Caption draft (Playbook: the caption carries the pitch):**
 > NX35™ Sculpt Technology = pineapple exosomes. ShapeShift's gel-serum supports the look of a contoured, sculpted neck and jawline. 92% saw a more sculpted jawline. 1–2 pumps, upward, twice daily. SickScienceLabs.com
@@ -52,4 +70,4 @@ The narrower reports "jawline serum" and "exosome skincare" are queued. Buzzfy b
 ## Production
 - **Where to render.** The cloud session cannot download the footage: the Drive connector only returns inline base64. Render on the Mac, where Drive is synced and ffmpeg plus the motion tools are available.
 - **How to hand it over.** Brief a Mac session per `kurallar/reference-cloud-to-mac-generation.md`.
-- **When the narrow reports land.** Re-check the hook and length choices against the jawline-serum and exosome-skincare reports, and update this file.
+- **When the jawline sculpting report lands.** Re-check the hook and length choices against it, and update this file.
