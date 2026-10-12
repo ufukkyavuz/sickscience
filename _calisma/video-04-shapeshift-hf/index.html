@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<title>ShapeShift — V-Line Jaw Defining Serum</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+  @font-face { font-family: "FG XCond"; src: url("assets/fonts/FoundersGroteskXCond-Bold.otf"); font-weight: 700; }
+  @font-face { font-family: "FG Cond"; src: url("assets/fonts/FoundersGroteskCond-Semibold.otf"); font-weight: 600; }
+  @font-face { font-family: "FG"; src: url("assets/fonts/FoundersGrotesk-Regular.otf"); font-weight: 400; }
+  @font-face { font-family: "FG"; src: url("assets/fonts/FoundersGrotesk-Medium.otf"); font-weight: 500; }
+  @font-face { font-family: "FG"; src: url("assets/fonts/FoundersGrotesk-Semibold.otf"); font-weight: 600; }
+  :root { --ink: #141414; --violet: #7300C7; --lilac: #EDE3F7; --white: #ffffff; }
+  html, body { margin: 0; background: #000; }
+  #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; font-family: "FG", sans-serif; color: var(--ink); }
+  .bg { position: absolute; inset: 0; background: linear-gradient(180deg, #f7f3fb 0%, #e9def4 100%); }
+  .media { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; object-fit: cover; }
+  .layer { position: absolute; inset: 0; pointer-events: none; }
+  .center { position: absolute; left: 0; width: 1080px; text-align: center; }
+  .scrim-top { position: absolute; left: 0; top: 0; width: 1080px; height: 760px; background: linear-gradient(180deg, rgba(255,255,255,0.88) 0%, rgba(255,255,255,0.72) 55%, rgba(255,255,255,0) 100%); }
+  #logo { position: absolute; left: 380px; top: 182px; width: 320px; height: auto; }
+  .kin { font-family: "FG XCond", sans-serif; font-weight: 700; text-transform: uppercase; line-height: 0.9; }
+  .word { display: inline-block; }
+  #h1 { top: 300px; font-size: 150px; }
+  #h1 .l2 { color: var(--violet); }
+  #name { top: 300px; font-size: 190px; text-transform: none; }
+  #desc { top: 480px; font-size: 52px; font-weight: 500; }
+  .eyebrow { font-family: "FG", sans-serif; font-weight: 600; font-size: 40px; letter-spacing: 0.12em; color: var(--violet); }
+  #ing-title { top: 280px; }
+  #i-hero, #i-end { transform-origin: 50% 30%; }
+  .chip { position: absolute; left: 50%; display: block; height: 76px; padding: 0 32px; border-radius: 38px; background: rgba(255,255,255,0.92); box-shadow: 0 10px 30px rgba(80, 30, 120, 0.12); font-family: "FG", sans-serif; font-weight: 600; font-size: 38px; line-height: 76px; white-space: nowrap; transform: translateX(-50%); }
+  .chip em { font-style: normal; font-weight: 400; color: #5b5560; }
+  #pct { top: 270px; font-size: 300px; color: var(--violet); }
+  #pct-sub { top: 560px; font-size: 56px; font-weight: 500; }
+  #end-name { top: 262px; font-size: 150px; text-transform: none; }
+  #price { position: absolute; left: 50%; top: 410px; display: block; height: 80px; padding: 0 40px; border-radius: 40px; background: var(--violet); color: var(--white); font-family: "FG", sans-serif; font-weight: 600; font-size: 42px; line-height: 80px; white-space: nowrap; transform: translateX(-50%); }
+  #award { position: absolute; left: 50%; top: 505px; display: block; font-family: "FG", sans-serif; font-size: 32px; line-height: 1.2; text-align: center; white-space: nowrap; transform: translateX(-50%); }
+  #award b { font-weight: 600; }
+  #cta { top: 1180px; font-family: "FG", sans-serif; font-weight: 600; font-size: 44px; }
+  .cap { position: absolute; left: 90px; width: 900px; top: 1130px; text-align: center; font-family: "FG Cond", sans-serif; font-weight: 600; font-size: 60px; line-height: 1.1; color: var(--white); text-shadow: 0 3px 18px rgba(0,0,0,0.45); }
+  .cap .on { color: #f1dcff; }
+  .flash { position: absolute; inset: 0; background: #fff; opacity: 0; }
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-width="1080" data-height="1920" data-duration="26">
+
+  <div class="bg"></div>
+
+  <!-- footage (direct root children) -->
+  <video id="v-hook" class="clip media" src="assets/hook.mp4" data-start="0" data-duration="2.75" data-media-start="0.3" data-track-index="1" muted playsinline></video>
+  <video id="v-disp" class="clip media" src="assets/dispense.mp4" data-start="2.5" data-duration="4.05" data-track-index="2" muted playsinline></video>
+  <img id="i-hero" class="clip media" src="assets/hero.png" data-start="6.3" data-duration="6.55" data-track-index="3" />
+  <video id="v-apply" class="clip media" src="assets/apply.mp4" data-start="12.6" data-duration="4.45" data-media-start="0.2" data-track-index="1" muted playsinline></video>
+  <video id="v-hook2" class="clip media" src="assets/hook.mp4" data-start="16.8" data-duration="3.55" data-media-start="4.0" data-track-index="2" muted playsinline></video>
+  <img id="i-end" class="clip media" src="assets/hero.png" data-start="20.1" data-duration="5.9" data-track-index="3" />
+
+  <!-- overlays -->
+  <section id="s-hook" class="clip layer" data-start="0" data-duration="2.5" data-track-index="5">
+    <div class="scrim-top"></div>
+    <div id="h1" class="center kin"><div><span class="word" id="w1">CHISEL</span> <span class="word" id="w2">YOUR</span></div><div class="l2"><span class="word" id="w3">JAWLINE</span></div><div class="l2"><span class="word" id="w4">IN 2 WEEKS.</span></div></div>
+  </section>
+
+  <section id="s-name" class="clip layer" data-start="2.5" data-duration="3.8" data-track-index="5">
+    <div class="scrim-top" style="opacity:0.7"></div>
+    <div id="name" class="center kin">ShapeShift</div>
+    <div id="desc" class="center">V-Line Jaw Defining Serum</div>
+    <div class="cap" id="cap-name">with NX35™ Sculpt Technology</div>
+  </section>
+
+  <section id="s-ing" class="clip layer" data-start="6.3" data-duration="6.3" data-track-index="5">
+    <div id="ing-title" class="center eyebrow">KEY INGREDIENTS</div>
+    <div class="chip" id="c1" style="top:340px">NX35™ Sculpt Technology</div>
+    <div class="chip" id="c2" style="top:430px"><em>from</em> Pineapple Exosomes</div>
+    <div class="chip" id="c3" style="top:520px; left:310px">Caffeine</div>
+    <div class="chip" id="c4" style="top:520px; left:690px">Niacinamide <em>(Vitamin B3)</em></div>
+  </section>
+
+  <section id="s-use" class="clip layer" data-start="12.6" data-duration="4.2" data-track-index="5">
+    <div class="center eyebrow" style="top:930px; color:#fff; text-shadow:0 2px 12px rgba(0,0,0,.35)">HOW TO USE</div>
+    <div class="chip" id="u1" style="top:990px">1–2 pumps</div>
+    <div class="chip" id="u2" style="top:1078px">Massage upward</div>
+    <div class="chip" id="u3" style="top:1166px">Twice daily</div>
+  </section>
+
+  <section id="s-stat" class="clip layer" data-start="16.8" data-duration="3.3" data-track-index="5">
+    <div class="scrim-top"></div>
+    <div id="pct" class="center kin"><span id="pct-num">0</span>%</div>
+    <div id="pct-sub" class="center">saw a more sculpted jawline</div>
+  </section>
+
+  <section id="s-end" class="clip layer" data-start="20.1" data-duration="5.9" data-track-index="5">
+    <div id="end-name" class="center kin">ShapeShift</div>
+    <div id="price">$64 &nbsp;·&nbsp; SickScienceLabs.com</div>
+    <div id="award"><b>2024 REAL SIMPLE Award Winner</b><br>Best Jawline &amp; Neck Treatment</div>
+  </section>
+
+  <div id="flash" class="flash"></div>
+  <img id="logo" src="assets/logo.png" />
+
+  <!-- audio -->
+  <audio id="a-vo" src="assets/vo.mp3" data-start="0" data-duration="26" data-track-index="10" data-volume="1"></audio>
+  <audio id="a-bgm" src="assets/bgm.mp3" data-start="0" data-duration="26" data-media-start="6" data-track-index="11" data-volume="0.22"></audio>
+  <audio id="a-sfx1" src="assets/sfx/whoosh-short.mp3" data-start="2.35" data-duration="1" data-track-index="12" data-volume="0.35"></audio>
+  <audio id="a-sfx2" src="assets/sfx/whoosh-short.mp3" data-start="6.15" data-duration="1" data-track-index="13" data-volume="0.35"></audio>
+  <audio id="a-sfx3" src="assets/sfx/whoosh-short.mp3" data-start="12.45" data-duration="1" data-track-index="12" data-volume="0.35"></audio>
+  <audio id="a-sfx4" src="assets/sfx/sparkle.mp3" data-start="16.9" data-duration="1.5" data-track-index="13" data-volume="0.4"></audio>
+  <audio id="a-sfx5" src="assets/sfx/whoosh-cinematic.mp3" data-start="19.9" data-duration="1.6" data-track-index="12" data-volume="0.35"></audio>
+</div>
+
+<script>
+  window.__timelines = window.__timelines || {};
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+
+  // persistent logo
+  tl.from("#logo", { opacity: 0, y: -12, duration: 0.5, ease: E }, 0.05);
+
+  // S1 hook — kinetic words on the VO beats
+  tl.fromTo("#v-hook", { scale: 1.08 }, { scale: 1.0, duration: 2.75, ease: "none" }, 0);
+  [["#w1", 0.0], ["#w2", 0.4], ["#w3", 0.58], ["#w4", 1.2]].forEach(([s, t]) =>
+    tl.from(s, { yPercent: 60, opacity: 0, duration: 0.35, ease: "back.out(1.6)" }, t));
+
+  // S2 product name
+  tl.fromTo("#v-disp", { opacity: 0, scale: 1.12 }, { opacity: 1, scale: 1.02, duration: 0.45, ease: E }, 2.5);
+  tl.to("#v-disp", { scale: 1.0, duration: 3.6, ease: "none" }, 2.95);
+  tl.from("#name", { opacity: 0, scale: 1.25, duration: 0.7, ease: E }, 2.62);
+  tl.from("#desc", { opacity: 0, y: 24, duration: 0.5, ease: E }, 3.7);
+  tl.from("#cap-name", { opacity: 0, y: 20, duration: 0.35, ease: E }, 5.8);
+
+  // S3 ingredients over hero
+  tl.fromTo("#i-hero", { opacity: 0, scale: 1.0 }, { opacity: 1, scale: 1.04, duration: 0.4, ease: E }, 6.3);
+  tl.to("#i-hero", { scale: 1.09, duration: 6.1, ease: "none" }, 6.7);
+  tl.from("#ing-title", { opacity: 0, y: 16, duration: 0.4, ease: E }, 6.4);
+  [["#c1", 6.38], ["#c2", 8.82], ["#c3", 10.56], ["#c4", 11.58]].forEach(([s, t]) =>
+    tl.from(s, { opacity: 0, y: 24, duration: 0.4, ease: "back.out(1.7)" }, t));
+
+  // S4 how to use
+  tl.fromTo("#v-apply", { opacity: 0, scale: 1.1 }, { opacity: 1, scale: 1.03, duration: 0.45, ease: E }, 12.6);
+  tl.to("#v-apply", { scale: 1.0, duration: 3.9, ease: "none" }, 13.05);
+  [["#u1", 12.7], ["#u2", 14.0], ["#u3", 15.04]].forEach(([s, t]) =>
+    tl.from(s, { opacity: 0, x: -60, duration: 0.4, ease: E }, t));
+
+  // S5 stat — count-up 0 → 92
+  tl.fromTo("#v-hook2", { opacity: 0 }, { opacity: 1, duration: 0.35, ease: E }, 16.8);
+  tl.fromTo("#v-hook2", { scale: 1.0 }, { scale: 1.06, duration: 3.55, ease: "none", immediateRender: false }, 16.8);
+  const counter = { v: 0 };
+  tl.to(counter, { v: 92, duration: 0.9, ease: "power2.out", onUpdate: () => {
+    document.getElementById("pct-num").textContent = Math.round(counter.v);
+  } }, 16.86);
+  tl.from("#pct", { scale: 0.7, opacity: 0, duration: 0.5, ease: "back.out(1.6)" }, 16.86);
+  tl.from("#pct-sub", { opacity: 0, y: 20, duration: 0.45, ease: E }, 17.76);
+
+  // S6 end card
+  tl.fromTo("#i-end", { opacity: 0, scale: 1.12 }, { opacity: 1, scale: 1.0, duration: 0.8, ease: E }, 20.1);
+  tl.to("#flash", { opacity: 0.55, duration: 0.12 }, 20.05);
+  tl.to("#flash", { opacity: 0, duration: 0.45 }, 20.17);
+  tl.from("#end-name", { opacity: 0, y: 30, duration: 0.55, ease: E }, 20.2);
+  tl.from("#price", { opacity: 0, scale: 0.6, duration: 0.45, ease: "back.out(2)" }, 21.2);
+  tl.from("#award", { opacity: 0, y: 20, duration: 0.5, ease: E }, 21.9);
+
+  // music: dip at the end
+  tl.to("#a-bgm", { volume: 0.32, duration: 0.6 }, 25.0);
+  tl.to("#a-bgm", { volume: 0.0, duration: 0.6 }, 25.4);
+
+  window.__timelines["main"] = tl;
+</script>
+</body>
+</html>

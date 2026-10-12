@@ -1,0 +1,32 @@
+- [SickScience client](sickscience-client.md) — agency onboarding done 2026-10-01; visuals follow INO workflow
+- [No framed photos, be creative](feedback-no-framed-photos-be-creative.md) — full-bleed or PNG only (videos too: no letterboxed blocks); ads must sell
+- [No template typography](feedback-no-template-typography.md) — big editorial headlines like batch-01; no mono eyebrows/text logos/stacked templates
+- [Young beautiful models, studio look](feedback-models-in-30s.md) — late 20s, beautiful, studio-campaign lighting; realistic skin
+- [Use site copy verbatim](feedback-use-site-copy-verbatim.md) — ingredients/benefits/stats exactly as on the PDP; no invented descriptions
+- [Photographic prompt format](feedback-photographic-prompt-format.md) — sectioned template: identity, orientation, composition, scale cm, light, background, finish, negatives
+- [Product dimensions](sickscience-product-dimensions.md) — real cm sizes of capsules, DropOff, pouches, tote for prompt SCALE
+- [No footnotes](feedback-no-footnotes.md) — never add disclaimer notes or * on stats
+- [Type scale & no blur](feedback-type-scale-and-no-blur.md) — min 32px text, same sizes all formats; formats by crop only, never blurred edges
+- [Check user edits before rebuild](feedback-check-user-edits-before-rebuild.md) — never delete/rebuild frames the user may have edited; ask first
+- [Brand font only](feedback-brand-font-only.md) — Founders Grotesk only, NO condensed cuts; never mono/handwriting fonts from references
+- [Product text white + NetWork spelling](feedback-product-text-white-and-network-spelling.md) — all on-product text pure white; "NetWork" capital W; use -v2 NW elements
+- [Show references next to designs](feedback-show-references-next-to-designs.md) — reference ad image beside each adapted row in Figma
+- [Product integrated, not pasted](feedback-product-integration-not-pasted.md) — INTEGRATION section in every prompt: same light, real reflections, contact shadow
+- [Gel-serum texture](feedback-product-texture-gel-serum.md) — all product contents translucent milky gel-serum; not opaque white, not clear
+- [Vary layouts per concept](feedback-vary-layouts.md) — never default to centred headline on top; each concept its own structure
+- [B/A must match the person](feedback-ba-must-match-person.md) — never put a name/age on someone else's before/after; rotate different B/A sets
+- [Gua sha is stainless steel](sickscience-guasha-stainless-steel.md) — silver steel tool, never pink rose quartz/stone
+- [Partner official logo](feedback-partner-official-logo.md) — Ulta etc. on props: official logo only, never AI-drawn text
+- [Vary product placement](feedback-vary-product-placement.md) — ode-style tilted/stacked still lifes; energetic model shots, product in hand at face depth; NOT quiet lifestyle sets
+- [Same image all formats](feedback-same-image-all-formats.md) — Story/Feed/Square crop ONE 9:16 master; never generate per-format images
+- [Check anatomy](feedback-check-anatomy.md) — count arms/hands before delivering model images; prompt 'exactly two arms'
+- [Measure product vs real PNG](feedback-measure-product-vs-real.md) — model images: compare product h/w and size-vs-face to real PNGs, fix before delivery
+- [Claude setup kit](reference-claude-setup-kit.md) — Drive/_claude-setup sync.sh push|pull keeps laptop + Mac mini in sync; push after memory changes
+- [Motion tools](reference-motion-tools.md) — ~/motion-tools: mgaudio music/SFX (-14 LUFS), transition atlas, breakdown.py, prompt library
+- [Render memory](feedback-render-memory.md) — stream frames, background jobs, max 2 renders at once on 16 GB; temp off Drive
+- [Videos max 20 s](feedback-video-max-20s.md) — every video ad ≤20 s incl. end card; drop beats, don't over-speed speech
+- [No pasted product in video](feedback-no-pasted-product-in-video.md) — generate product inside the photo (real PNG as reference); never paste PNG into scenes/end cards
+- [Stills = web UI Nano Banana Pro Unlimited](reference-higgsfield-unlim-mcp.md) — ALL stills in Higgsfield web composer, Nano Banana Pro 2K Unlimited; never MCP credits
+- [Podcast cut-down style](feedback-podcast-cutdown-style.md) — cut at sentence ends only; big dynamic word captions; punchy intro; per-camera crop
+- [IG organic = white, premium, graphic](feedback-ig-organic-premium.md) — organic posts: white bg, product as object, concept in the graphic; never ad-style headline on photo
+- [Delivery folders](feedback-delivery-folders.md) — finished videos only → Teslim/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/

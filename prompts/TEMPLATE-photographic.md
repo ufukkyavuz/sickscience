@@ -12,11 +12,12 @@ Tüm fotografik (gerçekçi sahne) Higgsfield prompt'ları bu bölümlerle ve bu
 6. **LIGHT AND SHADOW** — ışığın yönü ve karakteri, yansımalar/kostikler hiçbir baskılı yazının üstüne düşmez, tüm yazılar aydınlık ve okunur, dolgu ışığı.
 7. **BACKGROUND** — arka planda sadece ne olduğu; olmayacaklar (desen, merdiven, insan, gökyüzü…).
 8. **PHOTOGRAPHIC FINISH** — diyafram, malzeme dokuları tek tek (taş gözenekleri, kumaş, cam, metal, plastik), optik derinlik, ince grain, doğal renk, ton (high-key vb.), "All product text stays perfectly legible, sharp and accurate. Ultra photorealistic, hyperrealistic, indistinguishable from a real photograph, 8K detail."
+8b. **INTEGRATION** (2026-10-04, zorunlu) — ürün sahnede fotoğraflanmış olmalı: aynı ışık yönü/renk sıcaklığı, kromda ortamın gerçek yansımaları, gerçek temas gölgesi + zeminde hafif yansıma, sahneyle aynı netlik/grain/noise, kontur ve hale yok. Negatife composited/pasted/sticker look, halo, floating product eklenir.
 9. **Negative:** — virgülle ayrılmış liste: yanlış duruşlar, fazladan/uydurma ürün, sahte marka, yanlış yazım, ekstra yazı, büyük ürün, bulanık ürün, okunmaz yazı, istenmeyen objeler, renk kayması (orange/yellow cast), CGI, 3D render, plastik doku, HDR glow, watermark, sahneye uymayan şeyler.
 
 ## SickScience uyarlaması
-- Proje kuralları geçerliliğini korur: yazısız üretim (Figma'da metin), ürün dokuları, model yaşı (30'lar), geniş açı insanlı kareler, renk kodları.
-- Kapsül ürünler için kimlik detayı: "top half glossy metallic [violet/red/green] chrome cap, bottom half mirror-polished silver chrome, rounded pill silhouette, vertical white printed text on a black stripe". DropOff: "glossy cobalt squeeze tube standing on its blue screw cap".
+- Proje kuralları geçerliliğini korur: yazısız üretim (Figma'da metin), ürün dokusu (yarı şeffaf jel-serum: ne opak beyaz ne su berraklığında), model yaşı (20'lerin sonu, genç ve güzel; insanlı kareler stüdyo kampanya çekimi gibi), geniş açı insanlı kareler, renk kodları.
+- Kapsül ürünler için kimlik detayı: "top half glossy metallic [violet/red/green] chrome cap, bottom half mirror-polished silver chrome, rounded pill silhouette, vertical PURE WHITE printed text on a black stripe on both the cap and the silver half — never black or grey letters; NetWork is spelled with a capital N and capital W". DropOff: "glossy cobalt squeeze tube standing on its blue screw cap".
 - **SCALE ölçüleri (kullanıcı, 2026-10-02):** ShapeShift ve NetWork kapsül 12 cm boy / 3.5 cm çap · PowerCycle kapsül 14 cm boy / 4.5 cm çap · DropOff tüp ~20 cm boy · makyaj çantası/pouch 21 × 16 cm · tote 30 × 40 × 10 cm. Elde tutulan sahnede: "an adult palm is about 18 cm long, so the 12 cm capsule is about two-thirds of the hand length". Her zaman "if in doubt make the products smaller, never bigger" eklenir.
 
 ## Örnek (kullanıcının verdiği, birebir)

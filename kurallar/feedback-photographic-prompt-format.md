@@ -12,4 +12,4 @@ Every photographic (realistic scene) image prompt is written in the user's secti
 
 **Why:** user (2026-10-02) supplied this structure as the standard so results look more realistic; one-paragraph prompts are retired.
 
-**How to apply:** use it for all photographic Higgsfield prompts; keep project rules (textless, textures, model age, wide framing). Real product dimensions still needed from the user for SCALE. Related: [[sickscience-client]], [[feedback-models-in-30s]].
+**How to apply:** use it for all photographic Higgsfield prompts; keep project rules (textless, textures, model age, wide framing). SCALE uses the real sizes in [[sickscience-product-dimensions]]. Related: [[sickscience-client]], [[feedback-models-in-30s]].

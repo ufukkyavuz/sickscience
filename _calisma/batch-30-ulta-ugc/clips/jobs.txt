@@ -1,0 +1,6 @@
+u30_c1_ss_talk 237f77b6-4dfe-48ca-90ec-190ab17aaac6
+u30_c2_pc_talk 2212f55e-e2d1-48f0-a915-4044a2145acd
+u30_c3_gift_talk f6dfe685-99d2-4a8d-b81c-6ed9beabbe9c
+u30_c4_ss_macro cb34b635-96c4-4d6f-b40c-889e5b084dd3
+u30_c1_ss_talk(grip) a180774d-23da-446b-98ee-04cc304e9374
+u30_c2_pc_talk(grip) ede622bd-5c58-4fbc-a8e2-f4768d44924a

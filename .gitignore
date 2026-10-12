@@ -1,0 +1,18 @@
+# Bu depo SADECE metin tutar: kurallar, prompt kayıtları, araçlar, render script'leri.
+# Görseller, videolar, PDF'ler ve ürün dosyaları Google Drive'da kalır (Teslim/, _calisma/, Products/, Ulta/).
+# Yaklaşım: her şeyi yok say, sonra izinli dosya türlerini aç.
+*
+!*/
+!.gitignore
+!*.md
+!*.py
+!*.js
+!*.html
+!*.txt
+
+# büyük/üretilmiş metin dosyaları ve önizlemeler
+_calisma/**/frames/
+_calisma/**/preview*/
+_calisma/**/webm/
+**/node_modules/
+.DS_Store
