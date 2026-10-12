@@ -32,3 +32,4 @@
 - [Delivery folders](feedback-delivery-folders.md) — finished videos only → Teslim/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/
 - [SickScience repo](reference-sickscience-repo.md) — Drive folder = working copy of ufukkyavuz/sickscience (branch claude/agency-rules-and-knowledge); push = kurallar sync + commit + push
 - [Figma MCP capabilities](figma-yetenekler.md) — what the Figma MCP can/can't do on the SickScience file (live-tested by the cloud session 2026-10-12)
+- [Cloud → Mac generation](reference-cloud-to-mac-generation.md) — cloud session cannot reach Mac/Chrome; brief a Mac Remote-Control session via send_message, it generates with Unlimited; read its events to follow up
