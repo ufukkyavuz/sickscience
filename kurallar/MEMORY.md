@@ -30,3 +30,4 @@
 - [Podcast cut-down style](feedback-podcast-cutdown-style.md) — cut at sentence ends only; big dynamic word captions; punchy intro; per-camera crop
 - [IG organic = white, premium, graphic](feedback-ig-organic-premium.md) — organic posts: white bg, product as object, concept in the graphic; never ad-style headline on photo
 - [Delivery folders](feedback-delivery-folders.md) — finished videos only → Teslim/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/
+- [SickScience repo](reference-sickscience-repo.md) — Drive folder = working copy of ufukkyavuz/sickscience (branch claude/agency-rules-and-knowledge); push = kurallar sync + commit + push
