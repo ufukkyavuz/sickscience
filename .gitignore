@@ -9,6 +9,7 @@
 !*.js
 !*.html
 !*.txt
+!tools/hf_elements.json
 
 # büyük/üretilmiş metin dosyaları ve önizlemeler
 _calisma/**/frames/
