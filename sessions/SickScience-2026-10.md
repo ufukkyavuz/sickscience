@@ -72,3 +72,50 @@ Başka bir bilgisayarda devam ederken önce bunu, sonra proje klasöründeki `CL
 - New tools: `_calisma/batch-43-founder-toon/capsule_patch.py` (track + smooth + sub-pixel composite of a sharp product label), `render43.py`, `render43_ep.py` (per-episode end cards from brand films, URL without plate).
 - Client feedback (Polen, 2026-10-13): product film showed foam → new gel-serum pump clip ready; VO too sultry → 3 ElevenLabs voice samples sent, waiting for choice; Polen's hair should be jet black → sheet updated, existing episodes pending (a: regenerate ~100 Flow cr / b: recolour).
 - Observations 0035 (hinted ASR is not a pronunciation check), 0036 (tracked composites need temporal smoothing + consecutive-frame QA).
+
+### Linkler — 2026-10-13 oturumu
+**Çalışma alanları**
+- Higgsfield proje: https://higgsfield.ai/generate/@residential_walrus_super/sickscience
+- Google Flow proje (Veo klipleri): https://flow.google.com/project/9d3b1d8b-d9b1-4f4b-8f43-8677fb4f0f44
+- ElevenLabs Flow (ses denemeleri; Merve sesi + ürün filmi ses adayları): https://elevenlabs.io/app/flows/tudaHws9lSPT9jRuq7ou
+- Figma: https://www.figma.com/design/PHPZ7XLpEVMcUVVEcNTwmz/SickScience
+- GitHub repo: https://github.com/ufukkyavuz/sickscience (branch `claude/agency-rules-and-knowledge`)
+- Müşteri UGC Dropbox ("All UGC"): https://www.dropbox.com/scl/fo/6usaz92h135sgv7bm627k/AKlzvKIFmCkExsvI60PQjJ8?rlkey=siowdmdufxmei0t3aj664y815&dl=0
+- Kurucu fotoğrafları (kaynak): https://sicksciencelabs.com/pages/sickscience-labs
+- Ürün sayfası (copy kaynağı): https://sicksciencelabs.com/products/shapeshift
+
+**Higgsfield elementleri** (ID'ler `tools/hf_elements.json`)
+- `ss-founder-merve` 111e2c5b-aabb-4b64-800d-a0f8326a2b58
+- `ss-founder-polen` 3dae89b6-d0b3-4859-a10b-e5f49787c67e (eski, kahve saç)
+- `ss-founder-polen-v2` 1ae00a81-3075-4899-a806-f4037823788b (simsiyah saç — bundan sonra bu)
+
+**Karakter sheet'leri (Higgsfield çıktıları)**
+- Merve: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_072514_142bba89-6655-4c13-9532-21f88994c180.png
+- Polen v1: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_072620_659c8263-80fc-4cc5-a15d-d056fe4e7804.png
+- Polen v2 (siyah saç): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_201200_fe8b17aa-9e81-4406-85bc-22c8891ecddc.png
+
+**Bölüm sahne görselleri (Higgsfield, Unlimited)**
+- Ep1 S1 iki kurucu: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_073942_2f00d188-9f6a-4aad-b69f-8c98b2a481ae.png
+- Ep1 S2 Polen+kapsül: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_074030_65083992-30e7-43da-a316-0e40badb36e6.png
+- Ep1 S3 ürün (beyaz tezgâh): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_081915_64b7b236-4c49-4e6b-bb24-d2065876179f.png
+- Ep1 S4 kapanış (etiket düzeltilmiş kopya Drive'da `stills/e1_s4.png`): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_115736_8c6d68cc-c5ad-41ac-9200-2fd046b2d149.png
+- Ep2 S1 Polen hook: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_121539_84c2c074-3d62-4b7b-ac6a-a3ee6719830f.png
+- Ep2 S2 Merve + kapsül tezgâhta: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_130007_08618b6a-acdb-4268-96a5-cea881cd873a.png
+- Ep2 S3 jel damlası (kapaksız): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_125908_080f4046-6dc3-4214-b1c0-8db3efbac5c3.png
+- Ep3 S1 Merve uygulama: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_122622_3d710887-80de-4df0-882d-c8b85b466e6b.png
+- Ep3 S2 Polen gua sha: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_121655_75105b15-b8fb-4fbe-9624-e84d96c96a42.png
+- Ep3 S3 ShapeShift + gua sha: https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_122653_3b1ef6d6-dca0-4888-b674-1cb61d65c315.png
+- Ürün filmi yeni pompa (jel): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_201050_f14585fc-ce97-4552-91fe-397bba457347.png
+
+**Kullanılan video klipleri** (yerel kopyalar `_calisma/batch-43-founder-toon/clips/`)
+- Ep1 Merve (Veo, Higgsfield): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_111121_c1ebc54a-dd03-473b-8cc2-05f0f781227a.mp4
+- Ep1 Polen (Kling): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_085841_c079e66f-cac5-496f-83c9-5a60451c2437.mp4
+- Ep1 ürün b-roll (Kling): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_085843_fd50109f-8dae-4401-91d1-d8220315da23.mp4
+- Ep1 kapanış (Veo, Higgsfield): https://d8j0ntlcm91z4.cloudfront.net/user_32K9oJjn9hyqBmrRFwyN6jQbIPy/hf_20261013_120609_c28564c1-d376-4a6e-86b0-999d44965a49.mp4
+- Ep2/Ep3 Veo klipleri + ürün filmi pompa klibi: Google Flow projesinde (yukarıdaki link) — "Woman talking about exosomes", "Woman speaks about gel serum", "Woman applying serum on neck", "Woman demonstrating gua sha tech…", "Dispensing gel serum from bottle"
+
+**Teslim edilen videolar** (Drive: `Video/2026-10 Ekim/03 Animasyon/`)
+- ShapeShift – Kurucular Bölüm 1 – 9x16.mp4 (17,5 sn)
+- ShapeShift – Kurucular Bölüm 2 – 9x16.mp4 (16,4 sn)
+- ShapeShift – Kurucular Bölüm 3 – 9x16.mp4 (14,1 sn)
+- Ürün filmi revizyonu bekliyor: proje `~/OpenMontage/projects/shapeshift-v2` (yeni `assets/dispense.mp4` jel; eski köpük `dispense_OLD_foam.mp4`, eski ses `vo_OLD_sultry.mp3`); ses adayları `_calisma/video-03-shapeshift/vo_v2/`

@@ -151,9 +151,9 @@ Tüm formatlar 1080 px genişlik; telefonda ~1/3 ölçekte görünür. Bu yüzde
 - Higgsfield Unlimited artık aynı anda TEK üretim kabul ediyor; sıra Worker tabanlı döngüyle yürütülür (arka plan sekmesinde setTimeout yavaşlar).
 
 ## Klasör düzeni (kullanıcı, 2026-10-12)
-- `Teslim/<YYYY-MM Ay>/` = müşterinin gördüğü tek yer, SADECE bitmiş videolar (statikleri müşteri Figma'dan kendisi export ediyor). Alt klasörler: `01 UGC` · `02 Basın & Podcast` · `03 Animasyon` · `04 Ulta`.
+- `Video/<YYYY-MM Ay>/` (2026-10-13 itibarıyla klasör adı `Teslim` → `Video` oldu) = müşterinin gördüğü tek yer, SADECE bitmiş videolar (statikleri müşteri Figma'dan kendisi export ediyor). Alt klasörler: `01 UGC` · `02 Basın & Podcast` · `03 Animasyon` · `04 Ulta`.
 - Dosya adı: `Ürün – Konsept – Format.mp4` (ör. `ShapeShift – Soru kutusunu yakma – 9x16.mp4`). Sadece son onaylı versiyon; script, json, ham klip, deneme, prompt KONMAZ.
-- Çalışma dosyaları `_calisma/` (eski `output/`): batch klasörleri, render script'leri, klipler. Yeni video bitince final mp4 ilgili ayın Teslim klasörüne isimlendirilerek kopyalanır.
+- Çalışma dosyaları `_calisma/` (eski `output/`): batch klasörleri, render script'leri, klipler. Yeni video bitince final mp4 ilgili ayın `Video/` klasörüne isimlendirilerek kopyalanır.
 - **Git (2026-10-12):** this Drive folder is the working copy of `github.com/ufukkyavuz/sickscience` (branch `claude/agency-rules-and-knowledge`). `.gitignore` whitelist: only md/py/js/html/txt; media stays on Drive. `kurallar/` = copy of Claude's project memory, `sessions/` = monthly session summaries.
   - "Pushla" means:
     1. Copy the memory into `kurallar/`.
