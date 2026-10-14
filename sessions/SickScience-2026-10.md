@@ -65,3 +65,10 @@ Başka bir bilgisayarda devam ederken önce bunu, sonra proje klasöründeki `CL
 - BCRF fişi statiği (NetWork, Ekim boyunca).
 - "92%" ShapeShift statiği.
 - Kasım için `Teslim/2026-11 Kasım/` klasörü, BFCM "The Vault Is Open".
+
+## 2026-10-13 — Founder toon series (batch-43) + client feedback
+- Founder character sheets (Merve, Polen) from the site photos → Higgsfield elements `ss-founder-merve`, `ss-founder-polen`; Polen re-done with jet-black hair after her feedback → `ss-founder-polen-v2`.
+- Ep1–3 delivered (`Video/2026-10 Ekim/03 Animasyon/ShapeShift – Kurucular Bölüm 1/2/3`). Talking shots via Veo 3.1 (Higgsfield + Google Flow); Kling mispronounced "exosomes" → ElevenLabs/Wan tested, Veo native voice adopted.
+- New tools: `_calisma/batch-43-founder-toon/capsule_patch.py` (track + smooth + sub-pixel composite of a sharp product label), `render43.py`, `render43_ep.py` (per-episode end cards from brand films, URL without plate).
+- Client feedback (Polen, 2026-10-13): product film showed foam → new gel-serum pump clip ready; VO too sultry → 3 ElevenLabs voice samples sent, waiting for choice; Polen's hair should be jet black → sheet updated, existing episodes pending (a: regenerate ~100 Flow cr / b: recolour).
+- Observations 0035 (hinted ASR is not a pronunciation check), 0036 (tracked composites need temporal smoothing + consecutive-frame QA).

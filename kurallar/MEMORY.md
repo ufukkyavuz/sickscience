@@ -32,3 +32,6 @@
 - [Delivery folders](feedback-delivery-folders.md) — finished videos only → Teslim/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/
 - [SickScience repo](reference-sickscience-repo.md) — Drive folder = working copy of ufukkyavuz/sickscience (branch claude/agency-rules-and-knowledge); push = kurallar sync + commit + push
 - [Figma MCP capabilities](figma-yetenekler.md) — what the Figma MCP can/can't do on the SickScience file (live-tested by the cloud session 2026-10-12)
+- [Voice & lip-sync for hard words](feedback-voice-pronunciation-workflow.md) — terms like exosomes: ElevenLabs voice + Wan 2.7 audio-ref lip-sync (12.5 cr); blind whisper check; never retry Kling voice
+- [Dropbox UGC](reference-dropbox-ugc.md) — client "All UGC" Dropbox (per-product real UGC, 2026-10-13); check before AI talking heads
+- [Google Flow Veo](reference-google-flow-veo.md) — Veo 3.1 Fast talking clips on user Flow credits: JS drag-drop upload, agent chat, approve last Onayla, download 720p then move from Downloads
