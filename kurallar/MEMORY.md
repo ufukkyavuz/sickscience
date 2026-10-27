@@ -59,6 +59,6 @@
 - [Texture as scene element](feedback-texture-as-scene-element.md) — texture = gel swatch/smear/drop beside the product in normal visuals; never hands playing with gel ("slime")
 - [Text centred like the reference](feedback-text-centered-like-reference.md) — follow the ref's alignment (Prequel = centred); never side columns to dodge the product, change photo/crop instead
 - [Client product photos first](reference-client-product-photos.md) — Brand Assets/Images "All Products - New/Old Image": check these studio shots before generating (catalogue by file range)
-- [No repeated photos, relevant props](feedback-no-repeated-photos-relevant-props.md) — one photo per creative in a series; no pumpkins on PowerCycle; hand-held=real phone shots, else scientific folders; flip mirrored selfie frames
+- [No repeated photos, relevant props](feedback-no-repeated-photos-relevant-props.md) — one photo per creative in a series; no pumpkins on PowerCycle; lean scientific (preference, not a rule); flip mirrored selfie frames
 - [Site copy snippets](sickscience-site-copy-snippets.md) — verbatim About/NX35/DO+NW benefits; fetch via browser JS (curl rate-limited), current product handles
 - [Real B/A first](feedback-real-ba-first.md) — use client real before/afters (Brand Assets/Images/<Product>/Before After) wherever they exist; AI B/A only as fallback

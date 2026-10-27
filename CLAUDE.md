@@ -160,10 +160,10 @@ Tüm formatlar 1080 px genişlik; telefonda ~1/3 ölçekte görünür. Bu yüzde
 - Yeni işlerde önce `SickScience Brand Assets/Images/All Products - New Image` (137 jpg, yerelde) ve `All Products - Old Image` (49 büyük dosya, yalnızca bulutta; gerektikçe indirilir) klasörlerine bakılır; uygun kare varsa Higgsfield'da üretim yapılmaz.
 - Dosya aralıklarına göre katalog: memory `reference-client-product-photos.md`.
 - Kare sayfası: `~/sickscience-work/client-photos/new_sheet.jpg`.
-- **Elde tutulmayan ürün kareleri bu iki bilimsel klasörden seçilir** (kullanıcı, 2026-10-27). Örnekler:
+- **Yön: bilimsel içerikli görseller daha çok kullanılır** (kullanıcı, 2026-10-27). Hem fotoğraf seçerken hem yeni görsel üretirken bu fikir göz önünde tutulur. Örnekler:
   - laboratuvar sehpası S_1133–1143 (Vault üçlüsü)
   - Old Image SS0880 (ShapeShift + ananaslı beher), SS0547
-- **Elde tutulan / native kareler gerçek telefon çekimidir:** UGC Set, Ulta banyo videosu kareleri, Dropbox UGC.
+- Bu bir **tercih, kural değil**. "Sadece bu iki klasör" ya da "elde tutulan kare telefon çekimi olmalı" diye bir kural yoktur. Uygun her müşteri fotoğrafı kullanılabilir: UGC, lifestyle, Ulta video kareleri.
 - **Ön kamera videolarından alınan kareler aynalı çıkar:** yatay çevrilir, etiket okunarak kontrol edilir.
 - **Bir seride her kreatif ayrı fotoğraf kullanır** (kullanıcı, 2026-10-25: "hep aynı fotoğrafı kullanma"). Ürünle alakasız prop olmaz (PowerCycle + balkabağı reddedildi).
 - **Yazı hizası referansınkiyle aynıdır** (Prequel referansları = ortalı; kullanıcı, 2026-10-27). Ürüne binmesin diye yazı sağ/sol kolona itilmez; fotoğraf ya da kırpım değiştirilir.
