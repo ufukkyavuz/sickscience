@@ -15,3 +15,7 @@ User, 2026-10-12: "çok fazla klasör var… müşteriyi yormayacak temiz bir kl
 - Statics are not delivered as files; the client exports them from Figma.
 - Working files live in `_calisma/` (renamed from `output/` on 2026-10-12). Scripts there use the `'_calisma'` path.
 - Start a new month folder each month with the same four subfolders.
+
+**2026-10-23:** "Niye bizim klasöre atmadın?"
+- When a video is delivered as final, copy it into `Video/<YYYY-MM Ay>/<subfolder>` right away, without asking.
+- Subfolders: 01 UGC, 02 Basın & Podcast, 03 Animasyon, 04 Ulta, 05 Marka & Etkinlik, 06 Trendler. Trend or meme formats go in 06 Trendler.

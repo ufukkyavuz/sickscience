@@ -38,12 +38,12 @@ def talk(name, t0, t1):
 
 # copy is verbatim from the ShapeShift PDP (2026-10-13)
 EPS = {
-    'ep2': [talk('e2_polen_hook_veo', 0.0, 4.25),
+    'ep2': [talk('e2_polen_hook_bk_veo', 0.0, 3.5),
             talk('e2_merve_bench_veofix', 0.0, 5.85),
             (lambda: still('e2_s3.png', 2.3), 2.3, lambda im, t: A.textblock(im, ['The 3× award-winning', 'gel-serum.'], 330, 80, t), None),
             (lambda: slam(94, 'saw smoother tech-neck lines.', 1.8), 1.8, None, None)],
     'ep3': [talk('e3_merve_apply_veo', 0.9, 4.1),
-            talk('e3_polen_guasha2_veo', 0.0, 4.45),
+            talk('e3_polen_guasha_bk_veo', 0.0, 4.6),
             (lambda: still('e3_s3.png', 2.4), 2.4, lambda im, t: A.textblock(im, ['A visibly sharper jawline', 'in about 4 weeks.'], 330, 72, t), None),
             (lambda: slam(98, 'saw firmer, tighter neck skin.', 1.8), 1.8, None, None)],
 }

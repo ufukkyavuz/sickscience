@@ -57,18 +57,18 @@ def endcard(film, t0, dur=2.2):
     return (gen, dur, over, None)
 
 def shots():
-    (a0, a1), (b0, b1), (d0, d1) = CUT['k1_veo_hf'], CUT['k2'], CUT['k4_veo']
-    g1, g2, g4 = groups('k1_veo_hf', a0), groups('k2', b0), groups('k4_veo', d0)
+    (a0, a1), (b0, b1), (d0, d1) = CUT['k1_bk_veo'], CUT['k2b_veo'], CUT['k4b_veo']
+    g1, g2, g4 = groups('k1_bk_veo', a0), groups('k2b_veo', b0), groups('k4b_veo', d0)
     return [
-        (lambda: clip('k1_veo_hf', a0, a1 - a0), a1 - a0, lambda im, t: caption(im, g1, t), ('k1_veo_hf', a0)),
-        (lambda: clip('k2', b0, b1 - b0), b1 - b0, lambda im, t: caption(im, g2, t), ('k2', b0)),
+        (lambda: clip('k1_bk_veo', a0, a1 - a0), a1 - a0, lambda im, t: caption(im, g1, t), ('k1_bk_veo', a0)),
+        (lambda: clip('k2b_veo', b0, b1 - b0), b1 - b0, lambda im, t: caption(im, g2, t), ('k2b_veo', b0)),
         # J-cut: Polen's line finishes over the product shot (her capsule gets redrawn after 2.5 s in k2)
         (lambda: clip('k3', 0.4, 2.4), 2.4,
-         lambda im, t: caption(im, g2, t + (b1 - b0)), ('k2', b1)),
+         lambda im, t: caption(im, g2, t + (b1 - b0)), ('k2b_veo', b1)),
         # the answer: both founders, Merve says the line (Veo native voice)
-        (lambda: clip('k4_veo', d0, d1 - d0), d1 - d0,
-         lambda im, t: caption(im, g4, t), ('k4_veo', d0)),
-        (lambda: A.slam(1.8), 1.8, None, None),
+        (lambda: clip('k4b_veo', d0, d1 - d0), d1 - d0,
+         lambda im, t: caption(im, g4, t), ('k4b_veo', d0)),
+        (lambda: A.slam(1.5), 1.5, None, None),
         endcard('product2', 15.4),
     ]
 

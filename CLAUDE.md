@@ -86,6 +86,8 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`_calisma/batch-01/`). Şab
 - Teklif satırı sahnedeki ürünle eşleşir (tek ürün sahnesine duo fiyatı konmaz).
 - Beacon Awards logosu (kılavuz: `Products/awards/BeaconAwards-2026-Logo-Guidelines-Winner.pdf`): SADECE resmi mercan+siyah "WINNER" logosu (`Products/awards/Beacon-Awards-2026-Winner-Logo-900px.png`); renk değiştirme/beyazlatma/gölge/kontur/germe YOK; her yanda %25 boşluk; koyu, renkli ya da karışık zeminde logo beyaz "ribbon" kart içinde (üst kenardan sarkan beyaz dikdörtgen); açık zeminde direkt.
 - **Ödüller — GÜNCEL (2026-10-05, kaynak: sicksciencelabs.com/pages/home-v2, ürün kartlarındaki `data-awards`; bu liste aşağıdaki 2026-10-02 notunun ÖNÜNE geçer):** ShapeShift = Shop TODAY Mature Beauty Awards 2025 · Cosmopolitan Holy Grail Beauty Awards 2025 · Real Simple Awards 2024 (Best Jawline & Neck Treatment). PowerCycle = Esquire Grooming Awards 2026 · Shop TODAY Hair Awards 2025 · Men’s Health Grooming Awards 2025 · Women’s Health Beauty Awards 2025. DropOff = NewBeauty Awards 2026 · Oprah Beauty O-Wards 2025. NetWork = InStyle Best Beauty Buys 2026 · SheFinds Awards 2026 · Beauty Independent 2026. Site toplamı "14 awards incl. Oprah, InStyle & Esquire". Yayın logoları (Oprah, Esquire vb.) izin/dosya olmadan KULLANILMAZ; ödül adı tipografik rozet olarak yazılır (Beacon hariç, resmi logosu var).
+- **Resmi ödül rozetleri (müşteri, 2026-10-17, Drive "SickScience Brand Assets/Awards Badge"):** `Products/awards/badges/` — esquire-grooming-awards-2026 (PC) · mens-health-grooming-awards-2026 (PC) · cosmopolitan-holy-grail-beauty-awards (SS) · real-simple-smart-beauty-awards-2024 (SS) · shop-today-mature-beauty-awards (SS) · oprah-daily-beauty-o-awards (DO). Bu ödüller için tipografik rozet yerine bu resmi rozetler kullanılır; renk/şekil değiştirilmez, ilgili ürünle eşleşir.
+- **PR maili kontrolü (2026-10-17):** BOLD PR (Rachel Sachs) yayın haberlerini mailliyor. Başlık başka ürünü anlatıyorsa (ör. Real Simple "Botox in a Bottle… $17" = Eva Naturals, ShapeShift sadece listede) o başlık bizim ürüne MAL EDİLMEZ; makaleyi açıp ürünümüz hakkında ne yazdığını doğrula.
 - Ödüller (2026-10-02 doğrulandı, kullanıcı: "ödüller nerden gelmiş kanıtla"): SADECE sitede geçen kullanılır. ShapeShift = "2024 REAL SIMPLE Award Winner - Best Jawline & Neck Treatment" (PDP açıklaması) ✅ · PowerCycle = yalnızca "Award Winner" etiketi (detay yok) · NetWork = **2026 Beacon Awards Winner — Product Launch: Skincare** (Beauty Independent, 01.10.2026: "SickScience Labs took skincare honors for its concentrated serum NetWork"; 130+ aday, 25 uzman jüri; resmi Beacon logosu müşteriden geldi, `Products/awards/`) · DropOff = ödül YOK. Oprah Daily ve Men's Health sitede yok → KULLANMA. Rozet tasarımı sade (ince çerçeveli metin), dolgu renkli/sarı daire rozet yok.
 - Başlık 2 satırı geçmez; satır kırılımı elle (\n) verilir, sığmazsa punto küçültülür.
 
@@ -101,12 +103,16 @@ Referans = Higgsfield batch-01'in kendi tipografisi (`_calisma/batch-01/`). Şab
 ## Ürün bilgisi = SİTEDEKİ METİN, birebir (kullanıcı, 2026-10-01: "niye kafana göre bişeyler ekliyon… adamlar websitesine bütün bilgileri yazmış")
 - Ingredients, benefits, istatistik cümleleri, kullanım talimatı ürün sayfasından (`/products/<handle>` HTML'i — products.json'da yok) AYNEN alınır. Ekleme/çıkarma, kendi açıklamanı yazma, INCI listesinden seçme YOK.
 - ShapeShift (site): Ingredients = NX35™ Sculpt Technology (Pineapple Exosomes) · Butyrospermum Parkii (Shea) Butter · Caffeine · Niacinamide (Vitamin B3) · Sodium Hyaluronate · Ceramides (bileşen başına açıklama yok). Key Benefits = "Supports the look of a contoured, sculpted neck and jawline" · "Helps visibly tighten and firm the neck" · "Softens, smooths and hydrates". Real Results = 92% saw a more sculpted jawline · 94% saw smoother tech-neck lines · 98% saw firmer, tighter neck skin · 90% noticed improved skin definition ("Chisel Your Jawline in 2 Weeks"). Texture: Gel-Serum. How to use: 1–2 pumps, upward, twice daily.
+- **Süre: reklamlarda "2 weeks" DEĞİL "4 weeks" yazılır** (müşteri, 2026-10-21; PDP "2 Weeks" dese bile).
 - Bu kural yukarıdaki "-looking ile yumuşat / dozaj yazma" kuralının önüne geçer: sitede yazıyorsa sitedeki ifade kullanılır.
 
 ## PR / basın kreatifleri (kullanıcı, 2026-10-01)
 - Amaç bilinirlik: haberin paylaşıldığını anlat (gerçek ekran görüntüsünden yırtık kâğıt kupürleri + editör kartı + gerçek before/after kupürleri). Sayfanın birebir kopyası "native editoryal" görseller daha önce perform etmedi (Drive: "Ad that looks like editorial").
 - Arka plan AÇIK, ferah, bilimsel (gün ışığında beyaz lab tezgâhı). Koyu/dramatik zemin + gazete kupürü = "cinayet haberi" etkisi → kullanma. Açık zeminde logo 29:219 (Black and Pink), yazılar koyu.
 - CNN Underscored ile anlaşma var: logo, haber metni ve ekran görüntüsü kullanılabilir.
+- **GÜNCEL PR formatı (kullanıcı, 2026-10-17: "papercut tasarımını sevmiyolar… haberleri öne çıkartmak için yaptıkları tarz"):** yırtık kâğıt kupürü YOK. Müşterinin kendi formatı = Drive "SickScience Brand Assets/Awards & Press" (InStyle örneği): tam sayfa karanlık/moody ürün fotoğrafı, üstte beyaz logo (29:218), ortada köşesiz açık gri-beyaz kart (yayın wordmark'ı · makale başlığı BÜYÜK HARF Bold · özet · "Best New …: **Sick Science Ürün**" altı çizili · yazar + tarih), en altta solda "Read More ⊙", sağda "Source : www.yayın.com" beyaz. Örnek uygulama: Figma 883:881 (Esquire, 17.10).
+  - **Son karar (2026-10-17, "haber sayfası ekranı gibi olsun… compakt"):** kart değil, mobil haber sayfası ekranı (Bazaar örnekleri gibi): üstte siyah bar (☰ · beyaz yayın wordmark'ı · arama), beyaz sayfada ortalı başlık → ödül satırı (magenta) → kısa editör alıntısı → yazar/tarih, altında tam genişlik makale görseli. Kompakt, boşluk yok. Figma 883:881.
+  - Kart **haberi veriyor gibi, özet** okunur (kullanıcı, 2026-10-17; müşterinin Esquire/InStyle/Bazaar örnekleri): yayın logosu → makale başlığı → ödül/kategori satırı büyük (ör. "Best New Scalp Serum", "Best Tone-Evening Serum") → ürün adı → editörün KENDİ sözlerinden kısa alıntı (birebir; kesilen yer "…") → "By Yazar · Published: tarih". Görsel: ürün/lifestyle ya da B/A (Bazaar: Day 0 / Day 56). Alıntıda ürün sayfasında olmayan iddia (ör. "reactivating dormant follicles") seçilmez.
 
 ## Fotografik prompt formatı — ZORUNLU (kullanıcı, 2026-10-02: "fotografik görsellerde promptlarını bu şekilde vericen")
 Tüm fotografik Higgsfield prompt'ları **[prompts/TEMPLATE-photographic.md](prompts/TEMPLATE-photographic.md)** bölümleriyle ve sırasıyla yazılır: açılış satırı (element) → kimlik koruma paragrafı → PRODUCT ORIENTATION → COMPOSITION AND FRAMING → SCALE (gerçek cm) → LIGHT AND SHADOW → BACKGROUND → PHOTOGRAPHIC FINISH → Negative listesi. Tek paragraflık eski prompt yapısı kullanılmaz. SCALE için ürün cm ölçüleri kullanıcıdan alınacak.
@@ -148,7 +154,37 @@ Tüm formatlar 1080 px genişlik; telefonda ~1/3 ölçekte görünür. Bu yüzde
 - **Ulta logosu = RESMİ logo** (kullanıcı, 2026-10-08: "kafana göre ulta yazmışsın… adamların kendi logosu var"). Tercih: çanta prompt'ta YAZISIZ istenir ("completely plain front panel, no text"), logo `NOCLEAN=1 tools/ulta_logo_swap.py` ile temiz yüzeye basılır. Model yine de yazı çizerse yazı kutusu satır-interpolasyonla doldurulur, kulp orijinalden geri konur, sonra logo basılır (inpaint tek başına kulp kenarında beyaz saçak bırakıyor — kullanıcı 2026-10-08 "logo olan yerler hatalı") (`Ulta/logo/ulta_logo_white.svg|png`, ulta.com header SVG'sinden). Genel kural: partner/perakendeci markası görselde geçiyorsa model çizimi yazı değil, resmi logo.
 - Çanta sahnelerinde ürün çantanın YANINDA durur (FOOH dahil: kapsül çantadan çıkmaz). Model ürünü çantaya göre büyük çizmeye çok meyilli; doğru ölçekli görsel bulunca formatlar ondan kırpılır.
 - Ulta'da 4 SKU var (gua sha ve setler YOK). Tatil indirimi henüz onaylı değil; Eylül Ulta etkinlikleri %50 → Figma'da %50 fiyatlar "CONFIRM with Ulta" notuyla.
-- Higgsfield Unlimited artık aynı anda TEK üretim kabul ediyor; sıra Worker tabanlı döngüyle yürütülür (arka plan sekmesinde setTimeout yavaşlar).
+- (2026-10-22 güncelleme: Unlimited artık hesap genelinde aynı anda 1 iş işliyor, diğerleri sırada bekliyor; yine 4 adede kadar sıraya at, ama süreyi buna göre planla.) **Higgsfield Unlimited aynı anda 4 üretim alır — tek tek bekleme YOK** (kullanıcı, 2026-10-19: "niye tek tek üretiyon… tek seferde 4 farklı unlimited üretim yapabiliyon"). Bir seride 4'e kadar prompt'u arka arkaya gönder, bitenlerin yerine yenisini koy. (Eski "tek üretim" notu geçersiz.)
+
+## Müşteri stüdyo çekimleri önce (kullanıcı, 2026-10-23)
+- Yeni işlerde önce `SickScience Brand Assets/Images/All Products - New Image` (137 jpg, yerelde) ve `All Products - Old Image` (49 büyük dosya, yalnızca bulutta; gerektikçe indirilir) klasörlerine bakılır; uygun kare varsa Higgsfield'da üretim yapılmaz.
+- Dosya aralıklarına göre katalog: memory `reference-client-product-photos.md`.
+- Kare sayfası: `~/sickscience-work/client-photos/new_sheet.jpg`.
+- **Elde tutulmayan ürün kareleri bu iki bilimsel klasörden seçilir** (kullanıcı, 2026-10-27). Örnekler:
+  - laboratuvar sehpası S_1133–1143 (Vault üçlüsü)
+  - Old Image SS0880 (ShapeShift + ananaslı beher), SS0547
+- **Elde tutulan / native kareler gerçek telefon çekimidir:** UGC Set, Ulta banyo videosu kareleri, Dropbox UGC.
+- **Ön kamera videolarından alınan kareler aynalı çıkar:** yatay çevrilir, etiket okunarak kontrol edilir.
+- **Bir seride her kreatif ayrı fotoğraf kullanır** (kullanıcı, 2026-10-25: "hep aynı fotoğrafı kullanma"). Ürünle alakasız prop olmaz (PowerCycle + balkabağı reddedildi).
+- **Yazı hizası referansınkiyle aynıdır** (Prequel referansları = ortalı; kullanıcı, 2026-10-27). Ürüne binmesin diye yazı sağ/sol kolona itilmez; fotoğraf ya da kırpım değiştirilir.
+- Site metinlerinin birebir kopyası (About, NX35, DropOff ve NetWork Key Benefits): memory `sickscience-site-copy-snippets.md`.
+- Dekupe aracı (Vision): `tools/vision-lift.md`.
+
+## Video üretim kapıları — ZORUNLU (kullanıcı, 2026-10-21: "boktan videolar yapma, adamlar her şeyi anlatmış")
+Her videoda sırasıyla şunlar yapılır:
+1. Proje klasörüne brief.md (tek cümle mesaj, gerçek asset listesi, kaçınılacaklar)
+2. Referanstan style-guide (renk hex, font, tempo, hareket)
+3. Shot list (HOOK / PROBLEM / REVEAL / PROOF / CLOSE; her beat için giriş/çıkış durumu ve gerekçe)
+4. Önce müzik grid, SFX aynı zaman çizelgesinde
+5. Contact sheet + 0.2 sn şeritler
+6. En kötü 3 hata bulunur, sadece o bölümler düzeltilip yeniden render edilir
+7. Sesli tam izleme, -14 LUFS
+Kontrol listesi: `~/lemo-opuscar/DIRECTOR.md` §10–11.
+- **Görünüm, ses ve yerleşim (kullanıcı, 2026-10-21):** "daha temiz, beyaz arkaplanlı, bilimsel, çok abartmadan".
+  - Ses efekti az: sessiz tik, bir çizgi sesi, bir ding.
+  - Ürünler ve SHOP NOW alt %35'e inebilir; sadece kritik metin 270–1250 bandında kalır.
+  - Kutu ya da çerçeve içine alma yok, tam arka plan.
+  - Geri sayım ilk kareden büyük, 00:59'dan sayar. Kodla animasyon için `lemo-opuscar` skill (kurulu). "Ortada büyük yazı + gradient + her şey fade + sonda logo" kalıbı YASAK.
 
 ## Klasör düzeni (kullanıcı, 2026-10-12)
 - `Video/<YYYY-MM Ay>/` (2026-10-13 itibarıyla klasör adı `Teslim` → `Video` oldu) = müşterinin gördüğü tek yer, SADECE bitmiş videolar (statikleri müşteri Figma'dan kendisi export ediyor). Alt klasörler: `01 UGC` · `02 Basın & Podcast` · `03 Animasyon` · `04 Ulta`.
@@ -160,3 +196,38 @@ Tüm formatlar 1080 px genişlik; telefonda ~1/3 ölçekte görünür. Bu yüzde
     2. Update the session summary.
     3. `git add -A && git commit && git push`.
   - Also run `_claude-setup/sync.sh push`.
+
+## Amazon Store (2026-10-19)
+- Müşteri mevcut Amazon mağazasından memnun değil (mor balonlu genel AI görünüm). Yeni ana sayfa taslağı: Figma sayfa "06 · Amazon Store" — Hero 3000×600 · Ödüller · 4 ürün kartı 1500×1500 · Kurucular · NX35 · Shop by concern. Görseller `~/sickscience-work/amazon/make_assets.py`.
+- **v2 (kullanıcı, 2026-10-20: "daha cam bilim ve beyaz arkaplan temalı")**: renkli karakter fonları bırakıldı → beyaz lab tezgâhı + şeffaf cam ekipman (beher, erlen, petri, pipet) + jel-serum boncukları; kartlar 1:1 ürün sağda/yazı solda, istatistik ürün renginde. Prompt'lar `prompts/batch-56-amazon-glass.py`. Hero 5:1'e dik ürün sığmıyor (Nano Banana zoom-out'u reddediyor) → hero tipografik beyaz, ürün ailesi hemen altında 3000×1273 lab modülünde.
+- **v3 (2026-10-20):** NX35 modülü = yazı bandı + tam genişlik lab sahnesi (ananas/turp-salatalık/sarımsak/buğday petri kaplarında, `gen56/nx1`). Shop by concern = 4 dikey kart 750×1500 (üst foto 750×1100, alt beyaz panel yazı). Satışa yönlendiren Amazon ASIN modülleri mock'landı: "Best Sellers" grid (The Line'ın altında) + "Featured product" (ShapeShift, kartların altında); fiyat/puan Amazon'da ASIN'den otomatik dolar, "#1 Best Seller" yazılmaz (Amazon rozeti).
+- **Batch-47 karakter serisi (renkli/beyaz) genel işlerde KULLANILMAZ** (kullanıcı, 2026-10-20: o seri belirli bir hedef kitle kampanyası içindi). Modelli görsel gerekirse önce müşterinin orijinalleri: Drive `SickScience Brand Assets/Images/<Ürün>/` (SS `ShapeShift/1.jpg`, NW `NetWork/network-cmnq3cltf…jpeg`, PC `PowerCycle/PowerCycle-cmneo9oyi…jpeg`, DO `DropOff/cgidropoff1.jpg`). NetWork havlulu karede etiket eski "Network" yazımlı → kullanma.
+- **v4 (2026-10-20) — Figma dosyası taşındı: `figma.com/design/VS800zq8OqVWN7OlpctFQf/SickScience-Amazon` (node id'ler aynı).** Hero = 5:1 kırpılmış ürünsüz cam/lab arka planı + ortalı yazı (cam kesilebilir, ürün kesilemez). NX35 = açık lila zemin + 3 kart (petri kabında ananas / turp-salatalık / sarımsak-buğday). Konu kartları = "mercek" serisi v2: büyük çerçevesiz cam mercek bedenden uzakta ince şeffaf kolla asılı, kimse tutmuyor, ciltte ışık halkası (kullanıcı: "uzaktan tutulmalı… daha artistik… kendi tutmasın"); v1 (elde saplı büyüteç) reddedildi. Ürün grid başlığı "FIND YOUR FORMULA" (4 ürün varken "Best Sellers" mantıksız). Featured product = solda lab görseli, sağda lila panel + ürün ödül rozetleri. Prompt'lar `prompts/batch-57-amazon-lens.py`.
+- **v5 (2026-10-20):** Hero = neredeyse boş lab (solda tek erlen, sağda tek beher, ortası boş). What's inside = 4 kolon, ilk versiyon görselleri (ürünlü lab kareleri) + sitedeki "Key actives" listesi birebir (kullanıcı: "ilk yaptığın en iyisiydi"; flat-lay petri versiyonu reddedildi). Konu kartları = büyüteç efekti (referans: DUMAIN gözlük): çerçevesiz cam, ortada, içi keskin ve büyük, dışı bulanık, beyaz stüdyo. Nano Banana tek karede gerçek optik büyütme ÜRETEMİYOR (içi/dışı aynı ölçek çıkıyor) → v4 stüdyo karesi + `_calisma/amazon-store/lensfx.py` (dış blur, iç 1.5–2.2x zoom, ince cam halka). Glow kartında zoom ≤1.5 (gözenek öne çıkmasın). **Son karar (kullanıcı, 2026-10-20: "son üretilenler daha güzel"):** ~~ham v5 mercek kareleri~~ → **son karar (kullanıcı: "direkt yakın çekim yapalım merceği siktir et"):** mercek YOK; beyaz stüdyo yakın çekimler (çene profili, yanak glow, saç ayrımı, dış bacak) — `prompts/batch-59-closeups.py`.
+- Amazon kuralları: hero'da önemli içerik ortadaki 2100 px'te (yanlardan %16 kırpılır, mobilde logo solun %18'ini kapatır → hero metni ortalı); ödül iddiası tarih + kurum + <18 ay (Real Simple 2024 KULLANILMAZ); yüzde/anket iddiaları Amazon PDP'sinde de yazmalı; rakip karşılaştırması yok.
+- **v6 (2026-10-20):**
+  - **What's inside = "formül" görselleri** (kullanıcı: "formül gibi bilimsel göster… her şeyi anlatma"): ürün renginde kapaklı şeffaf cam kapsül/tüp, içinde gerçek ham bileşen katmanları; Figma'da ince çizgi + nokta ile 4–5 kısa etiket (sitedeki bileşen adları birebir) + altta sadece ürün adı. Kart/liste/paketshot YOK. Prompt'lar `prompts/batch-61-inside-formula.py`.
+  - **Featured product** = travertin + lila duvar still life (`prompts/batch-60-amazon-featured.py` B).
+  - **Konu kartları:** foto tüm kartı kaplar, alt beyaz gradient üstünde yazı.
+  - **v6b (kullanıcı, 2026-10-20: "aşırı karışık… daha premium… kesik görsel sevmiyorum"):**
+    - Formül kapsülleri kutulu fotoğraf değil, macOS Vision ile dekupe PNG (`/private/tmp/claude-501/lift/lift.swift`, çıktılar `~/sickscience-work/amazon/gen61/*_trim.png`).
+    - Hepsi aynı zemin çizgisinde, yumuşak gölge, açık gradient zemin.
+    - Altta sadece ürün adı + NX35 teknolojisi; etiket/çizgi YOK.
+    - **Genel kural:** web/Amazon modüllerinde de foto kutusu/kesik kart yerine dekupe ürün veya tam genişlik sahne.
+- **v7 (kullanıcı, 2026-10-20: "takke gibi kapağımız var mı… X-ray'de görünümü"):** formül kapsülü (ayrı kapaklı cam şişe) REDDEDİLDİ — ürün formu her zaman gerçek elementten gelir (üst yarı renkli, alt yarı gümüş; DropOff tüp).
+  - What's inside = tam genişlik 21:9 sahne: ürünler sağda, solda yazı. A = açık zemin X-ray (ürün silüetleri içinde bileşen gölgeleri); B = see-through (gerçek form camlaşmış, içerikler görünür).
+  - Prompt'lar `prompts/batch-62-inside-xray.py` (4 element mention: ss-shapeshift, ss-network-v2, ss-powercycle, ss-dropoff).
+  - Koyu X-ray elendi: ölçü çizgisi + "12cm" yazısı çizdi ve arka planda dikiş vardı → SCALE'deki cm'leri model annotasyon olarak çizebilir, X-ray/diyagram prompt'larına "no dimension lines, no numbers" ekle.
+  - Composer: mention'ı JS `__pick` ile seçmek yanlış elementi (otg/open) seçti → mention'lar find+ref click ile seçilir, gönderimden önce reference_elements kontrol edilir.
+- **v8 (kullanıcı, 2026-10-20: koyu X-ray "daha mantıklı ama daha casual… yazılar olmasın… tam xray"; referans AKANOMA çanta röntgeni):** What's inside = gerçek röntgen dili, ürün üstünde yazı/ölçü YOK.
+  - A (910:904) = beyaz zeminde mavi tek renk tote çanta röntgeni: 4 ürün + gözlük, telefon, anahtar, kulaklık, para, çelik gua sha (`prompts/batch-64-xray-bag.py`, mention: ss-tote + 4 ürün).
+  - B (2029:11) = koyu film, ürünler masaya gelişigüzel atılmış (`prompts/batch-63-xray-casual.py`).
+  - Pouch varyantı 5. kapsül çizdi → elendi.
+  - Composer ipucu: mention'lar find+ref click; prompt metni JS `execCommand('insertText')` + shift+Enter KeyboardEvent ile yazılır; gönderimden önce show_generations ile reference_elements kontrol edilir. Composer'a tıklarken koordinatı JS rect'ten hesapla (yanlış tıklama görsel görüntüleyiciyi/"Publish project" penceresini açıyor).
+
+## Basın logoları (kullanıcı, 2026-10-20: "adamların logosunu falan kullan")
+- PR/basın kreatiflerinde yayının resmi logosu kullanılır (kullanıcı onayı). Kaynak = yayının kendi site header SVG'si, ör. Oprah Daily `Products/press-logos/oprahdaily-logo{,-black,-white}.svg` (oprahdaily.com header). Logo yeniden çizilmez/yazıyla taklit edilmez.
+- Oprah Daily NetWork BCAM kreatifi: Figma PHPZ7XLpEVMcUVVEcNTwmz, "Ekim 2026" sayfası, 941:881.
+  - Gerçek makale sayfası UI'ı: siyah header + beyaz logo + pembe SUBSCRIBE; BEAUTY kicker, başlık, editör alıntısı, tarih.
+  - Haberdeki ürün kartı birebir: "2" kutusu, "20% OF OCTOBER SALES GOES TO BCRF" pembe etiket, ürün adı, SICKSCIENCELABS.COM butonu.
+  - Story'de kart dikey, Feed/Square'de yan yana; görsel `batch-11-bcrf/bc_ribbon_sq.png` (her formatta aynı).

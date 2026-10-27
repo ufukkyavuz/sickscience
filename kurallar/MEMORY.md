@@ -31,7 +31,34 @@
 - [IG organic = white, premium, graphic](feedback-ig-organic-premium.md) — organic posts: white bg, product as object, concept in the graphic; never ad-style headline on photo
 - [Delivery folders](feedback-delivery-folders.md) — finished videos only → Video/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/
 - [SickScience repo](reference-sickscience-repo.md) — Drive folder = working copy of ufukkyavuz/sickscience (branch claude/agency-rules-and-knowledge); push = kurallar sync + commit + push
-- [Figma MCP capabilities](figma-yetenekler.md) — what the Figma MCP can/can't do on the SickScience file (live-tested by the cloud session 2026-10-12)
+- [Figma MCP capabilities](figma-yetenekler.md) — tool map + 2026-10-25 INO-tested updates: Expand via desktop More menu, own shaders only (INO Glint), Motion gotchas (props.delay), export MP4 from desktop not export_video
 - [Voice & lip-sync for hard words](feedback-voice-pronunciation-workflow.md) — terms like exosomes: ElevenLabs voice + Wan 2.7 audio-ref lip-sync (12.5 cr); blind whisper check; never retry Kling voice
 - [Dropbox UGC](reference-dropbox-ugc.md) — client "All UGC" Dropbox (per-product real UGC, 2026-10-13); check before AI talking heads
 - [Google Flow Veo](reference-google-flow-veo.md) — Veo 3.1 Fast talking clips on user Flow credits: JS drag-drop upload, agent chat, approve last Onayla, download 720p then move from Downloads
+- [Video model choice](feedback-video-model-choice.md) — Veo 3.1 in Flow by default; Flow out of credits → ASK before Higgsfield; questions get answers, never production
+- [Show the transformation](feedback-show-the-transformation.md) — results videos: aligned same-angle jump cuts + held before/after; flag date doubts once, follow user; centre pill text (anchor mm)
+- [Don't redo kept work](feedback-dont-redo-kept-work.md) — 'tutalım' = final; never regenerate unasked, do new requests first
+- [Product proof (PDP)](sickscience-product-proof.md) — what each B/A must show: PC = strand thickness/density (not hairline regrowth), NW = glow/texture, SS jaw-neck, DO cellulite
+- [No cropped subjects](feedback-no-cropped-subjects.md) — subject fully in frame (feet/head), text never over the proof image
+- [Realistic B/A](feedback-realistic-ba.md) — modest believable differences; never dramatic/miracle results
+- [Trend audio workflow](reference-trend-audio-workflow.md) — user supplies licensed mp3 (no rip sites); match reference section via envelope correlation; frame-exact cuts
+- [Identify people carefully](feedback-identify-people-carefully.md) — never name a founder from hair colour/loose match; only verified shots, else ask
+- [Client originals over character set](feedback-client-originals-over-character-set.md) — never reuse batch-47 characters for general work; pick client model photos from Brand Assets/Images
+- [Voiced UGC pipeline](reference-voiced-ugc-pipeline.md) — Brielle VO + render2.py fast cuts with word captions/slam hooks (lilac 2026-10-20)
+- [Text blocks centred](feedback-text-blocks-centered.md) — purple blocks/pills behind text: centre on textbbox, never fixed offsets; check a zoomed frame
+- [Icons, not generation](feedback-icons-not-generation.md) — common objects → Noto Emoji icons (fonts.gstatic), don't burn the Higgsfield queue
+- [No orphans / filler labels](feedback-no-orphans-no-filler-labels.md) — full-sentence quotes, balanced manual line breaks, no single-word lines, no meaningless kickers
+- [Nano Banana placement](reference-nano-banana-placement.md) — product drifts into Story bottom 35% unless told SMALL with explicit % height; measure vs 270–1250 band
+- [Soft backgrounds, fill Story](feedback-soft-backgrounds-fill-story.md) — no harsh flat colours; pastel per-product gradient + glow; Story spacing per user frame 951:882 (CTA ~1308)
+- [Nano Banana product drawing](reference-nano-banana-product-drawing.md) — spell out capsule label anatomy (black stripe, white text, half cap, rounded bottom); table/counter products drift huge → hold at face depth
+- [Reference concept & colour](feedback-reference-concept-and-colour.md) — copy the reference idea+layout (vampire joke, emoji grid, quote ad); no brand-colour text on busy/gold bg; white pill + brand-colour text
+- [Video studio gates](feedback-video-studio-gates.md) — every video: brief → style guide → shot-list states → beat grid → contact sheet → fix top-3 defects; lemo-opuscar guides
+- [Code films verdict](feedback-code-films-verdict.md) — opuscar code films: brand palette + real PNGs (ERH ids inside); code-drawn characters rejected; use as offer/stat/3D components
+- [Countdown first](feedback-countdown-first.md) — offer ads: big countdown from frame 0, counting from 00:59 (MM:SS), stays all film
+- [Clean scientific videos](feedback-video-clean-scientific.md) — future videos: white/clean scientific look, restrained, few SFX, products/CTA may use bottom 35%, full-bleed not boxed
+- [Texture as scene element](feedback-texture-as-scene-element.md) — texture = gel swatch/smear/drop beside the product in normal visuals; never hands playing with gel ("slime")
+- [Text centred like the reference](feedback-text-centered-like-reference.md) — follow the ref's alignment (Prequel = centred); never side columns to dodge the product, change photo/crop instead
+- [Client product photos first](reference-client-product-photos.md) — Brand Assets/Images "All Products - New/Old Image": check these studio shots before generating (catalogue by file range)
+- [No repeated photos, relevant props](feedback-no-repeated-photos-relevant-props.md) — one photo per creative in a series; no pumpkins on PowerCycle; hand-held=real phone shots, else scientific folders; flip mirrored selfie frames
+- [Site copy snippets](sickscience-site-copy-snippets.md) — verbatim About/NX35/DO+NW benefits; fetch via browser JS (curl rate-limited), current product handles
+- [Real B/A first](feedback-real-ba-first.md) — use client real before/afters (Brand Assets/Images/<Product>/Before After) wherever they exist; AI B/A only as fallback

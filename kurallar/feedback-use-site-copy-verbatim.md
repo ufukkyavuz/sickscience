@@ -13,3 +13,5 @@ For any product fact on a creative (key ingredients, benefits, result percentage
 **Why:** user (2026-10-01) caught invented labels (Peptides, Bromelain, "for a firmer, de-puffed look") and said the brand already wrote everything on the site.
 
 **How to apply:** fetch the PDP before writing copy; if the site gives no description for an item, show the name only. Site wording overrides my own softening rules. Related: [[sickscience-client]], [[feedback-no-template-typography]].
+
+**Timeframe override (client, 2026-10-21):** in ads write "4 weeks", never "2 weeks". This applies even where the PDP says "in 2 Weeks" (Chisel Your Jawline, Reveal Your Glow, Visible change). All existing Figma texts in section 949:881 were updated.

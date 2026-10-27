@@ -119,3 +119,87 @@ Başka bir bilgisayarda devam ederken önce bunu, sonra proje klasöründeki `CL
 - ShapeShift – Kurucular Bölüm 2 – 9x16.mp4 (16,4 sn)
 - ShapeShift – Kurucular Bölüm 3 – 9x16.mp4 (14,1 sn)
 - Ürün filmi revizyonu bekliyor: proje `~/OpenMontage/projects/shapeshift-v2` (yeni `assets/dispense.mp4` jel; eski köpük `dispense_OLD_foam.mp4`, eski ses `vo_OLD_sultry.mp3`); ses adayları `_calisma/video-03-shapeshift/vo_v2/`
+
+## 2026-10-14 → 2026-10-27 — uzun oturum (Amazon mağazası, videolar, Cadılar Bayramı, Prequel tarzları, Q&A)
+
+Kararların tamamı CLAUDE.md ve `kurallar/` içinde. Burada iş akışı ve konumlar var.
+
+**Amazon Store (Figma `VS800zq8OqVWN7OlpctFQf`, sayfa "06 · Amazon Store", v1→v8)**
+- Beyaz cam/lab teması.
+- NX35 modülü: petri kaplarında ananas, turp-salatalık, sarımsak-buğday.
+- Konu kartları: önce mercek denendi, reddedildi; yerine beyaz stüdyo yakın çekimler.
+- What's inside: gerçek röntgen dili (tote çanta röntgeni A 910:904, koyu film B 2029:11).
+- Prompt'lar `prompts/batch-56…64-*.py`.
+
+**Videolar**
+- lemo-opuscar kuruldu, test edildi. Kod filmleri: Swiss v2, PowerCycle 3D. Kodla çizilen karakter filmi reddedildi (memory `feedback-code-films-verdict`).
+- Teklif/geri sayım filmleri (6 adet):
+  - Geri sayım 00:59'dan, ilk kareden büyük.
+  - Tam ekran board, marquee bantlar, az SFX.
+  - CTA altta değil, iç içe radius'lar, ürünler büyük.
+  - Sonrası için kural: beyaz, bilimsel, sade.
+- Doku videoları:
+  - Elde jel oynatılan ilk versiyon "slime" diye reddedildi.
+  - Gerçek müşteri çekimiyle yeniden yapıldı (batch-74), doku sahnenin parçası olarak (b73).
+  - Synth müzik rahatsız ediciydi; mgaudio piyano ile değiştirildi.
+- Farkı bul v2: selfie çeken kadın + karikatür önce/sonra (Figma 1139:1026). Reels: `Video/2026-10 Ekim/06 Trendler/<Ürün> – Farkı bul – 9x16.mp4`.
+
+**Statikler**
+- ShapeShift 8 format (Moroccanoil referansı):
+  - v1 sıcak 1051:956, v2 soğuk stüdyo 1079:980; kullanıcı düzenlemeleri 1081:980, 1089:1101.
+  - Auto-layout'a çevrildi.
+  - "Toplu düzelt" çok geniş uygulandı, F7/F8 bozuldu, geri alındı (memory `feedback-check-user-edits-before-rebuild`).
+- 4'lü grid 952:894/935/976: gerçek müşteri önce/sonra görselleriyle değiştirildi.
+- BoF/Reuters GLP-1 makalesi: 2 kreatif (1114:1031), AGENCY-RECOMMENDATIONS bölüm F.
+
+**Müşteri fotoğraf klasörleri (2026-10-23)**
+- "All Products - New Image" (137) ve "Old Image" (49) artık ilk kaynak.
+- Katalog: memory `reference-client-product-photos`.
+
+**Cadılar Bayramı (Figma "Ekim 2026")**
+- 1166:1010, müşteri çekimleri:
+  - H1 iskelet "NICE JAWLINE."
+  - H2 şeker "ZERO SUGAR. ALL TREAT."
+  - H3 folyo "NO TRICKS."
+  - O1 laboratuvar fayansı "POTION SEASON." Vault $144
+  - O2 "TWO AWARDS. NO TRICKS." Duo $108
+  - O3 sünger "TREATS SHIP FREE." $75+
+- 1177:1028, farklı düzenler:
+  - L1 TRICK/TREAT bölmesi
+  - L2 Notes listesi (Vault $144)
+  - L3 dekupe kafesin arkasında "BOO."
+- Geri bildirim: aynı fotoğraf tekrarı ve hep aynı layout reddedildi. Fotoğraflar değiştirildi.
+
+**Prequel referansı (müşteri) — 5 tarz (Figma "Ekim 2026")**
+- 1213:1036 "Calling all my ladies" turuncu bloklar:
+  - ShapeShift (sickscience11), DropOff (sickscience15), PowerCycle.
+  - PowerCycle balkabağı karesi reddedildi; yerine Ulta banyo videosundan çevrilmiş telefon karesi geldi.
+- 1219:1036, kalan dört tarz:
+  - P1 "AWARD-WINNING JAWLINE SERUM" + resmi rozetler, Old Image SS0880.
+  - P2 "THE VAULT VALUE SET" + yıldız + gerçek yorum (Dawn E.), laboratuvar sehpası S_1143.
+  - P3 "ngl this is peak body serum" + sitedeki DropOff etiketleri.
+  - P4 "Two cancer researchers' skin secret:" NetWork, Ulta karesi çevrildi.
+- Geri bildirim: yazılar referans gibi ortalı olmalı. Kalan kareleri kullanıcı elle düzeltti, onlara dokunulmaz.
+
+**IG Q&A (Merve'nin isteği, 2026-10-27)**
+- Figma "Ekim 2026 İG", 1217:1036, 4:5 carousel, 7 slayt. Referans: Hannah Bronfman Q&A postu.
+- Kurucu çekiminden fotoğraflar.
+- Cevaplar sitenin About ve NX35 metinlerinden; Merve'nin onayı bekleniyor.
+- Post açıklaması sohbette verildi.
+
+**Figma yetenekleri (INO'da 2026-10-25 test edildi)**
+- Masaüstünden Expand image.
+- Sadece kendi shader'larımız uygulanabiliyor (INO Glint).
+- Motion'da başlangıç zamanı `props.delay`.
+- Animasyonlu MP4 masaüstünden alınır, `export_video` ile değil.
+- Ayrıntı: memory `figma-yetenekler`.
+
+**Buzzfy:** skincare niş raporu okundu (sonuç önde açılış, demo/vitrin formatı, %79 CTA'sız). Kullanıcı bu konuyu sonra iptal etti.
+
+**Araçlar:** `tools/vision-lift.md`: Vision ile dekupe (binary `~/sickscience-work/tools/lift`).
+
+**Bekleyen sorular**
+- "Simulated results." yazısı farkı bul karelerine geri konsun mu?
+- Doku ve teklif videoları `Video/` klasörüne kopyalansın mı?
+- Q&A cevapları için Merve'nin onayı.
+- Cadılar Bayramı teklif fiyatları netleşecek.

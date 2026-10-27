@@ -37,3 +37,32 @@
 - **AOV:** Ücretsiz kargo eşiği $75. Tek ShapeShift $64 olduğu için pouch ($12) ile eşik aşılabilir. Sepette "add a pouch, ship free" upsell'i eklenmeli.
 - **Abonelik:** %47 tekrar alım oranı çok güçlü. PowerCycle (60 gün) ve DropOff için "protocol subscription" gibi bir isimlendirme önerilir.
 - **Erkek segmenti:** PowerCycle ve ShapeShift için "jawline + hairline" erkek kiti, Men's Health ödülüyle birlikte.
+
+## F. GLP-1 pazar anı (2026-10-22, kaynak: Reuters via The Business of Fashion, 21.10.2026, Polen'in yönlendirdiği mail)
+**Bağlam:** Galderma, L'Oréal ve Natura, GLP-1 kullanıcılarındaki yüz sarkması ve hacim kaybı ("Ozempic face") için ürün test ediyor. L'Oréal'ın sözü: "We are now testing products on GLP-1 users in separate studies…"
+- Pfizer'ın tahmini: obezite ilacı pazarı 2030'da yılda 150 milyar $.
+- BCG'nin tahmini: bu cilt sorunlarına yönelik klinik tedavi geliri 5 yılda yaklaşık 700 milyon $'dan 2 milyar $'a.
+- ABD'deki estetik kliniklerin %53'ü bu ilaçlar yüzünden hasta akını bekliyor (Medical Insight, 2024).
+
+SickScience'ın GLP-1 Facial Recovery System'i (NetWork + ShapeShift + Gua Sha, $162 → $137) 24.03.2026'dan beri satışta. Büyük markalar hâlâ test aşamasındayken bizim ürünümüz rafta.
+
+**Kitle:**
+- KFF'ye göre GLP-1'i en çok 50–64 yaş arası yetişkinler kullanıyor. Bu grupta kolajen kaybı ve perimenopoz/postmenopoz yaygın.
+- Bizim 35–60 hedefimiz bu kitleyi kapsıyor. GLP-1 kreatiflerinde 45–64 kadın ağırlık alabilir.
+- Mesaj: hızlı kilo kaybından sonra cildin görünümü, yani sıkılık, pürüzsüzlük ve çene ile boyun hattı.
+
+**İddia sınırı:** Haberdeki uzmanların görüşü:
+- Kremler cildin görünümünü ve hissini iyileştirebilir.
+- Kaybolan yağ dokusunu ve yüz hacmini geri getiremez.
+- "Ozempic face" ilaçtan değil, hızlı kilo kaybından kaynaklanıyor.
+
+Bu yüzden reklamlarda kullanılmayacak ifadeler: "restores volume", "fixes/cures Ozempic face", "first GLP-1 skincare", ilaç adları (Ozempic, Wegovy, Zepbound) ve tıbbi iddialar. Kullanılacaklar: sadece set sayfasındaki ifadeler ("Rebuild, lift, and restore the skin you're in.") ve "-looking" dili.
+
+**Meta hedefleme önerileri:**
+- **Yaş ve cinsiyet:** Kadın 45–64 ağırlıklı; ayrıca 35–44 için ayrı bir test seti.
+- **Kitleler:** Mevcut GLP-1 seti alıcılarından 1–3 % lookalike kitle. İlgi alanı katmanları: weight loss / healthy lifestyle / menopause / anti-aging skincare.
+- **Politika:** Meta'nın kilo ve sağlık politikası, kullanıcının kişisel özelliğini ima eden ifadeleri yasaklıyor. "Are you on GLP-1?" gibi doğrudan hitap yerine "after weight loss" veya "GLP-1 users" gibi üçüncü şahıs dili kullanılmalı. Vücut önce/sonra görselleri kullanılmamalı.
+- **Kreatif:** batch-77 (Figma "SS · GLP-1 market moment"):
+  - A: haber başlığı + ürün
+  - B: "Big beauty is still testing."
+- **Test:** A/B testine mevcut GLP-1 önce/sonra kreatifi (956:904) kontrol grubu olarak eklenmeli.

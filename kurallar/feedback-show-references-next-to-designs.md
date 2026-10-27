@@ -18,3 +18,5 @@ When creatives are adapted from competitor or reference ads, place the reference
 - Store it under `_calisma/<batch>/refs/` and upload it into a FIT rectangle beside the row.
 
 Related: [[feedback-no-template-typography]], [[sickscience-client]].
+
+**Adapting a reference = copy its mechanics, not just its layout** (user, 2026-10-21, angry: the SpoiledChild Problem/Solution grid had a before|after pair in every problem card and I put a single image). Before building, list every device in the reference (pairs, arrows, badges, icons, price strike) and reproduce each one. "Diğer referanslar" = the competitor's OTHER live ads in Meta Ad Library: scan the whole advertiser page and adapt many different formats, don't ask which.
