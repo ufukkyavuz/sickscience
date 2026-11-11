@@ -7,6 +7,24 @@ G = R + 'myth-gorsel/'
 W = (255, 255, 255)
 
 SPEC = {
+
+ # ---------------------------------------------------------------- 1 · Puffy face (no raw of the first steps: Berk's edit, cropped below his burned-in captions; finale from raw IMG_2946)
+ 'P': dict(name='NetWork – Puffy morning face', caps=False,
+   music=(PX + 'penguinmusic-lazy-day-239287.mp3', 0.0, 0),
+   segs=[dict(src=R + 'ref/berk_puffy_face.mp4', a=0.0, b=2.0, crop='844:1490:118:430'),
+         dict(src=R + 'ref/berk_puffy_face.mp4', a=2.3, b=5.8, speed=1.4, crop='844:1490:118:430'),
+         dict(src=R + 'ref/berk_puffy_face.mp4', a=7.0, b=11.5, speed=1.3, crop='844:1490:118:430'),
+         dict(src=R + 'ref/berk_puffy_face.mp4', a=13.0, b=19.5, speed=1.5, crop='844:1490:118:430'),
+         dict(src=R + 'ref/berk_puffy_face.mp4', a=20.3, b=25.8, speed=1.8, crop='844:1490:118:430'),
+         dict(src=SDR + 'puffy_2946.mov', a=27.0, b=33.1, speed=1.3, crop='940:1670:70:150')],
+   texts=[(0.1, 2.0, 'puffy morning face?', 'pop', 1320, 84, W),
+          (2.0, 4.5, 'headband on', 'slide', 1320, 84, W),
+          (4.5, 7.96, 'NetWork,\nall over the face', 'slide', 1320, 84, W),
+          (7.96, 12.29, 'SickScience gua sha,\njaw & neck', 'slide', 1320, 84, W),
+          (12.29, 15.35, 'quick glam', 'slide', 1320, 84, W),
+          (15.6, 20.04, 'ready.', 'pop', 1320, 96, W)],
+   sfx=[(2.0, 'swish'), (4.5, 'swish'), (7.96, 'swish'), (12.29, 'swish'), (15.35, 'whoosh')]),
+
  # ---------------------------------------------------------------- 2 · ShapeShift before/after (DropOff format)
  'B': dict(name='ShapeShift – That was my before', caps=True, fix={'before': 'before.', 'after': 'after.'},
    music=(PX + 'bombinsound-happy-advertising-hip-hop-magic-moments-628139.mp3', 2.0, -17),
