@@ -1,0 +1,30 @@
+Merhaba! Bir cilt bakımı markasının kuruluş hikâyesi videosu için anlatıcı metni yazmanı istiyorum. Mevcut metnimiz bilgileri sırayla sayıyor, hikâye gibi akmıyor. Senden gerçek bir hikâye anlatıcılığı istiyorum: merak uyandıran bir giriş, bir dönüm noktası, duygusal bir an, bir "aha" anı ve güçlü bir kapanış.
+
+FORMAT
+- Dikey video (Instagram Reels), toplam yaklaşık 105-115 saniye, en fazla ~270 İngilizce kelime.
+- Anlatıcı üçüncü şahıs, sakin, sıcak, kendinden emin (belgesel tonu). Dil: İngilizce (ABD). Kısa cümleler.
+- Görsel: her sahnede bir eskiz defterine elle çizim yapılıyor. Metni 14-15 sahneye böl; her sahne için (1) İngilizce anlatıcı cümlesi, (2) Türkçe çevirisi, (3) sayfaya elle çizilecek tek fikir (kısa, çizilebilir bir şey: 1-3 kelimelik el yazısı + basit çizim).
+- Yapıştırılmış gerçek fotoğraflar kullanabiliriz: kurucuların laboratuvarda birlikte fotoğrafı, mikroskopta bir fotoğraf, petri kaplarında ananas/sarımsak/buğday/turp fotoğrafları.
+
+REFERANS (yapı ve ton olarak bunun gibi ilerlesin; bu başka bir markanın videosu, içeriğini kopyalama):
+"Bu hikâyeyi size ilk defa anlatıyoruz. İno'nun hikâyesi iki deniz biyoloğuyla başladı. 8 yılda her şeyi değiştiren tek bir keşifle. Her şey Akdeniz'de başladı. ... Ama bir sorun vardı. ... Çözümü hidrolizde buldular. ... Bu keşif laboratuvarda kalmamalı, insanlarla buluşmalıydı. ... Akdeniz'de başlayan bu keşif şimdi senin ellerinde."
+
+GERÇEKLER (sadece bunları kullan, yeni iddia/sayı/ödül ekleme):
+- Marka: SickScience (SickScience Labs). Kurucular: Dr. Polen Koçak-Denizci ve Dr. Merve Yıldırım-Canpolat, iki genetikçi.
+- 2009'da bir kimya ve biyoloji dersinde tanıştılar; ardından uzun yıllar birlikte çalıştılar (metinde "fourteen years" kullanıyoruz, teyit bekliyor; istersen süre vermeden de yaz).
+- İkisi de Yeditepe Üniversitesi'nde biyoteknoloji doktorası yaptı. Polen ayrıca Harvard–MIT Health Sciences and Technology'de araştırmacıydı.
+- Merve, kanser araştırmalarında bitki kaynaklı eksozomlar üzerine çalıştı. Kök hücre üretimi, rejeneratif tıp ve eksozomların kanser araştırmalarındaki uygulamaları üzerine çalıştılar. Uluslararası patentler, 20-30 hakemli makale.
+- Merve'nin annesi mezotelyoma hastasıydı; tedavi yoktu ve araştırmaları henüz klinik öncesi aşamadaydı. Annesini kaybettikten sonra araştırmayı tamamlayıp yayımladılar. (Bu kısım saygılı ve ölçülü anlatılmalı; tıbbi iddia, "cure", "tedavi ettik" gibi şeyler yok.)
+- Karar: bilim laboratuvarda kalmamalı, insanların evine ulaşmalı.
+- Eksozomlar: bir hücrenin yaklaşık binde biri büyüklüğünde, hücreler arasında şifreli mesajlar taşıyan minik taşıyıcılar ("delivery drones" benzetmesi).
+- Kaynak bitkiler: ananas, sarımsak, buğday, turp. %100 bitkisel ve vegan.
+- NX35: biyomimetik platform; eksozom ayırma, oda sıcaklığında stabilizasyon ve kendi bitki kütüphaneleri. Soğuk zincir gerekmiyor.
+- Neden güzellik: klinik düzeyde bilimi insanların evde kullanabileceği formüllere taşımak. "Güzellik sektöründe herkes bilim insanı olduğunu söylüyor; çoğu pazarlamacı."
+- İsim: bir güzellik sektörü yöneticisi verilerini gördü ve "That's sick!" dedi (argo: "müthiş"). Cevapları: "No, that's science." Ve SickScience doğdu.
+- Ürünler: ShapeShift (boyun ve çene hattı), NetWork (yüz), PowerCycle (saç), DropOff (vücut).
+- 4 ürün, 14 ödül; aralarında Oprah, InStyle ve Esquire.
+- Kapanış cümlesi: "Science, but never boring."
+
+YASAKLAR: "permanent", "cure", "fat burning" gibi iddialar yok; uydurma rakam/ödül yok; "breakthrough/revolutionary" gibi abartı yok.
+
+Lütfen tablo halinde ver: Sahne no | Süre (sn) | English VO | Türkçe | Sayfaya çizilecek. En sonda toplam kelime ve süre tahmini.

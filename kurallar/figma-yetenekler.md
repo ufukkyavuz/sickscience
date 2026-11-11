@@ -47,11 +47,13 @@ Kaynak (tam not): INO memory `reference_figma_new_features.md` ve `feedback_figm
 - Asıl kullanımı dikey görseli 1:1 ve 4:5'e yanlara genişletmek (Higgsfield zoom-out yerine). Ürün kenarlarını yine de kontrol et.
 - Ürün çok yukarıda kalırsa: fotoğrafı 9:16 içinde %70, alta yaslı CROP fill yap, sonra Expand ile boşluğu doldur.
 - Masaüstü görünümü `use_figma` ile değişmez; Pages listesinden gezinilir.
+- 2026-11-01: arka planda `app_*` ile çalışıyor: katmanı Layers'tan seç, More (880,745) → Expand (element_index ya da 905,670) → Aspect ratio (775,744) → Square (815,679) → Submit (855,745); koordinatlar pencere 1512×797 içindir, ilk seferde kontrol et. İş ~20 sn. Bazı görseller "Blocked — try different input" verir (2 tekrar da aynı); o zaman düğüm 1935 genişlikte eski görselle kalır, boyutu geri al. Sonuç 1:1 master: Square 1120–1300, Feed 1350 ölçekte kullanılır. Tech neck ve balkabağı Square hazır oranında 4 kez bloklandı, kullanıcı aynı görselleri elle serbest genişlikte (2546×1935, 2019×1935) genişletebildi: blok olursa Custom oran dene, olmazsa kullanıcıya bırak, yeni görsel üretmeye geçme.
 
 **Shader**
 - Sadece dosyadaki ya da kullanıcının KENDİ shader'ları uygulanabiliyor. Figma'nın hazır shader'ları id ile gelmiyor: kaynağı `get_shader includeSource` ile okunur, `create_shader` ile kopyası yazılır (`team::1246029916185874651`).
 - Kendi shader'larımız (INO'da yapıldı, hesap kütüphanesinde): **INO Glint** (`4591c82d-bd2c-4d02-bb04-930ee7e8f32f`) — parlak alanlarda çapraz ışık süpürmesi. Sade ayar: intensity 0.55, threshold 0.62, width 0.07, softness 0.95; daha güçlüsü yüzü patlatıyor. Krom kapsül parıltısı için aday. Ayrıca INO Smear (`dacb992e…`) ve INO Pixel stretch (`b6fc3d3e…`; metinde işe yaramıyor).
 - Uygulama: `node.effects=[{type:'SHADER',id,visible:true,properties:{<propertyDefinitionId>:value}}]`. Anahtarlar tanım id'si, isim değil.
+- **SS Soft Blob** (`dd546dcf-9e0f-4e72-bf9a-fa7492bb34c2`, effect, 2026-11-01): düzenlenebilir metni düzensiz, dışa doğru şişirir; asla inceltmez. `importShaderById` ve efekt `id` için `listAvailableShaders()` içindeki sürümlü id kullanılır, çıplak id reddedilir. Onaylı ayar: blob 3.6, edge 0.04, wobble 1.1, swell 0.4, lump size 2.6, seed 5; metin kutusu line-height %170 (yoksa üst kenar kesilir). Sadece vurgu kelimesine uygulanır, cümlenin geri kalanı düz kalır (kullanıcı: "fontu değiştirme dedim… sadece standart yazısına").
 
 **Motion — çalışanlar**
 - Hazır stiller: TextStagger, Position, Scale, Rotation, Size, Opacity, Path. Özel stil: `createCustomAnimationStyle()` + `addAnimationEntryAsync`.
@@ -83,3 +85,16 @@ Kaynak (tam not): INO memory `reference_figma_new_features.md` ve `feedback_figm
 - Auto-layout çocuğunda `.x/.y` sessizce yok sayılır; sırayı `insertChild` ile değiştir.
 - `upload_assets` + `nodeId` bazen success döner ama fill değişmez. Hash'i geri okuyarak doğrula; olmazsa nodeId'siz yükle, hash'i ata, geçici node'u sil.
 - Düzenlemeden hemen sonra screenshot eski render dönebilir; `use_figma` ile özelliği okuyarak doğrula.
+
+**Expand, 2026-11-05 (SickScience Kasım itiraz serisi, 15 kare):**
+- Plugin selection doesn't reach the desktop app. Select the Photo row in Layers: click the frame row, press `right` to open it, then click Photo (the last row; row height ≈18.9 px). Before running anything heavy, press `alt+l` to collapse all layers.
+- The Expand bar has a **"Scale image" slider**. With Original ratio it zooms out evenly on all sides; use it when the product needs to shrink or move away from the text.
+- Portrait gives only 9:16, 3:4 and 2:3. There is no 4:5: use 3:4 for Feed and fit the width.
+- ⚠ The image toolbar puts **Remove background** right next to More. If the toolbar hasn't finished drawing, a click can land on it. Check the result with `fills` and fix it if needed: put the original back with `fills=[original, visible]`. A drag can also open a new "Untitled" draft. Zoom in after each step.
+- After Expand, the new photo should scale down to the frame's width or height. Keep the top at y ≤ 0 or a band of the frame fill shows. Map labels tied to the photo by its position as u = (x−px)/S.
+
+**Expand, 2026-11-06 (BF Square series, 31 frames):**
+- Click Layers rows at x≈240 (the empty right part of the row). Clicking at x≈120 sometimes only sets AXSelected and does nothing; take a fresh app_screenshot and click again.
+- Order per frame: click the frame row, `right`, zoom to find the Photo row, click Photo, More (880,745), Expand (909,670), Aspect (775,744), Square (809,679), drag the Scale slider 694→715, Submit (861,745). A zoom between steps works as a wait.
+- The slider zooms the source out inside the square, so the product ends up low with room above for the headline. Afterwards, through use_figma: Photo 1300×1300 at (-110,-40). If the product still touches the badges: 1420 at (-170,0).
+- ⚠ After Submit, a click that misses the Layers panel can select a frame on the canvas, and `right` then nudges it 1 px. Check frame x/y for round values afterwards.

@@ -15,3 +15,5 @@ What moved it: state the product's height as a share of the frame ("only 18% of 
 **How to apply:** after every 9:16 product still, measure the product's top and bottom against 270–1250 px of 1920 before building the Figma frame. If it sits low, fix the prompt as above; don't extend the frame with fills.
 
 Related: [[feedback-measure-product-vs-real]], [[feedback-same-image-all-formats]]
+
+2026-11-02: "the whole frame tilted 8 degrees" makes the model rotate the whole picture and leaves white wedges in the corners. Write "camera perfectly level, full-bleed, energy only from her body" and add rotated image/white wedges to the negatives. Capsule base still drifted about 30 points below the % asked (58% asked, 91% delivered), so plan Feed via Expand.

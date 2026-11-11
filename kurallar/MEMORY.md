@@ -1,4 +1,7 @@
 - [SickScience client](sickscience-client.md) — agency onboarding done 2026-10-01; visuals follow INO workflow
+- [Lens and product scale](feedback-lens-and-product-scale.md) — vary lens per concept; perspective may enlarge product; Expand covers formats; each creative its own direction
+- [Text integrated in scene](feedback-text-integrated-in-scene.md) — Figma text blended with effects, stays editable and clearly legible
+- [Text invert mask](reference-figma-text-invert-mask.md) — colour-flip text via group mask at index 0; Higgsfield composer newline helper and Video-mode trap
 - [No framed photos, be creative](feedback-no-framed-photos-be-creative.md) — full-bleed or PNG only (videos too: no letterboxed blocks); ads must sell
 - [No template typography](feedback-no-template-typography.md) — big editorial headlines like batch-01; no mono eyebrows/text logos/stacked templates
 - [Young beautiful models, studio look](feedback-models-in-30s.md) — late 20s, beautiful, studio-campaign lighting; realistic skin
@@ -11,7 +14,7 @@
 - [Brand font only](feedback-brand-font-only.md) — Founders Grotesk only, NO condensed cuts; never mono/handwriting fonts from references
 - [Product text white + NetWork spelling](feedback-product-text-white-and-network-spelling.md) — all on-product text pure white; "NetWork" capital W; use -v2 NW elements
 - [Show references next to designs](feedback-show-references-next-to-designs.md) — reference ad image beside each adapted row in Figma
-- [Product integrated, not pasted](feedback-product-integration-not-pasted.md) — INTEGRATION section in every prompt: same light, real reflections, contact shadow
+- [Product integrated, not pasted](feedback-product-integration-not-pasted.md) — INTEGRATION section in every prompt: same light, real reflections, contact shadow; product in the action, never parked at the side; seamless floor, no table edge
 - [Gel-serum texture](feedback-product-texture-gel-serum.md) — all product contents translucent milky gel-serum; not opaque white, not clear
 - [Vary layouts per concept](feedback-vary-layouts.md) — never default to centred headline on top; each concept its own structure
 - [B/A must match the person](feedback-ba-must-match-person.md) — never put a name/age on someone else's before/after; rotate different B/A sets
@@ -26,7 +29,7 @@
 - [Render memory](feedback-render-memory.md) — stream frames, background jobs, max 2 renders at once on 16 GB; temp off Drive
 - [Videos max 20 s](feedback-video-max-20s.md) — every video ad ≤20 s incl. end card; drop beats, don't over-speed speech
 - [No pasted product in video](feedback-no-pasted-product-in-video.md) — generate product inside the photo (real PNG as reference); never paste PNG into scenes/end cards
-- [Stills = web UI Nano Banana Pro Unlimited](reference-higgsfield-unlim-mcp.md) — ALL stills in Higgsfield web composer, Nano Banana Pro 2K Unlimited; never MCP credits
+- [Stills = web UI Nano Banana Pro Unlimited](reference-higgsfield-unlim-mcp.md) — ALL stills in Higgsfield web composer, Nano Banana Pro 2K Unlimited; never MCP credits; fill the 4-slot queue up front, never trickle one by one
 - [Podcast cut-down style](feedback-podcast-cutdown-style.md) — cut at sentence ends only; big dynamic word captions; punchy intro; per-camera crop
 - [IG organic = white, premium, graphic](feedback-ig-organic-premium.md) — organic posts: white bg, product as object, concept in the graphic; never ad-style headline on photo
 - [Delivery folders](feedback-delivery-folders.md) — finished videos only → Video/<YYYY-MM Ay>/01 UGC…04 Ulta, readable names; work stays in _calisma/
@@ -50,7 +53,7 @@
 - [No orphans / filler labels](feedback-no-orphans-no-filler-labels.md) — full-sentence quotes, balanced manual line breaks, no single-word lines, no meaningless kickers
 - [Nano Banana placement](reference-nano-banana-placement.md) — product drifts into Story bottom 35% unless told SMALL with explicit % height; measure vs 270–1250 band
 - [Soft backgrounds, fill Story](feedback-soft-backgrounds-fill-story.md) — no harsh flat colours; pastel per-product gradient + glow; Story spacing per user frame 951:882 (CTA ~1308)
-- [Nano Banana product drawing](reference-nano-banana-product-drawing.md) — spell out capsule label anatomy (black stripe, white text, half cap, rounded bottom); table/counter products drift huge → hold at face depth
+- [Nano Banana product drawing](reference-nano-banana-product-drawing.md) — spell out capsule anatomy (white text readable via dark reflection from lighting, half cap, rounded bottom); table/counter products drift huge → hold at face depth
 - [Reference concept & colour](feedback-reference-concept-and-colour.md) — copy the reference idea+layout (vampire joke, emoji grid, quote ad); no brand-colour text on busy/gold bg; white pill + brand-colour text
 - [Video studio gates](feedback-video-studio-gates.md) — every video: brief → style guide → shot-list states → beat grid → contact sheet → fix top-3 defects; lemo-opuscar guides
 - [Code films verdict](feedback-code-films-verdict.md) — opuscar code films: brand palette + real PNGs (ERH ids inside); code-drawn characters rejected; use as offer/stat/3D components
@@ -62,3 +65,51 @@
 - [No repeated photos, relevant props](feedback-no-repeated-photos-relevant-props.md) — one photo per creative in a series; no pumpkins on PowerCycle; lean scientific (preference, not a rule); flip mirrored selfie frames
 - [Site copy snippets](sickscience-site-copy-snippets.md) — verbatim About/NX35/DO+NW benefits; fetch via browser JS (curl rate-limited), current product handles
 - [Real B/A first](feedback-real-ba-first.md) — use client real before/afters (Brand Assets/Images/<Product>/Before After) wherever they exist; AI B/A only as fallback
+- [Creator UGC re-edit](reference-creator-ugc-reedit.md) — 'hook sıralaması' = HOOK→PRODUCT→PROOF→CLOSE reorder of creator's own sentences; wa-1028/render.py; drop fat claims; no zoom when captions are burned in
+- [Atria ad library](reference-atria-ad-library.md) — MCP search_library_ads: recent competitor ads + previews by brand/theme; verify our prices first; IMAGE fill on Figma text for chrome
+- [White backgrounds = scientific](feedback-white-backgrounds-scientific.md) — from 2026-10-30 grounds/backgrounds white-dominant for the science look; read reference materials accurately
+- [Expand in Figma only](feedback-expand-in-figma.md) — extend images with Figma's Expand, never by code padding/row repeat; no fade rects hiding seams
+- [Open every reference post](feedback-reference-open-every-post.md) — inspect all slides/video before adapting; keep carousel/video format; real scenes, not flat Figma shapes; never work from grid thumbnails
+- [Fix the flaw, keep the style](feedback-fix-defect-keep-style.md) — a complaint about one element is not a brief for a new scene; keep the liked setting and palette
+- [Polen personal social](project-polen-personal-social.md) — GRWM "final touch" reels for her own account; mirrored selfie clips; female ElevenLabs VO, small GRWM text
+- [INO video lessons](reference-ino-reels-structure.md) — hook → lead → body → open loop → CTA; real Pixabay music, mgaudio SFX only; check INO memory before video jobs
+- [Text reads whole and holds](feedback-text-reads-whole-and-holds.md) — video text holds to sentence end; no half-hidden letters; measure subject top, no clip-line reveals
+- [Scale relative to the scene](feedback-scale-relative-to-scene.md) — SCALE section: give product size as ratios to objects in the frame, keep cm too
+- [New concept per product](feedback-new-concept-per-product.md) — 'same for other products' = same style, new ideas; never recolour concepts
+- [Product stays centred horizontally](feedback-product-side-safe-zone.md) — product and key idea inside 15–85% of width; Reels UI hides the sides; measure the bbox
+- [Remove background in Figma](feedback-remove-background-in-figma.md) — cut-outs with Figma's own tool, never PIL masks or inpaint; regenerate instead of retouching
+- [Figma series layout](feedback-figma-series-sections.md) — one column per concept, formats stacked (ref, Feed, Story); concepts side by side; video button above the frame
+- [Format adaptations photo-first](feedback-format-adaptations-photo-first.md) — photo-scene references get generated scenes, not PNG on flat colour; text, UI and real-proof formats stay
+- [Check layout at full size](feedback-check-layout-full-size.md) — after any layout, view 1:1 crops and measure; text on photographed objects follows measured corners
+- [Our characters = founders](feedback-our-characters-founders.md) — 'bizim karakterler' = Merve + Polen elements; adapt references with them and show frames, don't just pitch
+- [Attach the reference image](feedback-reference-image-attach.md) — pin attached as image beats text; read light shape, tones, depth planes; real silver carton exists, never a black box
+- [Higgsfield composer refs](reference-higgsfield-composer-refs.md) — file_upload refs, mentions first, one Unlimited job at a time, hidden editor and focus traps
+- [Founder likeness method](reference-founder-real-elements.md) — portrait candidates → user pick → sheet → element → style; -real elements rejected, 3D elements no face source
+- [Capsule text legible via lighting](feedback-no-black-stripe-on-capsule.md) — dark card reflection behind white text on chrome capsules; never write 'stripe'; nothing on the DropOff tube
+- [iPhone HDR = native colour](feedback-iphone-hdr-tonemap.md) — HLG phone video: cut natively in 10-bit HLG, no tone-map/convert; overwrite delivered files, no v2 siblings
+- [Real imperfections](feedback-real-imperfections.md) — every photo prompt adds subtle dust, hairline scratches, smudges, grain; labels stay clean
+- [Don't ask, finish](feedback-dont-ask-just-finish.md) — asked fixes go all the way into every Figma format; no 'should I place it?' questions
+- [QC every frame, measured](feedback-qc-every-frame-measured.md) — render all frames, measure text contrast + product edge/overlap before reporting; user doesn't check
+- [Copy reference layout exactly](feedback-copy-reference-layout-exactly.md) — measure ref positions/type sizes as % and replicate; no own layouts; no logo on Feed/Square
+- [Founders timeline](reference-founders-timeline.md) — 2009–2025 photo timeline in Merve's Canva (not shared yet); captions + film plan in _calisma/video-brand-story-drawn/TIMELINE.md
+- [No reference image for people](feedback-no-ref-image-for-people.md) — never attach a competitor photo of a person to Higgsfield (copies her); text pose logic + clearly different woman, pro campaign finish
+- [Reply in short Turkish](feedback-reply-in-short-turkish.md) — chat replies always short Turkish; English only inside deliverables
+- [Handwriting animation](feedback-handwriting-animation.md) — notebook films: strokes drawn left→right fast (2,0,0,9), stroke-following not masks, steady pen, keep ink texture, camera pans
+- [UGC viral edit style](reference-ugc-viral-edit-style.md) — 2026-11-06 All UGC viral re-edits: Buzzfy rules + big word behind head (only with headroom), Drive read-in-place + evict, billo crop
+- [Brand film: no product list](feedback-brand-film-no-product-list.md) — founders film never names/counts/draws products; corrections apply to every version
+- [Edge complaints = camera, not layout](feedback-frame-problem-fix-camera-not-layout.md) — text near frame edge: widen camera / Figma-Expand the plate; never move approved page layout
+- [Keep everything in Drive](feedback-keep-everything-in-drive.md) — project files/engines/assets live in Drive _calisma, not ~/; only temp frames in /tmp
+- [Founders film next round](project-founders-film-next-round.md) — on hold for photos; approve final layout still first, then regenerate; change music (known track)
+- [Motion studio repos](reference-motion-studio-repos.md) — Blender MCP + earshot MCP + claymation/painted/kinetic/remotion skills in ~/motion-tools/repos
+- [Hailey hook longer](feedback-hailey-hook-longer.md) — interview hooks open on the question and hold ~6–8 s; longer cuts are extras, approved cut stays
+- [Concept visuals via Pinterest ref](feedback-concept-visuals-pinterest-reference.md) — occasion visuals (award/celebration) start from a Pinterest reference attached in Higgsfield, text-free; never flat product on white
+
+- [Formats stacked in one column](feedback-formats-stacked-one-column.md) — Figma: per variant one column Story→Feed→Square; Square via desktop Expand
+- [Generate in the SickScience project](feedback-higgsfield-generate-in-project.md) — use project page Image mode, not /ai/image
+- [Research before layouts](feedback-research-before-generating-layouts.md) — B/A = large portrait panels; award visuals bright, sparse confetti, no black
+- [UGC lively text, mixed products](feedback-ugc-lively-text-mixed-products.md) — not DropOff-heavy; known faces; animated text per video
+- [No product label card](feedback-no-product-label-card.md) — no rounded white name card with accent bar over videos; AI slop
+- [Colours must not shift](feedback-colours-must-not-shift.md) — every video: verify source vs output colour numerically; brand palette only in overlays
+- [No synth music bed](feedback-no-synth-music-bed.md) — real Pixabay track, different per video; mgaudio SFX only
+- [Vox-style explainer](reference-vox-style-explainer.md) — colour-tracked spotlight + arrow labels; keep all science, trim only dead gaps
+- [Feedback stays on that video](feedback-one-video-feedback-stays-on-that-video.md) — never re-render other delivered videos; restored 01-10 after unrequested music swap

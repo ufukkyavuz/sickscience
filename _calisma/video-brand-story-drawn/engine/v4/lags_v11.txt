@@ -1,0 +1,31 @@
+strokes ready
+spread match: differing px share 0.0
+elements 201
+paths ready
+schedule 4.06 -> 97.11 END_PULL 98.02
+7.7 2009 -0.09
+10.1 Polen -0.22
+10.4 Merve -0.06
+19.0 stem cells 0.89
+20.0 regenerative med. 1.07
+22.0 exosomes · cancer 0.18
+35.8 preclinical -0.22
+39.2 published -0.22
+47.3 exosomes -0.22
+52.8 coded messages -0.22
+55.8 PINEAPPLE 0.25
+56.7 GARLIC 0.07
+57.3 WHEAT -0.06
+57.9 RADISH -0.18
+60.3 100% plant-based · -0.18
+64.3 biomimetic 0.3
+67.2 STABILIZATION -0.22
+70.3 LIBRARY -0.22
+74.3 HOME 0.69
+79.5 scientist? -0.08
+85.4 "THAT'S SICK!" -0.22
+87.9 No, that's science -0.22
+90.0 SickScience -0.22
+92.5 bring it home 0.48
+94.5 14 AWARDS -0.12
+96.1 Oprah · InStyle ·  -0.19

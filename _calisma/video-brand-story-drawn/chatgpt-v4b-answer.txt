@@ -1,0 +1,526 @@
+Sonunda sayfa yerleşimini de güncelle.
+…
+Show more
+Worked for 2m 41s
+Analyzed
+Analyzed
+ChatGPT said:
+SickScience — How It All Began
+
+Organic Brand Story · 9:16 · 114 seconds · Third-person narrator · US English
+
+Transkripti temel alarak hikâyeyi yeniden kurdum. INO'nun anlatımında çok iyi çalışan üç şey var: kısa ve merak uyandıran cümleler, “ama bir sorun vardı” gibi net kırılma noktaları ve bilimsel keşfin bir markaya dönüşmesi.
+
+SickScience için de aynı anlatım ritmini kullanıyorum. Ancak birebir aynı olay örgüsünü zorlamıyorum; Merve'nin annesiyle ilgili bölüm sakin ve saygılı kalıyor, tıbbi araştırma ile kozmetik ürünler arasında tedavi veya sonuç iddiası kurulmuyor.
+
+1. Yeni hikâye akışı
+
+İki genetikçiyle başlıyor
+
+2009 · 14 yıl · akademik geçmiş
+
+00–32s
+
+Ama bir sorun vardı
+
+Merve'nin annesi · preklinik araştırma · karar
+
+32–53s
+
+Bilimin arkasındaki mekanizma
+
+Exosomes · bitkiler · NX35
+
+53–83s
+
+Neden güzellik?
+
+Bilim insanları ve pazarlamacılar · evde kullanım
+
+83–92s
+
+SickScience doğuyor
+
+That's sick! · No, that's science. · ürünler
+
+92–114s
+
+2. İngilizce anlatıcı metni + eşzamanlı defter çizimleri
+
+Hedef: 114 saniye. Referansa benzer konuşma temposu. Süreler kurgu taslağıdır; son kayıtla netleştirilecek.
+
+PAGE 01 — The Beginning (00–64s)
+
+Time
+
+	
+
+Narrator (English)
+
+	
+
+Defterde o an çizilen / yazılan
+
+
+
+
+00–03
+
+	
+
+"We're telling this story for the first time."
+
+	
+
+Başta tamamlanmış iki sayfa kısa bir an görünür. Ardından ilk sayfaya kesilir, THE STORY yazılır.
+
+
+
+
+03–06
+
+	
+
+"SickScience began with two geneticists."
+
+	
+
+Laboratuvar önlüklü iki kadın bilim insanı çizilmeye başlanır.
+
+
+
+
+06–12
+
+	
+
+"Polen Koçak-Denizci and Merve Yıldırım-Canpolat. They met in a chemistry and biology class in 2009."
+
+	
+
+İki figür tamamlanır, altlarına isimler yazılır. Araya kimyasal bağ ve [BIG, yellow] 2009 eklenir.
+
+
+
+
+12–15
+
+	
+
+"Then came fourteen years of working together."
+
+	
+
+İki figürden ortak zaman çizgisi çıkar. [BIG, yellow] 14 YEARS.
+
+
+
+
+15–22
+
+	
+
+"Both earned biotechnology PhDs at Yeditepe. Polen was also a research scholar at Harvard–MIT Health Sciences and Technology."
+
+	
+
+İki doktora belgesi çizimi, YEDITEPE · PhD. Polen'in ismine uzanan HARVARD–MIT HST notu.
+
+
+
+
+22–28
+
+	
+
+"They studied stem cell production, regenerative medicine, and exosome applications in cancer research."
+
+	
+
+Üç küçük araştırma diyagramı: kök hücre, rejeneratif tıp, hücreler arasında exosome şeması.
+
+
+
+
+28–32
+
+	
+
+"International patents. Twenty to thirty peer-reviewed papers."
+
+	
+
+Patent dosyası ve yayın sayfaları. [BIG, yellow] 20–30 PAPERS.
+
+
+
+
+32–34
+
+	
+
+"But there was a problem."
+
+	
+
+Kamera ilk sayfanın daha boş alt bölümüne iner. Kalem kısa bir an durur.
+
+
+
+
+34–41
+
+	
+
+"Merve's mother had mesothelioma. No treatment was available. And their research was still preclinical."
+
+	
+
+Çok küçük el yazısıyla for mom ve preclinical. Highlighter, dramatik sembol veya büyük hastalık adı yok.
+
+
+
+
+41–46
+
+	
+
+"After her mother passed, they finished and published the research."
+
+	
+
+Bilimsel makale sayfası çizilir; yanına küçük published research notu eklenir.
+
+
+
+
+46–50
+
+	
+
+"Then they made a decision. Science couldn't stay in the lab."
+
+	
+
+in the lab yazılır. Yalnızca lab kelimesinin üstü çizilir.
+
+
+
+
+50–53
+
+	
+
+"It needed to reach people's homes."
+
+	
+
+Aynı notun üstüne at home yazılır. Bu, ilk sayfanın en önemli görsel dönüşümü.
+
+
+
+
+53–56
+
+	
+
+"At the center? Exosomes."
+
+	
+
+Hücre çizimi ortaya çıkar. İçinden salınan küçük partiküller gösterilir.
+
+
+
+
+56–62
+
+	
+
+"Tiny carriers, about one-thousandth of a cell's size, delivering coded messages between cells."
+
+	
+
+Büyük hücre ve yanında küçük exosome karşılaştırması. [BIG, yellow] 1/1000. İki hücre arasında kodlu mesajı temsil eden oklar.
+
+
+
+
+62–64
+
+	
+
+"Think delivery drones."
+
+	
+
+Bir exosome, iki hücre arasında mesaj taşıyan minik bir drone benzetmesiyle işaretlenir. Kamera sağ sayfaya kayar.
+
+PAGE 02 — The Science Becomes a Brand (64–114s)
+
+Time
+
+	
+
+Narrator (English)
+
+	
+
+Defterde o an çizilen / yazılan
+
+
+
+
+64–69
+
+	
+
+"Their source? Plants. Pineapple, garlic, wheat, and radish."
+
+	
+
+Yuvarlak, gerçek petri kabı fotoğrafları görünür. FIG. 01 PINEAPPLE / FIG. 02 GARLIC / FIG. 03 WHEAT / FIG. 04 RADISH.
+
+
+
+
+69–73
+
+	
+
+"Thousands of plant messages. One hundred percent plant-based and vegan."
+
+	
+
+Dört fotoğraftan çıkan ince bağlantılar bir kütüphane şemasında birleşir. [BIG, yellow] THOUSANDS. Küçük 100% PLANT-BASED · VEGAN.
+
+
+
+
+73–75
+
+	
+
+"Then came NX35."
+
+	
+
+Sayfanın ortasına formül başlığı gibi büyük NX35 yazılır.
+
+
+
+
+75–81
+
+	
+
+"A biomimetic platform: exosome separation, room-temperature stabilization, and their plant library."
+
+	
+
+NX35'in altında birbirine bağlı üç bölüm: SEPARATION → STABILIZATION → LIBRARY. Altında küçük biomimetic.
+
+
+
+
+81–83
+
+	
+
+"No cold chain."
+
+	
+
+Soğuk zincir sembolünün üzeri çizilir. Yanına ROOM TEMPERATURE yazılır.
+
+
+
+
+83–88
+
+	
+
+"Why beauty? Clinical-level science, in formulas people could use at home."
+
+	
+
+Laboratuvar beherinden kozmetik şişesine yönelen ok. LAB → HOME.
+
+
+
+
+88–92
+
+	
+
+"Everyone in beauty says they're a scientist. Most are marketers."
+
+	
+
+scientist? yazılır, üstü çizilir. Altına marketer. yazılır.
+
+
+
+
+92–96
+
+	
+
+"Then a beauty executive saw their data. 'That's sick!'"
+
+	
+
+Küçük veri grafiğinin yanında büyük el yazısıyla THAT'S SICK!
+
+
+
+
+96–100
+
+	
+
+"Their answer? 'No, that's science.' And SickScience was born."
+
+	
+
+No, that's science. yazılır. Altına [BIG, violet] SICKSCIENCE.
+
+
+
+
+100–108
+
+	
+
+"ShapeShift for neck and jawline. NetWork for face. PowerCycle for hair. DropOff for body."
+
+	
+
+Dört ürünün teknik silüetleri. Adları sırayla [violet] ShapeShift, [red] NetWork, [green] PowerCycle, [cobalt] DropOff.
+
+
+
+
+108–112
+
+	
+
+"Four products. Fourteen awards. Oprah, InStyle, and Esquire."
+
+	
+
+[BIG, yellow] 14 AWARDS. Altında küçük OPRAH · INSTYLE · ESQUIRE notları.
+
+
+
+
+112–114
+
+	
+
+"Science, but never boring."
+
+	
+
+Kamera uzaklaşır. Tamamlanmış iki sayfa ve beyaz laboratuvar tezgâhında dört gerçek ürün. Kapanış yazısı.
+
+3. Güncellenmiş iki sayfalık defter düzeni
+
+İlk versiyondan farklı olarak her sayfanın bir anlatı görevi var. Yazılar ve çizimler bağımsız dekoratif parçalar gibi durmamalı; oklarla, numaralarla ve bilimsel notlarla birbirlerine bağlanmalı.
+
+Sol sayfa — The Researchers
+
+01 / ORIGIN
+
+LAB NOTES
+
+POLEN
+
+2009
+
+MERVE
+
+14 YEARS
+
+Yeditepe · PhDs · Harvard–MIT
+
+STEM CELLS
+
+RESEARCH
+
+PATENTS
+
+for mom
+
+preclinical → published
+
+in the lab
+
+at home
+1/1000
+
+Sağ sayfa — The Platform & Brand
+
+02 / APPLICATION
+
+LAB NOTES
+
+PINEAPPLE
+
+GARLIC
+
+WHEAT
+
+RADISH
+
+NX35
+
+SEPARATION → STABILIZATION → LIBRARY
+
+ROOM TEMPERATURE · BIOMIMETIC
+
+scientist?
+
+marketer.
+
+LAB → HOME
+
+THAT'S SICK!
+
+No, that's science.
+
+SickScience
+
+SHAPESHIFT
+
+NETWORK
+
+POWERCYCLE
+
+DROPOFF
+
+14 AWARDS
+
+Oprah · InStyle · Esquire
+
+Şematik yerleşim: İkonlar ve renk blokları yalnızca nihai çizimlerin/fotoğrafların konumlarını gösteriyor. Her iki sayfa da başlangıçta tek geniş kadrajda, devamında yakın planlarda görülecek.
+4. Referansa yaklaşmak için önemli kurgu kararları
+
+Birinci kırılma — “But there was a problem.” INO'da teknik problemin başlangıcını haber veriyor. SickScience'ta bu cümle daha kişisel bir hikâyeye açılıyor. Kamera hareketi sakinleşiyor; Merve'nin annesine ilişkin notlar küçük kalıyor. Sonrasında yayımlanan araştırma ve laboratuvardan çıkış kararı geliyor.
+
+İkinci kırılma — “Then came NX35.” INO'daki hidroliz / patentli teknoloji bölümünün bizim hikâyemizdeki karşılığı. Bu sahne, ürünlerin kendisinden önce teknolojiyi anlaşılır hâle getiriyor. Üç parçalı NX35 diyagramı sayfanın ana bilimsel görseli olmalı.
+
+Üçüncü kırılma — “Everyone in beauty says they're a scientist. Most are marketers.” Burada ikinci bir üstünü çizme hareketi kullanıyoruz. Bu, markanın yaklaşımını doğrudan anlatıyor ve isim hikâyesine geçişi hazırlıyor.
+
+Kapanış: INO'daki “Akdeniz'de başlayan bu keşif şimdi senin ellerinde” mantığını, doğrulanmamış bir ürün etkisi vaat etmeden uyguluyoruz. Bilimsel geçmiş → evde kullanılan ürünler → gerçek ürünlerin defter yanında ortaya çıkışı. Son cümle: “Science, but never boring.”
+
+Bu versiyonun en önemli avantajı, markayı dört ürünün reklamı olarak değil, iki genetikçinin araştırmalarının nasıl bir güzellik markasına dönüştüğünü anlatan bir kuruluş hikâyesi olarak konumlandırması.
+
+ChatGPT can make mistakes. Check important info.
+Latest response
+
+
+
+
+Thinking effort
+High

@@ -16,14 +16,15 @@ On 2026-10-13 the user said to use their Google Flow credits for Veo videos inst
 
 **Generate:**
 - Type into the right-side agent chat (find "Ne oluşturmak istiyorsunuz?").
-- Name the uploaded file and write: "Veo 3.1 Fast, 9:16, 8 s, exact first frame…", then the spoken line in quotes.
+- **Attach the still explicitly (2026-10-30):** naming the file is not enough; the agent took another session's newest upload instead and spent 20 credits on the wrong frame. Open chat `+`, search the name, click "İsteme ekle", check the thumbnail in the message, then write "Use ONLY the attached image". Enter does send when an image is attached.
+- Write: "Veo 3.1 Fast, 9:16, 8 s, exact first frame…", then the spoken line in quotes.
 - Send with the "Oluşturmaya başla" button; Enter only adds a newline.
 - The agent asks "20 kredi… başlatmamı ister misiniz?". Click the LAST `[role=radio]` "Onayla", not "Her zaman onayla".
-- Under heavy load a job can fail ("Başarısız"); just resubmit.
+- Under heavy load a job can fail ("Başarısız"); just resubmit. The Veo 3.1 Fast daily limit also shows as "Başarısız" (no credits charged); it blocks until the next day.
 
 **Download:**
 - The user gave permanent OK on 2026-10-13: "var izinlerin zaten".
-- Open the video, click "Medyayı indir", choose 720p "Orijinal boyut".
+- Open the video, click "Medyayı indir", choose 1080p "Yükseltilmiş" (about 1 min, native 1080x1920, no extra credits shown) or 720p "Orijinal boyut". The menu opens only on a coordinate click, not a ref click.
 - Then MOVE the file from ~/Downloads into `_calisma/.../clips/`. Never leave copies in Downloads.
 - A direct fetch of flow-content.google is blocked by CORS.
 

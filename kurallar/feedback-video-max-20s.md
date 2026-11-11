@@ -14,3 +14,5 @@ Every video ad (UGC, flow edits, press clips) must be 20 s or shorter, end card 
 - Drop whole beats rather than racing the speech (speed ≤1.1×).
 
 Related: [[feedback-render-memory]]
+
+**Organic exception (user, 2026-10-30):** organic Instagram reels may run 30–60 s. The 20 s cap stays for paid ads.

@@ -1,6 +1,6 @@
 ---
 name: reference-nano-banana-product-drawing
-description: "Capsule label anatomy must be spelled out in every prompt (full-height black stripe, white text on it, cap = exact half, rounded bottom); products on counters/tables drift to the foreground and get oversized — prefer in-hand at face depth"
+description: "Capsule label anatomy must be spelled out in every prompt (white text made readable by a dark card reflection set up in the lighting, never a drawn stripe; cap = exact half, rounded bottom); products on counters/tables drift to the foreground and get oversized — prefer in-hand at face depth"
 metadata:
   node_type: memory
   type: reference
@@ -11,8 +11,8 @@ metadata:
 Batch-70 (2026-10-21). The user rejected the NetWork dark scene: "ürün yanlış". Even with the element attached, the model drew the text straight on the chrome, left out the black stripe, made the cap short and the bottom flat.
 
 **What fixed it:** the CAP block in `prompts/batch-70-contextual-scenes.py`. It spells out the label anatomy:
-- A narrow vertical BLACK stripe runs the full height over both halves.
-- Every word is pure white on that stripe, never text directly on the chrome.
+- Legibility comes from lighting: a black card reflection behind the white text; never prompt a stripe, nothing on the DropOff tube. See [[feedback-no-black-stripe-on-capsule]].
+- Every word is thin pure white printed directly on the chrome.
 - The cap is exactly the upper half.
 - The ends are fully rounded top AND bottom; never flat-bottomed.
 

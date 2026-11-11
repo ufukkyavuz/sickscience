@@ -1,0 +1,5 @@
+Music (Meta Sound Collection, Reels Sound) per video:
+batch-114 vault: Shopped Til I Dropped / network: Obsessed / powercycle: Style Check / shapeshift: 80s Synthwave
+batch-115 vault_bf: Black Cat Energy / network_bf: Beautifully Stranded / shapeshift_bf: Dirty
+batch-113 price: Hip Hop Beat / receipt: I Like That / equation: Excited Day / chart: We Have a Winner
+SFX: mgaudio (sfx_v2.py), styled after user ref reel DYw7nBBPLo_ (boom, camera charge+flash, timer slowing, stutter riser, gear click, metallic riser, bass drop)

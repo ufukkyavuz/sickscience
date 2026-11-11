@@ -18,3 +18,7 @@ User 2026-10-20 (ShapeShift VO cuts): "yazıların arkasına attığın kareler 
 Related: [[reference-voiced-ugc-pipeline]] [[feedback-podcast-cutdown-style]]
 
 **Figma pills/CTAs (user, 2026-10-21: "butonlara niye üstten 22 alttan 18 verdin?"):** never use asymmetric "optical" padding. Set the text's leadingTrim = 'CAP_HEIGHT' and use equal top/bottom padding (CTA standard: 30/30, 64 sides, Founders Bold 40 → 85 px pill). Then measure the ink gaps on an exported screenshot. Founders Grotesk caps already sit low in the untrimmed box, so 22/18 pushed the text 4 px down.
+
+**Figma: line height stays Auto, badge text truly centred (user, 2026-10-30, angry: "şu badgeleri falan ortalı yapmıyosun ve textlere kafana göre line height atıyosun auto da kalsın onlar bozma sürekli").**
+- Never set `lineHeight` on Figma text. Leave it Auto on every text node, always, unless the user asks otherwise.
+- Text inside badges, stickers, seals and pills must look centred, both axes. Founders Grotesk caps sit high in the line box, so `textAlignVertical: CENTER` alone is not enough: measure the font (ascent, descent, cap height) and shift the text down by the difference, then check a zoomed screenshot.

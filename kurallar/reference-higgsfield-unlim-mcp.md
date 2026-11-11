@@ -35,3 +35,9 @@ Related: [[reference-motion-tools]]
 - Web UI Unlimited allows **max 4 queued jobs** ("1 unlimited at a time… switch to credits" toast on the 5th).
 - Pick @mentions with the keyboard: type the full name, wait 2 s, then Enter (first option) or Down+Enter. Option order is `open-*`, plain, `otg-*`. Clicking a stale ref selects the wrong item.
 - Check the chip BEFORE clicking Generate, in a separate step.
+
+**Batch, don't trickle (user, 2026-10-30: "tek tek üretmesene olm sıradan bas geç tek seferde 4 üretim hakkın var").** Before the first submit, list every image the job needs and fill the 4-slot queue straight away, without waiting or doing other work between submits; top up as slots free. One job processes at a time, but the queue takes 4.
+
+**Long prompts (2026-10-30):** a long `computer type` can silently fail to reach the composer, and jobs then go out with only the element chip. Insert with JS `document.execCommand('insertText')`, then confirm the prompt on the first job before filling the queue.
+
+2026-11-02: raising the composer's count above 1/4 silently turns Unlimited OFF and the button becomes credit "Generate +N". Keep 1/4; for variations send the same prompt twice about 45 s apart. Lowering the count does not re-enable it, so check the toggle is green and the button reads UNLIMITED before clicking.

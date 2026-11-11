@@ -30,3 +30,5 @@ Related: [[reference-claude-setup-kit]]
 **Transcription:** `mlx-whisper` is installed in `~/motion-tools/.venv` (2026-10-09). Use it for word timestamps (model `mlx-community/whisper-large-v3-turbo`); session scratchpad venvs get wiped between sessions.
 
 **2026-10-21:** `~/motion-tools/ext-x-2026-10-21/` holds 7 reference repos of Opus code-rendered video work (prompts, mg-styles-15 sources, p5.brush character kit). Its README summarises them along with the "motion studio" article: brief, style guide, shot list as states, seekable frames, contact-sheet critic fixing the top 3 defects, gates. The lemo-opuscar plugin is not installed; the user installs it via /plugin.
+
+**2026-10-30:** mgaudio is for SFX only, not music beds; see [[reference-ino-reels-structure]].

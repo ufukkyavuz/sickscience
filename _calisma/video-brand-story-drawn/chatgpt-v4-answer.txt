@@ -1,0 +1,504 @@
+SickScience — The Story Behind the Science
+
+Organic Brand Film · 9:16 · Target duration: 110–115 seconds · US English
+
+1. INO referansının analizi
+
+Yüklediğin 114 saniyelik videonun görüntülerini inceledim. Ses kanalı mevcut ancak konuşmaları güvenilir şekilde transkribe edemedim; bu nedenle anlatıcının tam cümlelerini bildiğimi iddia etmiyorum. Anlatıcı dili açısından senin tarif ettiğin üçüncü şahıs, “ilk kez anlatıyoruz” yaklaşımını esas alıyorum.
+
+En önemli gözlem: INO videosunun gücü, sürekli yeni görüntülere geçmesinde değil; anlatılan bilgilerin aynı defterin üzerinde giderek birikmesinde.
+
+00–04 sn
+
+	“İlk kez anlatıyoruz / INO nasıl doğdu?” açılışı; bitmiş iki sayfa ve ürünler.
+
+
+04–15 sn
+
+	Boş sayfaya dönüş. İki deniz biyoloğunun çizimi, “1 Keşif”, deniz görseli.
+
+
+15–31 sn
+
+	“8 yıl”, ikinci yuvarlak görsel, karşılaştırmalı grafik ve “2 kat”.
+
+
+31–49 sn
+
+	Bilimsel mekanizma: çizgiler, partiküller, oklar ve katmanlar. Anlatı görsel diyagrama dönüşüyor.
+
+
+49–62 sn
+
+	“İlk ve tek saf form” vurgusu ve ilk sayfanın tamamlanması.
+
+
+63–92 sn
+
+	İkinci sayfa: Latro Kimya, Ar-Ge merkezi, laboratuvar sembolleri ve INO logosunun kurulması.
+
+
+92–110 sn
+
+	Makyaj ve cilt bakımını birleştiren Venn diyagramı, ürün kullanımına ilişkin küçük çizimler, “Artık bir arada.”
+
+
+110–114 sn
+
+	Yeniden geniş açı: tamamlanmış iki sayfa, gerçek ürünler ve marka kapanışı.
+
+Bunu 11 ana görsel beat olarak grupluyorum; her beat içinde birkaç küçük çizim hareketi var.
+
+Referansın tasarım mantığı:
+
+Anlatım: Hikâye kronolojik ilerliyor. Her bilgi, bir sonrakinin nedenini açıklıyor. Satış konuşmasından çok markanın kuruluşunu anlatan kısa bir belgesel.
+
+Tempo: Pen hareketleri kesintisiz hissettiriliyor ama tek bir uzun çizime bağlı değil. Sayılar, anahtar kelimeler ve diyagramlar sırayla ortaya çıkıyor.
+
+Görsel hiyerarşi: Büyük rakamlar ve kalın el yazısı ilk okunacak şeyler. Küçük notlar ve bilimsel çizimler ikinci katman.
+
+Sayfa yapısı: Giriş ve kapanışta iki sayfalık genel görünüm; hikâye sırasında sayfa yakın planları. Birinci sayfa tamamlandıktan sonra ikinci sayfaya geçiliyor.
+
+SickScience'ta aynı mantığı kullanırdım: Önce insanları, sonra araştırmayı, ardından kişisel motivasyonu, teknolojiyi ve en sonunda markayı anlatmak. Ürünler hikâyenin başlangıcı değil, sonucu olacak.
+
+2. SickScience — English narrator script
+
+Third-person narrator · Approx. 115–120 seconds · 22 narrative segments
+
+Writing
+
+For the first time, here's how SickScience began. With two geneticists.
+
+Polen Koçak-Denizci and Merve Yıldırım-Canpolat met in a chemistry and biology class in 2009.
+
+They worked together for fourteen years. Both earned biotechnology PhDs at Yeditepe University. Polen was also a research scholar at Harvard–MIT Health Sciences and Technology.
+
+Together, they studied stem cell production, regenerative medicine, and exosome applications in cancer research. Their work includes international patents and twenty to thirty peer-reviewed papers.
+
+For Merve, the research was personal. Her mother had mesothelioma, with no treatment available. Their research was still preclinical when her mother passed away.
+
+Afterward, they finished and published the research. Then they made a decision: take science beyond the lab, into people's homes.
+
+At the center of their work were exosomes. Tiny carriers, roughly one-thousandth the size of a cell. Like delivery drones, they carry coded messages between cells.
+
+Their exosomes come from plants: pineapple, garlic, wheat, and radish. A library of thousands of plant messages. One hundred percent plant-based and vegan.
+
+Then came NX35. A biomimetic platform combining exosome separation, room-temperature stabilization without a cold chain, and their plant library.
+
+Why beauty? Everyone says they're a scientist. Most are marketers.
+
+These two wanted clinical-level science in formulas people could use at home.
+
+Then La Mer's marketing director saw their data and said, “That's sick!”
+
+Their answer? “No, that's science.” And that's how SickScience got its name.
+
+ShapeShift for the neck and jawline. NetWork for the face. PowerCycle for hair. DropOff for the body.
+
+Four products. Fourteen awards, including recognition from Oprah, InStyle, and Esquire.
+
+Science, but never boring.
+
+Bu metinde annesinin hikâyesi bir ürün iddiasına değil, kurucuların bilimi laboratuvar dışına taşıma motivasyonuna bağlanıyor. Exosome araştırmasının geçmişi ile kozmetik ürünlerin işlevleri birbirinden ayrı tutuluyor.
+
+3. Cümle–çizim eşleşmesi
+
+Bu bir final prodüksiyon storyboard'u değil; anlatıcı cümleleriyle senkronize ilerleyen ilk yaratıcı iskelet.
+
+Page 01 — Two geneticists, one decision
+
+Zaman
+
+	
+
+Anlatıcı bölümü
+
+	
+
+Defterde o anda oluşan çizim / yazı
+
+
+
+
+00–05
+
+	
+
+“For the first time, here's how SickScience began. With two geneticists.”
+
+	
+
+İki genetikçi figürü laboratuvar önlükleriyle çizilir. Üste küçük THE BEGINNING yazılır.
+
+
+
+
+05–11
+
+	
+
+“Polen Koçak-Denizci and Merve Yıldırım-Canpolat met in a chemistry and biology class in 2009.”
+
+	
+
+Figürlerin altına iki isim yazılır. Aralarına kimyasal bağ çizimi; [BIG, yellow] 2009.
+
+
+
+
+11–17
+
+	
+
+“They worked together for fourteen years. Both earned biotechnology PhDs at Yeditepe University.”
+
+	
+
+İki figürün altında birleşen bir zaman çizgisi. [BIG, yellow] 14 YEARS; yanına Yeditepe · PhD.
+
+
+
+
+17–23
+
+	
+
+“Polen was also a research scholar at Harvard–MIT Health Sciences and Technology.”
+
+	
+
+Polen figüründen çıkan ince çizgi, Harvard–MIT HST etiketine bağlanır. Küçük akademik not görünümü.
+
+
+
+
+23–30
+
+	
+
+“Together, they studied stem cell production, regenerative medicine, and exosome applications in cancer research.”
+
+	
+
+Üç küçük bilimsel eskiz: hücre, hücresel yenilenme şeması ve exosome taşıyıcıları. Altlarında kısa araştırma başlıkları.
+
+
+
+
+30–35
+
+	
+
+“Their work includes international patents and twenty to thirty peer-reviewed papers.”
+
+	
+
+Patent belgesi eskizi, makale sayfaları; [BIG, yellow] 20–30 PAPERS.
+
+
+
+
+35–43
+
+	
+
+“For Merve, the research was personal. Her mother had mesothelioma, with no treatment available.”
+
+	
+
+Sayfanın daha sakin, boşluklu bir bölümünde yalnızca küçük for mom notu. Hiçbir hastalık adı büyük yazılmaz; highlighter yok.
+
+
+
+
+43–48
+
+	
+
+“Their research was still preclinical when her mother passed away.”
+
+	
+
+Küçük preclinical research notu; ince bir yatay çizgi. Bu bölümde animasyon minimuma iner.
+
+
+
+
+48–51
+
+	
+
+“Afterward, they finished and published the research.”
+
+	
+
+Kapalı makale dosyası / yayınlanmış belge çizimi. published yazısı.
+
+
+
+
+51–55
+
+	
+
+“Then they made a decision: take science beyond the lab, into people's homes.”
+
+	
+
+in the lab yazılır, yalnızca lab üstü çizilir. Üstüne at home eklenir. Hikâyenin görsel kırılma anı.
+
+
+
+
+55–60
+
+	
+
+“At the center of their work were exosomes. Tiny carriers, roughly one-thousandth the size of a cell.”
+
+	
+
+Sayfanın altına büyük hücre ve yanında çok küçük exosome şeması. [BIG, yellow] 1/1000.
+
+
+
+
+60–64
+
+	
+
+“Like delivery drones, they carry coded messages between cells.”
+
+	
+
+İki hücre arasında mesaj taşıyan minik exosome çizimleri; yön okları. Buradan ikinci sayfaya geçiş.
+
+Page 02 — From plant messages to SickScience
+
+Zaman
+
+	
+
+Anlatıcı bölümü
+
+	
+
+Defterde o anda oluşan çizim / yazı
+
+
+
+
+64–69
+
+	
+
+“Their exosomes come from plants: pineapple, garlic, wheat, and radish.”
+
+	
+
+Dört küçük yuvarlak fotoğraf: FIG. 01 PINEAPPLE, FIG. 02 GARLIC, FIG. 03 WHEAT, FIG. 04 RADISH.
+
+
+
+
+69–75
+
+	
+
+“A library of thousands of plant messages. One hundred percent plant-based and vegan.”
+
+	
+
+Fotoğraflardan çıkan çizgiler bir örnek kütüphanesinde birleşir. [BIG, yellow] THOUSANDS; küçük 100% plant-based · vegan.
+
+
+
+
+75–84
+
+	
+
+“Then came NX35. A biomimetic platform combining exosome separation, room-temperature stabilization without a cold chain, and their plant library.”
+
+	
+
+[BIG, yellow] NX35; altında üç bağlı şema: SEPARATION → STABILIZATION → LIBRARY. Kenarda room temperature, no cold chain, biomimetic.
+
+
+
+
+84–89
+
+	
+
+“Why beauty? Everyone says they're a scientist. Most are marketers.”
+
+	
+
+Önce scientist? yazılır, üstü çizilir. Altına marketer. eklenir.
+
+
+
+
+89–94
+
+	
+
+“These two wanted clinical-level science in formulas people could use at home.”
+
+	
+
+Laboratuvar beheri ile evde kullanılan kozmetik şişesini bağlayan ok. LAB → HOME.
+
+
+
+
+94–100
+
+	
+
+“Then La Mer's marketing director saw their data and said, ‘That's sick!’”
+
+	
+
+Küçük veri grafiğinin yanında el yazısıyla büyük THAT'S SICK! Belirgin ama hâlâ siyah mürekkep.
+
+
+
+
+100–105
+
+	
+
+“Their answer? ‘No, that's science.’ And that's how SickScience got its name.”
+
+	
+
+Altına No, that's science. ve [BIG, violet] SICKSCIENCE yazılır.
+
+
+
+
+105–112
+
+	
+
+“ShapeShift for the neck and jawline. NetWork for the face. PowerCycle for hair. DropOff for the body.”
+
+	
+
+Dört basit ürün silüeti ve ürün adları sırayla: ShapeShift violet, NetWork red, PowerCycle green, DropOff cobalt. Her birinin altına uygulama bölgesi.
+
+
+
+
+112–116
+
+	
+
+“Four products. Fourteen awards, including recognition from Oprah, InStyle, and Esquire.”
+
+	
+
+[BIG, yellow] 14 AWARDS; yanında üç küçük basılı kaynak etiketi: Oprah, InStyle, Esquire.
+
+
+
+
+116–119
+
+	
+
+“Science, but never boring.”
+
+	
+
+İki sayfanın geniş açısına dönülür. Defterin altında dört gerçek ürün. Kapanış başlığı görünür.
+
+Zamanlar yaklaşık kurgu hedefleridir; seslendirme kaydındaki gerçek okuma hızına göre birkaç saniye değişebilir. Kaynakların görünme biçimi ve ödül bağlantıları finalde doğrulanmalı; burada yalnızca verilen bilgiler kullanıldı.
+
+4. İki sayfanın yerleşimi
+
+Karelerin içinde geniş bir defter göstereceğimiz için açılışta tüm detayların okunmasını beklememeliyiz. INO referansında olduğu gibi yakın çekimlerle sayfanın bölümlerine girilir. İki sayfanın tamamı yalnızca başta ve sonda görünür.
+
+Açık defterin planlanan yerleşimi
+
+LEFT PAGE · 00–64s
+THE BEGINNING
+
+POLEN
+
+MERVE
+
+2009
+14 YEARS
+
+Yeditepe · PhDs · Harvard–MIT
+
+PATENTS · 20–30 PAPERS
+
+for mom
+
+preclinical research
+
+in the lab
+
+at home
+
+1/1000
+
+RIGHT PAGE · 64–119s
+THE SCIENCE
+
+PINEAPPLE
+
+GARLIC
+
+WHEAT
+
+RADISH
+
+NX35
+
+SEPARATE · STABILIZE · LIBRARY
+
+scientist?
+
+marketer.
+
+LAB → HOME
+
+“THAT'S SICK!”
+
+No, that's science.
+
+SickScience
+14 AWARDS
+
+Oprah · InStyle · Esquire
+
+Bu bir şematik yerleşim planıdır; üretilmiş bir görsel veya final storyboard karesi değildir. Simgeler, fotoğraf ve çizimlerin konumlarını temsil ediyor.
+
+Sayfa geçiş mantığı: Sol sayfanın sonunda exosome taşıyıcıları çizilir. Kamera sağ sayfaya kayarken aynı bilimsel düşüncenin bitki kaynaklarına ve NX35 platformuna bağlandığını görürüz. Böylece sayfa değişimi yalnızca bir kurgu kesmesi değil, hikâyenin doğal devamı olur.
+
+Yaratıcı karar
+
+Ben bu aşamada iki sayfayı korurdum. Dört sayfaya bölmek, INO'daki en etkili şeyi — izleyicinin hikâyenin tek bir defterde biriktiğini hissetmesini — zayıflatabilir.
+
+SickScience'ın iki önemli farkını da korumak gerekiyor. Birincisi, markanın arkasındaki bilimsel geçmişi yalnızca diploma ve patent listesi gibi göstermemek; Merve'nin annesinin hikâyesini sakin bir dönüm noktası olarak kullanmak. İkincisi, exosome ve NX35 bölümlerini sadece kelimelerle açıklamamak; bunlar referanstaki bilimsel çizimlerin karşılığı olmalı.
+
+Kapanışta sayfanın tamamını gördüğümüzde, başlangıçtaki iki genetikçiden dört ürüne nasıl geldiğimizi tek bakışta anlayabilmeliyiz. Bu filmin temel kurgusal hedefi bu.
+
+ChatGPT can make mistakes. Check important info.
+Latest response
+
+
+
+
+Thinking effort
+High
+Response complete
+⋮⋮
+⋮⋮
+⋮⋮
+⋮⋮
