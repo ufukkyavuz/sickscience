@@ -1,5 +1,6 @@
 R = '/Users/ufo/Library/CloudStorage/GoogleDrive-ufukkyavuz51@gmail.com/.shortcut-targets-by-id/1yyhSrn9b9nAyKMqtNFz3D81sEOQiloUI/SickScience Brand Assets/All UGC'
 SRC = {
+ '12': R + '/DROPOFF - UGC/Angela - new dropoff ugc- .mp4',
  '11': '/Users/ufo/Library/CloudStorage/GoogleDrive-ufukkyavuz51@gmail.com/Drive\'ım/SickScience/_calisma/ugc-viral-2/src/edu.MOV',
  '01': R + '/SHAPESHIFT- UGC/TodayShow Edited Desktop.mp4',
  '02': R + '/DROPOFF - UGC/Yolande new dropoff ugc.mp4',

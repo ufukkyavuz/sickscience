@@ -17,3 +17,15 @@ Teslim: `Video/2026-11 Kasım/01 UGC/Viral UGC 3/` — motor `_calisma/ugc-viral
 - Kinetik başlıkta kelime/satır arası sıkı olmalı; büyük kelimeler yüzü/kanıtı kapatmaz.
 - Eklenen kart/fotoğraflar: ince beyaz kontur, kenardan ≥100 px boşluk, hafif yukarıda.
 - B/A fotoğrafı ürün alanına kırpılır (ShapeShift = çene/boyun).
+
+## 2026-11-13 · BF set kreatifleri, Cuma 13, UGC kart/ürün PNG düzeltmeleri
+- **Viral UGC 2 (10 video):** beyaz ürün adı kartı HER videoda vardı → kaldırıldı ("ai slop"); sol üstte ürün adının soluna gerçek ürün PNG'si (kutu/çizgi yok). Kart kodu pipeline'dan silindi.
+- **BF set görselleri** (`Products/sets-bf/`): Drive'ım/ad ss referanslarından her sete ayrı referans (yerleşim %'leri `prompts/batch-128-bf-set-layouts.md`), sahne referansa benzer ama beyaz ağırlıklı. DropOff HER ZAMAN kapaklı (açık/damlayan uç çizilmişti). Set PNG'lerinde tüp/SS 1.30 çıktı, kural 19/14/12 cm = 1.58 → elementler düzeltildi (`sets-fixed`).
+- **Fiyat:** %25/%30/%40 satış fiyatından (kullanıcı "ana fiyata göre"); maillerde ise üstü çizili fiyattan %25 → çelişki açık.
+- **Cuma 13:** Drive "Mail Alternatifleri (13 Kasım)" PDF'inden 4 konsept (`prompts/batch-130-friday13.md`), öncelik 1; 4 Story + Feed/Square üretildi.
+- **Figma bağlayıcısı** 500 verdi; Higgsfield MCP Claude Code'da Unlimited kapalı, Chrome profili kullanıcı hesabına bağlı değildi (Muse hesabı).
+
+## Öğrenilenler (2026-11-13)
+- Arşivli oturumlar aramada çıkmaz; ~/.claude/projects jsonl'lerini grep'le, gerekirse unarchive_session.
+- Referanstan sahne + yerleşim kopyalanır; palet beyaz ağırlıklı.
+- Giriş/onay/sözleşme sayfalarını kullanıcı verir; kendi başına hesap değiştirme.

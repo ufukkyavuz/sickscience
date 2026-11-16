@@ -1,0 +1,10 @@
+Higgsfield MCP ile 4 görsel üret: model nano_banana_pro, aspect_ratio 9:16, use_unlim true (sınırsız), tek tek, count 1. Ekli dosyalar: 1-4 = Pinterest "lab product" stil referansları, A-D = gerçek ürün set PNG'leri. Her görselde referans = SADECE stil/kompozisyon (cam tüpler, hortum, çelik tepsi, laboratuvar ışığı); ürünler = ilgili set PNG'si BİREBİR (şekil, renk, krom, etiket, boy oranı; DropOff tüpü HER ZAMAN kapaklı/kapalı). Beyaz ağırlıklı, bilimsel, temiz. Görselde yazı/logo YOK (sadece ürün etiketleri). Önce medyaları media_upload ile yükle, sonra generate_image ile yukarıdaki gibi üret, bitince görselleri göster.
+
+Konsept (13 Kasım mail alternatifleri: NewBeauty 100 ödülü + setlerde %25; "Cuma 13: zero bad luck detected, lab report"):
+
+1) [ref 1 + A Vault] "The Vault, opened": Vault seti (PowerCycle, DropOff, ShapeShift) parlak beyaz laboratuvar tezgâhında cam test tüpleri ve erlenlerin arasında, bir açık cam dolap/kasa hissi, soğuk beyaz-mavi ışık. Tüp/ShapeShift boyu 1.30, PowerCycle/ShapeShift 1.165.
+2) [ref 2 + B Award Duo] "Both winners, one set": ShapeShift + PowerCycle, şeffaf cam hortum halkalarının içinden/arasından geçen, havada hafif asılı, beyaz-mavi stüdyo; PowerCycle ShapeShift'ten %17 uzun.
+3) [ref 3 + C Sculpted Duo] "Lab report": ShapeShift + paslanmaz çelik gua sha, paslanmaz çelik laboratuvar tepsisinde, yanında petri kabı ve cam pipet, flat-lay üstten çekim, beyaz-gümüş ton. Gua sha düz paslanmaz çelik.
+4) [ref 4 + D GLP-1] "Specimen set": NetWork (kırmızı) + ShapeShift (mor) + gua sha, ölçü silindirleri ve beherler arasında, beyaz parlak yüzey, açık gri-beyaz arka plan. NetWork yazımı etikette 'NetWork'.
+
+Her prompt sonuna ekle: ultra photorealistic, hyperrealistic, indistinguishable from a real photograph, 8K detail. All product text must be perfectly legible, sharp and accurate. No text, letters or logos added to the scene except the original product labels. Real contact shadows and reflections, same light on products and glassware, subtle dust and grain. Negative: podium, plinth, open or uncapped tube, extra products, people, pasted look, dark or saturated background.

@@ -41,3 +41,5 @@ Related: [[reference-motion-tools]]
 **Long prompts (2026-10-30):** a long `computer type` can silently fail to reach the composer, and jobs then go out with only the element chip. Insert with JS `document.execCommand('insertText')`, then confirm the prompt on the first job before filling the queue.
 
 2026-11-02: raising the composer's count above 1/4 silently turns Unlimited OFF and the button becomes credit "Generate +N". Keep 1/4; for variations send the same prompt twice about 45 s apart. Lowering the count does not re-enable it, so check the toggle is green and the button reads UNLIMITED before clicking.
+
+**2026-11-13 update:** Higgsfield MCP from Claude Code says "unlimited generations are not available" (only Claude chat / Cowork / ChatGPT); account has ~10 credits. The Chrome profile used by Claude in Chrome is NOT signed in to the user's Higgsfield (shows "unknown", project page asks "Request access"). The user wants a different (Muse) account and will do the sign-in / media-upload agreement himself: never sign in or accept agreements for him, ask once and wait.

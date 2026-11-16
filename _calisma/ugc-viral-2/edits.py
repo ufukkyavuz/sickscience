@@ -34,8 +34,11 @@ E = {
           (15.9, 17.3, 'blue', 'PROTEINS', 'thin'), (18.6, 19.7, 'pink', 'LIPIDS', 'thin'), (21.2, 22.6, 'yellow', 'OTHER|MOLECULES', 'thin')],
      mini=[(34.2, 41.9)],
      trucks=[dict(app=9.0, cargo=[16.5, 19.6, 21.6], drive=(23.4, 26.9), hide=27.8), dict(app=47.6, cargo=[-1, -1, -1], drive=(49.6, 52.6), hide=52.99)]),
+ '12': dict(name='DropOff – After first', caps=True, zoom=False, pk='do', crop=(74, 265, 932, 1655), vstart={0: 22.4, 1: 12.0, 2: 27.0},
+     segs=[("And if you don't", 'my before'), ('and now here', "It's insane."), ('Imagine if science', 'your body.'), ('It tightens,', 'lifts your skin.'), ('Dropoff,', 'game changer.')]),
 }
 STYLE = {
+ '12': dict(cap='pop', big='pop', bpm=112, key='A'),
  '11': dict(cap='blur', big='spin', bpm=100, key='C'),
  '01': dict(cap='blur', big='drop', bpm=108, key='C'),
  '02': dict(cap='pop', big='spin', bpm=116, key='A', tick=True),
@@ -49,6 +52,7 @@ STYLE = {
  '10': dict(cap='drop', big='pop', bpm=112, key='C'),
 }
 BIG = {
+ '12': [('AFTER', 'before', 0, 'do'), ('BEFORE', 'after.', 1, 'do')],
  '01': [('INSANE', 'insane.', 0, 'ss')],
  '02': [('WORKOUT', 'workout', 0, 'do')],
  '03': [('CELLULITE', 'cellulite.', 2, 'do')],
@@ -87,4 +91,4 @@ MUSIC = {  # one different real track per video (Pixabay, from the INO library),
  '10': (PX + 'paulyudin-fashion-fashion-music-574009.mp3', 18), '11': (PX + 'amaksi-reflections-146299.mp3', 60),
 }
 
-SYNTH = {'01','02','03','04','05','06','07','08','09','10'}   # approved edits keep their original bed
+SYNTH = {'12','01','02','03','04','05','06','07','08','09','10'}   # approved edits keep their original bed

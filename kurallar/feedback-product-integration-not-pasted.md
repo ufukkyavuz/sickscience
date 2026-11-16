@@ -32,3 +32,5 @@ User, 2026-10-04: "ürün çok photoshopla koyulmuş gibi duruyo çoğu karede b
 Related: [[feedback-photographic-prompt-format]], [[feedback-product-text-white-and-network-spelling]].
 
 **2026-11-10 (user, angry, "kaç kere söyledim"):** NO cut pedestals / plinths / blocks and NO floors that end inside the frame — the ground must continue seamlessly to the frame edges. Also: an award visual must SAY "we won" in the image itself (e.g. the product with a real award object/plaque, celebration), not just a pretty product shot with a seal pasted on top ("ödül almışız, ne bu fotoğrafın amacı?").
+
+**2026-11-13 (user, Black Friday set visuals, "kurallara uymuyon… kaidenin üstüne koymuşsun"):** I copied Atria's "glass podium" look and broke the no-plinth rule again. A competitor reference never overrides this: set scenes also use a seamless glossy floor that runs out of the bottom toward the camera (ice-blue/white lab floor, soft reflection), NO podium/glass block/base edge. Re-read this file before writing any set prompt.

@@ -390,11 +390,11 @@ def truck_anim(fr, t, ev):
 SEGVID = os.path.expanduser('~/sickscience-work/tools/segvid')
 FM = os.path.expanduser('~/Library/Fonts/FoundersGrotesk-Medium.otf')
 PK = {k_: v_.get('pk', 'ss') for k_, v_ in E.items()}
-BIGY = {'05': 420}
+BIGY = {'05': 420, '12': 420}
 FORCE_FRONT = {'02'}
-BIGDUR = {('05', 'BEFORE'): 1.3, ('05', 'AFTER'): 2.0}
+BIGDUR = {('05', 'BEFORE'): 1.3, ('05', 'AFTER'): 2.0, ('12', 'AFTER'): 1.5, ('12', 'BEFORE'): 1.3}
 VHOLD = {('09', 2): 15.4}
-BIGSTART = {('08', 'BEFORE'): 0.0}
+BIGSTART = {('12', 'BEFORE'): 0.0, ('12', 'AFTER'): 0.0}
 PCOL = {'ss': (115, 0, 199), 'nw': (200, 30, 40), 'pc': (30, 130, 60), 'do': (25, 60, 190)}
 
 def envelope(src):

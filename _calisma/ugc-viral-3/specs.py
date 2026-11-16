@@ -17,13 +17,15 @@ SPEC = {
          dict(src=R + 'ref/berk_puffy_face.mp4', a=13.0, b=19.5, speed=1.5, crop='844:1490:118:430'),
          dict(src=R + 'ref/berk_puffy_face.mp4', a=20.3, b=25.8, speed=1.8, crop='844:1490:118:430'),
          dict(src=SDR + 'puffy_2946.mov', a=27.0, b=33.1, speed=1.3, crop='940:1670:70:150')],
-   texts=[(0.1, 2.0, 'puffy morning face?', 'pop', 1320, 84, W),
-          (2.0, 4.5, 'headband on', 'slide', 1320, 84, W),
-          (4.5, 7.96, 'NetWork,\nall over the face', 'slide', 1320, 84, W),
-          (7.96, 12.29, 'SickScience gua sha,\njaw & neck', 'slide', 1320, 84, W),
-          (12.29, 15.35, 'quick glam', 'slide', 1320, 84, W),
-          (15.6, 20.04, 'ready.', 'pop', 1320, 96, W)],
-   sfx=[(2.0, 'swish'), (4.5, 'swish'), (7.96, 'swish'), (12.29, 'swish'), (15.35, 'whoosh')]),
+   # kinetic words per step (land in turn, alternating sides), zoom punch + whoosh on every cut, pop per step, ding on 'ready'
+   kin=[(0.15, 2.0, [[('puffy', 86, W), ('morning', 86, W)], [('FACE?', 170, W)]], 1150),
+        (2.05, 4.5, [[('headband', 86, W)], [('ON', 170, W)]], 1150),
+        (4.55, 7.96, [[('NetWork', 150, W)], [('all over the face', 76, W)]], 1150),
+        (8.0, 12.29, [[('gua sha', 150, W)], [('jaw & neck', 86, W)]], 1150),
+        (12.33, 15.35, [[('quick', 86, W)], [('GLAM', 170, W)]], 1150),
+        (15.6, 20.0, [[('ready.', 190, W)]], 1180)],
+   punch=[2.0, 4.5, 7.96, 12.29, 15.35],
+   sfx=[(0.15, 'pop'), (2.1, 'pop'), (4.6, 'pop'), (8.05, 'pop'), (12.4, 'pop'), (15.6, 'ding')]),
 
  # ---------------------------------------------------------------- 2 · ShapeShift before/after (DropOff format)
  'B': dict(name='ShapeShift – That was my before', caps=True, fix={'before': 'before.', 'after': 'after.'},
@@ -33,14 +35,14 @@ SPEC = {
          dict(src=R + 'ssba_edit.mp4', a=8.05, b=10.12, audio=True),
          dict(src=SDR + 'ssba_2959.mov', a=2.0, b=3.6),
          dict(src=SDR + 'ssba_2961.mov', a=8.0, b=9.6),
-         dict(src=SDR + 'ssba_2961.mov', a=12.0, b=15.0),
+         dict(src=SDR + 'ssba_2961.mov', a=11.5, b=22.5, speed=1.35),   # Polen: application longer (was 3 s)
          dict(src=SDR + 'ssba_2962.mov', a=17.6, b=19.8)],
    inserts=[(1.67, 4.4, R + 'ss_before_jaw.jpg', 760, 390, 380, 'card', None)],
    texts=[(1.8, 4.4, 'BEFORE', 'pop', 600, 76, W, 760),
           (9.67, 11.27, 'ShapeShift', 'slide', 330, 110, W),
           (11.27, 12.87, '1–2 pumps', 'slide', 330, 100, W),
-          (12.87, 15.87, 'upward,\nneck to jaw', 'slide', 330, 100, W),
-          (15.87, 18.07, 'twice a day', 'slide', 330, 100, W)],
+          (12.87, 21.02, 'upward,\nneck to jaw', 'slide', 330, 100, W),
+          (21.02, 23.22, 'twice a day', 'slide', 330, 100, W)],
    big=[(5.03, 7.5, 'AFTER', 1480, W)],
    sfx=[(1.67, 'swish'), (5.03, 'swish')]),
 
@@ -102,3 +104,114 @@ SPEC = {
    punch=[1.6, 3.2, 4.8, 6.8, 8.8, 10.8, 12.2],
    sfx=[(0.0, 'swish')]),
 }
+
+
+# ---------------------------------------------------------------- R · ShapeShift – real customer review (Polen's footage + a real woman's review and her real before/after)
+import copy
+SPEC['R'] = copy.deepcopy(SPEC['B'])
+_R = SPEC['R']; _R['name'] = 'ShapeShift – Real customer review'; OFF = 4.6   # the real review opens the film
+_R['segs'] = [dict(src=R + 'review/review_card.mp4', a=0.0, b=4.6)] + _R['segs'][:4] + [dict(src=SDR + 'ssba_2961.mov', a=11.5, b=15.0, speed=1.35)]
+def _sh(lst): return [(x[0] + OFF, x[1] + OFF) + tuple(x[2:]) for x in lst]
+_R['texts'] = _sh([x for x in _R['texts'] if x[0] < 12.8] + [(12.87, 15.47, 'upward,\nneck to jaw', 'slide', 330, 100, W)])
+_R['inserts'] = _sh(_R['inserts']); _R['big'] = _sh(_R['big'])
+_R['sfx'] = [(x[0] + OFF,) + tuple(x[1:]) for x in _R['sfx']] + [(0.3, 'pop')]
+
+
+# ---------------------------------------------------------------- S · Success story (lab footage -> TODAY -> real review). Sound: stand-in Pixabay track; the Instagram sound (Tame Impala - Loser) is licensed and is added in the IG editor.
+DJ = "/Users/ufo/Library/CloudStorage/GoogleDrive-ufukkyavuz51@gmail.com/.shortcut-targets-by-id/1yyhSrn9b9nAyKMqtNFz3D81sEOQiloUI/SickScience Brand Assets/Videos/SickScience Lab Videos (Experiments)/"
+TODAY = "/Users/ufo/Library/CloudStorage/GoogleDrive-ufukkyavuz51@gmail.com/.shortcut-targets-by-id/1yyhSrn9b9nAyKMqtNFz3D81sEOQiloUI/SickScience Brand Assets/All UGC/SHAPESHIFT- UGC/TodayShow Edited Desktop.mp4"
+def _dj(n): return DJ + [f for f in __import__('os').listdir(DJ) if f'_00{n}_D' in f][0]
+SPEC['S'] = dict(name='SickScience – Success story from the lab', caps=False,
+   music=(PX + 'amaksi-reflections-146299.mp3', 20.0, 0),
+   segs=[dict(src=_dj(61), a=2.0, b=4.6, zoom=(1.0, 1.08)),            # scientist at the microscope
+         dict(src=_dj(60), a=3.0, b=5.2, zoom=(1.08, 1.0)),
+         dict(src=_dj(48), a=3.0, b=5.2, zoom=(1.0, 1.08)),
+         dict(src=_dj(53), a=3.0, b=5.0, zoom=(1.08, 1.0)),
+         dict(src=TODAY, a=9.0, b=12.0, crop='608:1080:656:0'),
+         dict(src=R + 'review/review_card.mp4', a=0.0, b=3.2),
+         dict(src=_dj(50), a=3.0, b=5.4, zoom=(1.0, 1.06))],
+   kin=[(0.2, 2.5, [[('5 YEARS', 170, W)], [('in a lab', 86, W)]], 1150),
+        (2.7, 4.7, [[('NO', 150, W)], [('shortcuts', 100, W)]], 1150),
+        (4.9, 6.9, [[('ONE', 150, W)], [('formula', 100, W)]], 1150),
+        (7.1, 9.0, [[('then it', 100, W)], [('WORKED', 160, W)]], 1150),
+        (9.2, 12.1, [[('seen on', 90, W)], [('TODAY', 170, W)]], 1150),
+        (15.2, 17.5, [[('just getting', 90, W)], [('STARTED', 170, W)]], 1150)],
+   punch=[2.6, 4.8, 7.0, 9.1, 12.2], sfx=[(0.2, 'pop'), (2.7, 'pop'), (4.9, 'pop'), (7.1, 'pop'), (9.2, 'ding')])
+
+import copy as _c
+SPEC['S2'] = _c.deepcopy(SPEC['S']); SPEC['S2']['name'] = 'SickScience – Success story (müziksiz, IG sesi için)'
+SPEC['S2']['music'] = (PX + 'amaksi-reflections-146299.mp3', 20.0, -80)
+SPEC['S2']['sfx'] = []
+
+
+# ---------------------------------------------------------------- S3 · Success story cut to the reel sound (user-supplied file, ~83 BPM, drop at 9.98 s, beat = 0.719 s)
+REEL = R + 'reel/reel_audio.wav'
+SPEC['S3'] = dict(name='SickScience – Success story (reel sesiyle)', caps=False,
+   music=(REEL, 0.0, 0),
+   segs=[dict(src=_dj(61), a=2.0, b=4.79, zoom=(1.0, 1.08)),
+         dict(src=_dj(60), a=3.0, b=5.87, zoom=(1.08, 1.0)),
+         dict(src=_dj(48), a=3.0, b=5.88, zoom=(1.0, 1.08)),
+         dict(src=_dj(53), a=3.0, b=4.44, zoom=(1.08, 1.0)),
+         dict(src=TODAY, a=9.0, b=10.44, crop='608:1080:656:0'),
+         dict(src=TODAY, a=21.7, b=22.78, crop='608:1080:230:0'),
+         dict(src=TODAY, a=22.78, b=23.86, crop='608:1080:690:0'),
+         dict(src=R + 'review/review_card_fast.mp4', a=0.0, b=2.88),
+         dict(src=_dj(50), a=3.0, b=4.54, zoom=(1.0, 1.06))],
+   kin=[(0.2, 2.7, [[('5 YEARS', 170, W)], [('in a lab', 86, W)]], 1150),
+        (2.95, 5.6, [[('NO', 150, W)], [('shortcuts', 100, W)]], 1150),
+        (5.8, 8.5, [[('ONE', 150, W)], [('formula', 100, W)]], 1150),
+        (8.6, 9.95, [[('then it', 100, W)]], 1150),
+        (10.0, 11.4, [[('WORKED', 190, W)]], 1150),
+        (11.5, 13.5, [[('seen on', 90, W)], [('TODAY', 170, W)]], 1150),
+        (16.5, 17.95, [[('just getting', 90, W)], [('STARTED', 170, W)]], 1150)],
+   punch=[2.79, 5.66, 8.54, 9.98, 11.42, 13.58, 16.46], sfx=[])
+
+
+# ---------------------------------------------------------------- S4 · Success story v2 (reel sound; nicer lab shots; no review at the end)
+_NM = [l.strip() for l in open('/private/tmp/claude-501/lab/names.txt')]
+def _ix(i): return DJ + _NM[i - 1]
+SPEC['S4'] = dict(name='SickScience – Success story v2 (reel sesiyle)', caps=False,
+   music=(REEL, 0.0, 0),
+   segs=[dict(src=_ix(3), a=37.0, b=39.79, zoom=(1.0, 1.08)),                 # scientist over the magenta rack
+         dict(src=_ix(9), a=6.0, b=8.87, zoom=(1.08, 1.0)),                  # pipette over the plate
+         dict(src=_ix(18), a=4.2, b=7.08, zoom=(1.0, 1.06)),                 # microscope screen, purple cells
+         dict(src=_ix(22), a=3.0, b=4.44, zoom=(1.06, 1.0)),                 # hand marks the pink plate
+         dict(src=TODAY, a=9.0, b=10.44, crop='608:1080:656:0'),
+         dict(src=TODAY, a=21.7, b=22.78, crop='608:1080:230:0'),
+         dict(src=TODAY, a=22.78, b=23.86, crop='608:1080:690:0'),
+         dict(src=_ix(26), a=2.0, b=4.88, zoom=(1.0, 1.08)),                 # pipetting red medium
+         dict(src=_ix(7), a=14.0, b=15.54, zoom=(1.0, 1.05))],               # smiling scientist
+   kin=[(0.2, 2.7, [[('5 YEARS', 170, W)], [('in a lab', 86, W)]], 340),
+        (2.95, 5.6, [[('NO', 150, W)], [('shortcuts', 100, W)]], 340),
+        (5.8, 8.5, [[('ONE', 150, W)], [('formula', 100, W)]], 340),
+        (8.6, 9.95, [[('then it', 100, W)]], 340),
+        (10.0, 11.4, [[('WORKED', 190, W)]], 340),
+        (11.5, 13.5, [[('seen on', 90, W)], [('TODAY', 170, W)]], 340),
+        (13.7, 16.4, [[('backed by', 90, W)], [('SCIENCE', 170, W)]], 340),
+        (16.5, 17.95, [[('just getting', 90, W)], [('STARTED', 170, W)]], 340)],
+   punch=[2.79, 5.66, 8.54, 9.98, 11.42, 13.58, 16.46], sfx=[])
+
+
+# ---------------------------------------------------------------- S5 · Success story v3: lab -> Ulta shelves at the drop (10 s) -> launch/team events -> ends with the founders
+VID = "/Users/ufo/Library/CloudStorage/GoogleDrive-ufukkyavuz51@gmail.com/.shortcut-targets-by-id/1yyhSrn9b9nAyKMqtNFz3D81sEOQiloUI/SickScience Brand Assets/Videos/"
+ULTA1 = VID + 'ultavids1.mp4'; LAUNCH = VID + 'Sickscience ULTA LAUNCH .mp4'
+SPEC['S5'] = dict(name='SickScience – Success story v3 (reel sesiyle)', caps=False,
+   music=(REEL, 0.0, 0),
+   segs=[dict(src=_ix(3), a=37.0, b=39.79, zoom=(1.0, 1.08)),
+         dict(src=_ix(9), a=6.0, b=8.87, zoom=(1.08, 1.0)),
+         dict(src=_ix(18), a=4.2, b=7.08, zoom=(1.0, 1.06)),
+         dict(src=_ix(22), a=3.0, b=4.44, zoom=(1.06, 1.0)),
+         dict(src=ULTA1, a=14.5, b=15.94, zoom=(1.0, 1.06)),                 # drop: SickScience display on the Ulta shelf
+         dict(src=ULTA1, a=10.5, b=12.66, zoom=(1.0, 1.05)),                 # Ulta shelves
+         dict(src=LAUNCH, a=10.0, b=11.44, zoom=(1.0, 1.05)),                # team in lab coats at the Ulta counter
+         dict(src=LAUNCH, a=4.6, b=6.04, zoom=(1.0, 1.05)),                  # founders cut the Ulta ribbon
+         dict(src=LAUNCH, a=35.0, b=36.54, zoom=(1.04, 1.0))],               # founders with the product (end)
+   kin=[(0.2, 2.7, [[('5 YEARS', 170, W)], [('in a lab', 86, W)]], 340),
+        (2.95, 5.6, [[('NO', 150, W)], [('shortcuts', 100, W)]], 340),
+        (5.8, 8.5, [[('ONE', 150, W)], [('formula', 100, W)]], 340),
+        (8.6, 9.95, [[('then it', 100, W)]], 340),
+        (10.0, 11.4, [[('WORKED', 190, W)]], 340),
+        (11.5, 13.5, [[('now at', 90, W)], [('ULTA', 170, W)]], 340),
+        (13.7, 16.4, [[('backed by', 90, W)], [('SCIENCE', 170, W)]], 340),
+        (16.5, 17.95, [[('just getting', 90, W)], [('STARTED', 170, W)]], 340)],
+   punch=[2.79, 5.66, 8.54, 9.98, 11.42, 13.58, 16.46], sfx=[], sfx_db=-9)

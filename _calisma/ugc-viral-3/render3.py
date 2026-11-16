@@ -292,10 +292,10 @@ def render(k, S):
     if speech:
         graph = (f'[0:a]highpass=f=90,afftdn=nf=-30,acompressor=threshold=0.08:ratio=3:attack=8:release=120:makeup=2,loudnorm=I=-16:TP=-2,aresample={SR},asplit[vA][vB];[1:a]aresample={SR},aformat=channel_layouts=stereo,volume={mgain}dB,'
                  f'afade=t=in:d=0.3,afade=t=out:st={total - 1.2}:d=1.2[mu];[mu][vA]sidechaincompress=threshold=0.02:ratio=8:attack=15:release=400[md];'
-                 f'[2:a]aresample={SR}[fx]{extra};{tail}amix=inputs={n}:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[mx]')
+                 f'[2:a]aresample={SR},volume={S.get("sfx_db", 0)}dB[fx]{extra};{tail}amix=inputs={n}:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[mx]')
     else:
         graph = (f'[0:a]aresample={SR}[vB];[1:a]aresample={SR},aformat=channel_layouts=stereo,afade=t=in:d=0.15,afade=t=out:st={total - 1.0}:d=1.0[md];'
-                 f'[2:a]aresample={SR}[fx]{extra};{tail}amix=inputs={n}:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[mx]')
+                 f'[2:a]aresample={SR},volume={S.get("sfx_db", 0)}dB[fx]{extra};{tail}amix=inputs={n}:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[mx]')
     sh(f'ffmpeg -loglevel error -y {inputs} -filter_complex "{graph}" -map "[mx]" -t {total} -ar {SR} "{d}/mix.wav"')
     o = subprocess.run(['ffmpeg', '-nostats', '-i', f'{d}/mix.wav', '-af', 'ebur128', '-f', 'null', '-'], capture_output=True, text=True).stderr
     import re as _re
