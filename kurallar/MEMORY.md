@@ -118,6 +118,11 @@
 - [No tiny text, be smart](feedback-no-tiny-text-be-smart.md) — awards series 2026-11-13: one big headline + big official badge + one price line; no micro captions
 - [Set visuals: reference scene + white](feedback-set-visuals-reference-scene-white.md) — BF set ads copy the ad-ss reference's scene and layout, white-dominant palette
 - [Friday the 13th campaign](project-friday13-mail-concepts.md) — Drive mail alternatives folder, 4 concepts, price-base conflict (mail = % of crossed-out price)
+- [Feed/Square price in top band](feedback-feed-square-price-top-band.md) — price lines under the headline, not over products in crops; screenshot every format; headline ≤960 px
 - [Archived session access](reference-session-archive-access.md) — transcript search skips archived; grep ~/.claude/projects jsonl; unarchive_session tool
 
 - [Price base = regular price](feedback-price-base-regular-price.md) — campaign % applies to site regular/compare_at price by date; verify on site
+- [Motion text library](feedback-motion-brand-kit.md) — open, varied text animations (textfx, 41 effects); only Founders fixed, colours/effect mixing free per scene
+- [Figma tidy system](feedback-figma-tidy-system.md) — colour variables, SS text styles, copy component per concept with format instances, column per concept
+- [Headline + layout by eye](feedback-default-headline-medium.md) — user video 2026-11-16: Medium headline sized to free area, no photo edge seam, logo optional, Feed/Square = 9:16 master behind text + Expand, ink not partner colour, threshold-only shipping seal, NX35™ badges
+- [Clever poster ads ref](reference-clever-poster-ads.md) — X @TheXEffect_ 20 posters: brand asset fused with familiar idea + one witty line; make a few for SickScience at intervals

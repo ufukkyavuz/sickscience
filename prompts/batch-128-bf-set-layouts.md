@@ -31,17 +31,17 @@ Kaynak: Drive'ım/ad ss/ (6 jpg + 18 PNG, hepsi tek tek tam boyutta incelendi; P
 
 Marka kuralları: Founders Grotesk (condensed yok), min 32 px, safe zone (üst 270 / alt 1250), tarih yok (LIMITED TIME, GUA SHA INCLUDED rozet), free shipping yalnız indirimli fiyat > $75 ise yuvarlak beyaz mühür + magenta kamyonet, dipnot yok.
 
-## Fiyat tablosu (kullanıcı kararı: taban = sitedeki güncel satış fiyatı, üstü çizili eski fiyat DEĞİL)
-Dönem (tarih yazılmaz, rozetle anlatılır): Early BF = setlerde %25 · Black Friday = tüm marka %30 · Cyber Monday = tüm marka %40.
-| Set | Ana fiyat | EBF %25 | BF %30 | CM %40 |
+## Fiyat tablosu (kullanıcı kararı 2026-11-16: taban = NORMAL / üstü çizili compare_at fiyat; dönem yüzdesi buna uygulanır; eski "satış fiyatı tabanı" YANLIŞTI)
+Normal fiyatlar: Vault 180 · Award Duo 128 · Head-to-Toe 116 · Body Duo 116 · Sculpted 88 · GLP-1 162 (tekler SS 64, NW 74, PC 64, DO 52).
+| Set | Normal | EBF %25 | BF %30 | CM %40 |
 |---|---|---|---|---|
-| Vault | 144 | **108.00** 🚚 | **100.80** 🚚 | **86.40** 🚚 |
-| Award Duo | 108 | **81.00** 🚚 | **75.60** 🚚 | 64.80 |
-| Head-to-Toe | 104 | **78.00** 🚚 | 72.80 | 62.40 |
-| Body Duo | 98 | 73.50 | 68.60 | 58.80 |
-| Sculpted Duo | 79 | 59.25 | 55.30 | 47.40 |
-| GLP-1 | 137 | **102.75** 🚚 | **95.90** 🚚 | **82.20** 🚚 |
-🚚 = indirimli fiyat > $75 → yuvarlak beyaz mühür + magenta kamyonet (FREE SHIPPING). Diğerlerinde mühür yok.
+| Vault | 180 | **135** 🚚 | **126** 🚚 | **108** 🚚 |
+| Award Duo | 128 | **96** 🚚 | **89.60** 🚚 | **76.80** 🚚 |
+| Head-to-Toe | 116 | **87** 🚚 | **81.20** 🚚 | 69.60 |
+| Body Duo | 116 | **87** 🚚 | **81.20** 🚚 | 69.60 |
+| Sculpted Duo | 88 | 66 | 61.60 | 52.80 |
+| GLP-1 | 162 | **121.50** 🚚 | **113.40** 🚚 | **97.20** 🚚 |
+🚚 = sonuç > $75 → yuvarlak beyaz mühür + magenta kamyonet (FREE SHIPPING). Diğerlerinde mühür yok.
 Ulta kreatiflerinde dolar yok, yalnız yüzde.
 
 ## Durum (2026-11-13)
@@ -50,5 +50,5 @@ Ulta kreatiflerinde dolar yok, yalnız yüzde.
 
 ## Müşteri/ajans mail alternatifleri (Drive: "SickScience – Mail Alternatifleri (13 Kasım)", 3 PDF + 1 GIF) — 2026-11-13
 - Konu: **NewBeauty 100** (yeni ödül: "one of 100 brands shaping the future of beauty", Skincare, hero pick ShapeShift) + **sets 25% off**; tema "Friday the 13th" (bad luck $0, lab report, arcade/error 13, tarot, newspaper EXTRA!, vault combination 11-13). Free shipping over $75. Not: "25% off applies to select sets; single serums and travel sets not included".
-- **Mail fiyat tabanı = ÜSTÜ ÇİZİLİ fiyattan %25:** Vault $135 (was $180), Award Duo $96 (was $128), GLP-1 $121.50 (was $162), Body Duo $87 (was $116). Yani yukarıdaki "satış fiyatından" tablosu mail ile ÇELİŞİYOR. Kullanıcı "ana fiyata göre" dedi: ana fiyat = üstü çizili mi, güncel satış mı? Müşterinin kendi mailleri üstü çizili tabanı kullanıyor → TEYİT bekliyor.
+- **Mail fiyat tabanı = üstü çizili (normal) fiyattan %25** — 2026-11-16 kullanıcı teyidi: doğru taban bu; yukarıdaki tablo güncellendi.
 - Reklam tasarımlarında NewBeauty 100 ödülü ana mesaj olabilir; resmi logo yoksa tipografik rozet (kural: yayın logosu izinsiz kullanılmaz).

@@ -68,6 +68,25 @@ Teknik prompt kuralları INO projesiyle aynı. Tam kural seti: `../INO Claude Ad
 - Font: Founders Grotesk / Neue Haas plugin ortamında YOK → Inter (Black/Bold/Semi Bold) + IBM Plex Mono eyebrow. Logo: "Sick" beyaz/siyah + "Science" #A921C0.
 - Story frame'lerinde gizli/kilitli "Meta safe zone guide" katmanı var (aç-kapa ile kontrol).
 
+## Figma düzen sistemi (2026-11-16, kullanıcı: "figmada daha derli toplu, daha düzenli, kurallara uyarak")
+- **Renk = değişken:** `SickScience / Color` koleksiyonu (signal/01–04 ürün renkleri, neutral/ink·graphite·white·lab·ivory, accent/magenta·chrome). Yeni işte hex yazılmaz, değişkene bağlanır.
+- **Varsayılan başlık görünümü (kullanıcı, 2026-11-16):** STİL olarak Founders Grotesk Medium, sıkı satır aralığı (~%100), harf aralığı 0 (Figma stili `SS / Headline Medium`). **Punto sabit değil** (kullanıcı: "standart 130 px kullanmana gerek yok… referanslara göre, görselin içinde kalan yazı alanına göre ayar çekmen lazım"): boyut ve yerleşim referansa ve görseldeki boş alana göre ayarlanır. Yerine göre başka kalınlıklar da kullanılabilir.
+- **Yerleşim göz kararı (kullanıcının Figma videosu, 2026-11-16):**
+  - Fotoğrafın kenarı frame zemininde asla görünmez; renk yakın olsa da fotoğraf büyütülüp kapatılır.
+  - Başlık boş alana göre ayarlanır; yer varsa tek satır, alt satır ~45.
+  - Logo zorunlu değil, alan yoksa kaldırılır ya da küçülür.
+  - Feed/Square'de 9:16 master yazının arkasına konup ölçeklenir, yanlar boş kalırsa Figma Expand kullanılır.
+  - Yazı zemine göre siyah ya da beyaz. Partner (Ulta) kimliği alttan yedirilir: Ulta renginde kalemle çizilmiş alt çizgi, fosforlu kalem izi ya da hafif glow. Tamamen turuncu başlık yok (kullanıcı: "direkt göze sokmak değil, fikri alttan yedirmek daha premium").
+  - Free shipping mührü sadece eşik geçilince ve hafif mor gölgeyle kullanılır.
+  - Özellik rozeti kullanılabilir: NX35 + küçük ™, arkada molekül olabilir.
+  - Yaratıcı rozetler serbest. Hediye rozeti çok işe yarar; hediye ve eşik teyitliyse kullanılır.
+  - Bizi öne çıkaran bileşenler (NX35 ananas eksozomu vb.) sade, şık, bilimsel görsellerle gösterilebilir.
+  - **Reklam metni yaratıcı olabilir** (kullanıcı, 2026-11-16): akıllıca kelime oyunları, basit zekice reklamlar. Ürün iddiası, istatistik, bileşen ve fiyat yine siteden doğru alınır.
+- **Yazı = text style:** `SS / Display Light` 140 · `SS / Display Light Italic` 140 · `SS / Body` 40 · `SS / Label` 32 (Founders Grotesk, harf aralığı 0, satır aralığı Auto). Gerekirse yeni stil eklenir, serbest punto yazılmaz.
+- **Metin bloğu = component:** konsept başına bir copy component'i (ör. `HE / Copy / A`, TEXT property Headline/Sub + BOOLEAN `Show sub`). Story/Feed/Square bu component'in instance'ı; metin bir kez değişir, üç format birden güncellenir. Formata özel renk/gizleme instance override ile yapılır.
+- **Sayfa düzeni:** bir sayfa/section = bir seri; konsept başına bir sütun, yukarıdan aşağı Story → Feed → Square; ayrı "Bileşenler" section'ı. Layer adları sabit: `Photo`, `Karartma`, `Copy`, logo instance'ı.
+- Örnek: sayfa "High-end · Kasım 2026" (2022:14).
+
 ## Figma tipografi kuralı (kullanıcı, 2026-10-01: "saçma ai slop işlerinden vazgeç")
 Referans = Higgsfield batch-01'in kendi tipografisi (`_calisma/batch-01/`). Şablon görünümlü düzen YASAK: mono "eyebrow" etiketler, metin olarak yazılmış logo, sola yaslı aynı blok her görselde, her yere hap buton.
 - Başlık TEK güçlü satır/iki satır, BÜYÜK HARF: geniş sahnelerde Inter Bold ortalı (THE VAULT IS OPEN), editoryal/ölçü sahnelerinde Anton kondanse (SCULPTED IN 2 WEEKS*, SMOOTHER. MEASURED.). Satırı kadraj genişliğine fit et.
@@ -192,6 +211,9 @@ Tüm formatlar 1080 px genişlik; telefonda ~1/3 ölçekte görünür. Bu yüzde
 - **Yazı hizası referansınkiyle aynıdır** (Prequel referansları = ortalı; kullanıcı, 2026-10-27). Ürüne binmesin diye yazı sağ/sol kolona itilmez; fotoğraf ya da kırpım değiştirilir.
 - Site metinlerinin birebir kopyası (About, NX35, DropOff ve NetWork Key Benefits): memory `sickscience-site-copy-snippets.md`.
 - Dekupe aracı (Vision): `tools/vision-lift.md`.
+
+## Video yazı animasyonları (kullanıcı, 2026-11-16)
+- Yazı animasyonları çeşitli ve sahneye göre seçilir: kütüphane `_calisma/textfx/textfx.py` (41 efekt), katalog `_calisma/textfx/out/textfx-catalogue.mp4`. Sabit olan sadece Founders Grotesk ve okunurluk; renk, efekt karışımı, kelime başına farklı efekt serbest ("değişime ve farklı stillere açık olmalıyız"). Ayrıntı: **[MOTION-BRAND-KIT.md](MOTION-BRAND-KIT.md)**.
 
 ## Video üretim kapıları — ZORUNLU (kullanıcı, 2026-10-21: "boktan videolar yapma, adamlar her şeyi anlatmış")
 Her videoda sırasıyla şunlar yapılır:
