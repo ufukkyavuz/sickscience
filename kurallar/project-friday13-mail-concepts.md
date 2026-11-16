@@ -9,4 +9,4 @@ Müşteri/ekip Drive klasörü "SickScience – Mail Alternatifleri (13 Kasım)"
 
 **İçerik:** NewBeauty 100 ödülü ("one of 100 brands shaping the future of beauty", Skincare, hero pick ShapeShift) + setlerde 25% OFF, $75 üstü free shipping. Tema: bad luck $0 fişi, ERROR 13 pencereleri, siyah kedi "13", tarot XIII; slogan "We don't believe in bad luck. We believe in data."
 **Konseptler (yazısız üretim):** kırık ayna, merdiven altı, tarot, fiş kâğıdı — `prompts/batch-130-friday13.md`.
-**Fiyat çelişkisi:** mailler %25'i ÜSTÜ ÇİZİLİ fiyattan hesaplıyor (Vault $135/$180, Award Duo $96/$128, Body Duo $87, GLP-1 $121.50); kullanıcı "ana fiyata göre" dedi (site satış fiyatı: Vault $108). Mail tabanı kullanıcıyla netleşmedi, görselde hangisi yazılıyorsa söyle.
+**Fiyat:** çelişki çözüldü (2026-11-16): taban normal/üstü çizili fiyat, mailler doğru; bkz. [[feedback-price-base-regular-price]].

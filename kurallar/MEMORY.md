@@ -117,7 +117,7 @@
 - [Set elements true scale](feedback-set-elements-true-scale.md) — vault/body-duo/head-to-toe elements fixed to tube19/PC14/SS12; set PNGs in Products/sets had wrong 1.30 ratio; Award Duo size question open
 - [No tiny text, be smart](feedback-no-tiny-text-be-smart.md) — awards series 2026-11-13: one big headline + big official badge + one price line; no micro captions
 - [Set visuals: reference scene + white](feedback-set-visuals-reference-scene-white.md) — BF set ads copy the ad-ss reference's scene and layout, white-dominant palette
-- [UGC product PNG beside name](feedback-ugc-product-png-beside-name.md) — small real PNG left of plain product-name text, no card
 - [Friday the 13th campaign](project-friday13-mail-concepts.md) — Drive mail alternatives folder, 4 concepts, price-base conflict (mail = % of crossed-out price)
 - [Archived session access](reference-session-archive-access.md) — transcript search skips archived; grep ~/.claude/projects jsonl; unarchive_session tool
 
+- [Price base = regular price](feedback-price-base-regular-price.md) — campaign % applies to site regular/compare_at price by date; verify on site
